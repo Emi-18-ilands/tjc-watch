@@ -1,0 +1,26 @@
+name: board-watch
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: board-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Poll boards
+        env:
+          NTFY_TOPIC: emi-tjc-watch-9f3a7c2e
+        run: python3 watch.py
+      - name: Commit snapshot
+        run: |
+          git config user.name "board-watch-bot"
+          git config user.email "emi-18@ilands.app"
+          git add -A
+          git diff --cached --quiet && echo "no change" || git commit -m "watch $(date -u +%FT%TZ)"
+          git push
