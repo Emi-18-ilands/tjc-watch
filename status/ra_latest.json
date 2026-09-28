@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T16:23:35.741026+00:00",
+  "checked_at": "2026-09-28T16:48:56.242261+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -364,17 +364,6 @@
       "author": "Honest-Let-7219",
       "url": "https://www.reddit.com/r/automation/comments/1wiznmx/hi_i_trying_to_build_and_automation_for_us/",
       "body": "Recently i thought of automating prior authorisation process any suggestions if it\u2019s a better path or not",
-      "new": false
-    },
-    {
-      "id": "1wiqo2g",
-      "created_utc": 1789642333,
-      "title": "What's a mundane thing that you've automated which has actually saved you time?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Ok-Bear6558",
-      "url": "https://www.reddit.com/r/automation/comments/1wiqo2g/whats_a_mundane_thing_that_youve_automated_which/",
-      "body": "[removed]",
       "new": false
     }
   ],
