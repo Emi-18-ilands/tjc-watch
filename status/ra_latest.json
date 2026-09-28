@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-28T15:54:54.959674+00:00",
+  "checked_at": "2026-09-28T15:55:19.360844+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "rgc4444",
       "url": "https://www.reddit.com/r/automation/comments/1wsembm/im_maintaining_a_curated_calendar_of_major/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wrwptv",
@@ -23,7 +23,7 @@
       "author": "Vivid_Complaint625",
       "url": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wrp1io",
@@ -34,7 +34,7 @@
       "author": "OwlZealousideal4779",
       "url": "https://www.reddit.com/r/automation/comments/1wrp1io/has_anyone_found_a_good_way_to_automate_customer/",
       "body": "I\u2019ve been thinking about this lately because a lot of businesses are automating their customer communication now, but some of the messages still feel super... automated lol. Ideally, I\u2019d want a setup where things like follow-ups, appointment reminders, FAQs, and lead responses can happen automatically, while still keeping the conversation natural. Curious what everyone here is using for this kind of workflow. Are you building it with n8n/Make/Zapier + different messaging APIs, or using an all-in-one platform? ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wrly8p",
@@ -45,7 +45,7 @@
       "author": "yawning42",
       "url": "https://www.reddit.com/r/automation/comments/1wrly8p/how_would_you_automate_family_inventory_cards/",
       "body": "I'm sketching a workflow for cataloging dozens of family objects during a move. If I merge different accounts into one neat paragraph, I could turn a guess into family history. Take a hypothetical chipped bowl: one person says the family bought it at a yard sale; another says a neighbor gave it to them. I would keep both accounts until someone finds better evidence. When someone adds an object, the inventory would create a blank card with an ID. A family member would attach a photo and record each account separately, including who shared the memory and that person's confidence in it. The AI wo",
-      "new": true
+      "new": false
     },
     {
       "id": "1wrft26",
@@ -56,7 +56,7 @@
       "author": "TearsP",
       "url": "https://www.reddit.com/r/automation/comments/1wrft26/looking_for_an_automation_agency_in_nyc/",
       "body": "With experience please! Thanks ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wr24r2",
@@ -67,7 +67,7 @@
       "author": "pigeonnstory",
       "url": "https://www.reddit.com/r/automation/comments/1wr24r2/anyone_actually_using_ai_agents_without/",
       "body": "64, PT, small clinic in Iowa. Been messing with this stuff for a few years now, mostly reminders and billing followups. Nothing sophisticated. Just a few no-code tools that mostly do what I need. I keep seeing people talk about AI agents doing whole workflows, so I tried using one for insurance verification. Tried it a few different ways actually. Never got very far. At best it would pull some info together and write an email, but I still had to look it over and send it myself. Has anyone here actually gotten past that point? Like given an agent something boring but real and had it handle the ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wr0xmv",
@@ -78,7 +78,7 @@
       "author": "Famous-Substance3339",
       "url": "https://www.reddit.com/r/automation/comments/1wr0xmv/what_tools_do_you_use_instead_of_power_automate/",
       "body": "I'm working on setting up proper rules and structure for Power Automate at my company, separate areas for building, testing, and going live, plus who's allowed to build things. We inherited a bit of a mess, around 70 automations with no real order, everyone using their own personal accounts, no consistent naming. We're in the middle of tidying it all up. This has got me wondering what other people use. So a few questions for anyone managing automation at their company: * Do you still use Power Automate, or have you switched to something else (like Zapier, Make, n8n, UiPath, or something custom",
-      "new": true
+      "new": false
     },
     {
       "id": "1wqidoe",
@@ -89,7 +89,7 @@
       "author": "Ultimitehand",
       "url": "https://www.reddit.com/r/automation/comments/1wqidoe/how_to_automate_crystal_reports_with_an_llm/",
       "body": "I'm attempting to build an MCP server that can open a Crystal Reports file, find fields, read and edit formulas, and export the file as PDF. I attempted using a computer use agent, however, this is quite fragile and error prone. I have already tried the following: * Using **Power Automate** to script actions and execute them from the MCP Server: Crystal Reports doesn't expose a UI tree beyond \"Pane 1, Pane 2, ...\" * Using libraries like RPT RS: Read-only, no way to correctly save the report back Is there a way to easily manage a .rpt file with an LLM?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wq83o7",
@@ -100,7 +100,7 @@
       "author": "QuayToTheTruth",
       "url": "https://www.reddit.com/r/automation/comments/1wq83o7/anybody_from_the_uk_own_a_ghl_saas/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wq2isj",
@@ -111,7 +111,7 @@
       "author": "tototoru",
       "url": "https://www.reddit.com/r/automation/comments/1wq2isj/to_ai_or_not_to_ai_the_question_is_what_to_ai_and/",
       "body": "We faced that problem on an OCR project, where the products on supplier invoices had to be matched to a client's catalog. Suppliers often use their own names and SKUs, not the client's. With large-context models and a catalog under 5K products, we could get away with sending the whole catalog with every invoice. We'd get a mostly correct result, but we'd burn billions of tokens for the number of invoices we had to process, so we made AI the last step instead. An invoice line gives you up to three clues. A barcode is the best clue: exact match or nothing, and its last digit is calculated from t",
-      "new": true
+      "new": false
     },
     {
       "id": "1wprn8v",
@@ -122,7 +122,7 @@
       "author": "harij21",
       "url": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
       "body": "We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadsheet. It's error-prone and it doesn't scale. What I'm after: \\- A key per client with its own usage limits \\- Per-key analytics I can export or show the client \\- One invoice for us, with clean per-client breakdowns for re-billing My current plan is to give each client its own key on llmapi.ai and use its per-key usage limits and analytics, so all clients end up on one bill. Is anyone doing it this way? Or is it better ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wp6dxw",
@@ -133,7 +133,7 @@
       "author": "KateBishop269",
       "url": "https://www.reddit.com/r/automation/comments/1wp6dxw/selfhosting_n8n_trigger_cold_outreach_off_crm/",
       "body": "Technical co-founder, self host n8n instead of Zapier mostly for cost and control. Trying to build a workflow where specific CRM events (deal marked \"stalled\" after X days, or a closed-lost with a specific reason) automatically trigger re-engagement sequence in our cold email too, rather than someone remembering to manually kick that off. n8n side is fine, I know how to build the workflow logic. The blocker is on the sending-tool side: a lot of the cold email platforms I've looked at either dont expose a real API, or the API exists but the docs are thin/outdated, or webhooks only fire on inbou",
-      "new": true
+      "new": false
     },
     {
       "id": "1wp1op8",
@@ -144,7 +144,7 @@
       "author": "Scary-Cheek1733",
       "url": "https://www.reddit.com/r/automation/comments/1wp1op8/anyone_automate_action_items_from_meetings_via/",
       "body": "I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes from the meeting to be stored in the database associated with the meeting attendee. Most of my meetings are one-on-one. I also frequently brainstorm future ideas or projects during these meetings and ideally that would be stored in a second database for crazy future ideas, not immediate action items. Has anyone managed to automate a system like this, with voice captured in context and turned into clean material an AI ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wo7oww",
@@ -155,7 +155,7 @@
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
       "body": "I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineering now wants AI features in our PLM and every demo I see is document search or summaries. The slow part for us is routing change orders for approval and getting purchasing the updated BOM once a change is released. I would rather automate that handoff than add another chat window. Where has AI saved real time in PLM workflows for your team?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wo68ne",
@@ -166,7 +166,7 @@
       "author": "Webclues_Infotech",
       "url": "https://www.reddit.com/r/automation/comments/1wo68ne/multiagent_workflows_when_does_splitting_one_ai/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wo2u4y",
@@ -177,7 +177,7 @@
       "author": "techlatest_net",
       "url": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wnxspm",
@@ -188,7 +188,7 @@
       "author": "Admirable_Building24",
       "url": "https://www.reddit.com/r/automation/comments/1wnxspm/recommended_readings_on_process_mapping_and/",
       "body": "I am responsible for implementing automation and AI in my org I was wondering if you could suggest some books / ebooks / articles or even wikis Main challenge I face are \\- no mapped processes \\- no process owners \\- \"we always did it like that\" \\- unable to explain what theyy do but once in a while epiphanies that it could be done with Claude Code (but usually not reproducible for above reasons) \\- lack of culture of measurement of cost / outcome thankful for any comments ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wnqvp0",
@@ -199,7 +199,7 @@
       "author": "acepoole",
       "url": "https://www.reddit.com/r/automation/comments/1wnqvp0/does_anyone_use_cando_candobuild/",
       "body": "I heard good things and they just raised a bunch of money. Curious if it's worth checking out.",
-      "new": true
+      "new": false
     },
     {
       "id": "1wn6zmm",
@@ -210,7 +210,7 @@
       "author": "harij21",
       "url": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
       "body": "We\u2019re hiring for AEO/GEO right now, and after a dozen calls here\u2019s my filter: Green flags: \u00b7 They show raw scans \u2013 timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this \u2013 they publish actual scan data with IDs you can verify, not just summaries. \u00b7 They frame the work as an experiment: baseline, intervention, before/after delta. \u00b7 They can explain their method well enough that you could, in theory, do it yourself. \u00b7 They volunteer what didn\u2019t work in past projects. Red flags: \u00b7 Guarantees. Nobody controls LLM behavior; \u201cwe\u2019ll get you cited by ChatGPT\u201d is a lie by const",
-      "new": true
+      "new": false
     },
     {
       "id": "1wn1hdb",
@@ -221,7 +221,7 @@
       "author": "Trying_AImarketing",
       "url": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
       "body": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don\u2019t know how to prepare for this position as its a new position. Things I know so far: \\- Its a system manager role and not people manager \\- This role sits in the marketing department \\- Goal of this role to eliminate redundancy and increase marketing efficiency (well..duh!!) What recommendations do you have for preparing for such role? Since its a new type of role, obviously there\u2019s not much concrete stuff available on the internet.",
-      "new": true
+      "new": false
     },
     {
       "id": "1wmsjdq",
@@ -232,7 +232,7 @@
       "author": "Hassieee",
       "url": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
       "body": "Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting somewhere after some research on each website but im so lost when it comes to making them work as a whole. If anyone can help pls tell me where to start",
-      "new": true
+      "new": false
     },
     {
       "id": "1wmikzr",
@@ -243,7 +243,7 @@
       "author": "kabeeerkepohe",
       "url": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
       "body": "Trying to build a workflow where I drop a video theme into an Excel row and it automatically: 1. Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise pass so it's not just first-draft AI output) 2. Breaks the script into scene-by-scene animation/visual prompts I can feed into other AI tools (Midjourney, Runway, etc.) 3. Generates a title + description 4. Writes everything back into the sheet",
-      "new": true
+      "new": false
     },
     {
       "id": "1wm4xur",
@@ -254,7 +254,7 @@
       "author": "itanpiuco2020",
       "url": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
       "body": "Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am using Playwright. I am just curious what is the best way to automate this. Btw I am using scrcpy so I can mirror my android phone and paste it on the Google Sheet. ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wlwkzq",
@@ -265,7 +265,7 @@
       "author": "CDN-Social-Democrat",
       "url": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
       "body": "To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I know terms like LLM, AGI, ASI, RSI, and such. I know the major players involved and what emphasis points differentiate the work. In general I am the regular outside observer in this whole thing. You may also see this post in some other places as I know every community has their own identity and set of perspectives. I am trying to get a bit more substantively informed on this topic and so I want to get a broad set of o",
-      "new": true
+      "new": false
     },
     {
       "id": "1wl5ajh",
@@ -276,7 +276,7 @@
       "author": "SelfZealousidealy",
       "url": "https://www.reddit.com/r/automation/comments/1wl5ajh/how_do_you_keep_automations_running_when_websites/",
       "body": "This is my major maintenance problem as it takes me more time to repair faulty automations rather than developing new ones. Recently, I tried an AI driven automation tool that adapts itself to changes on the website better than any other script driven automation tool. So, what do others do?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wkd9m8",
@@ -287,7 +287,7 @@
       "author": "SpencerRyanEllis",
       "url": "https://www.reddit.com/r/automation/comments/1wkd9m8/what_are_the_top_ai_transcription_companies_that/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wk917e",
@@ -298,7 +298,7 @@
       "author": "NerdSquadIT",
       "url": "https://www.reddit.com/r/automation/comments/1wk917e/anyone_doing_anything_interesting_with/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wjuw4i",
@@ -309,7 +309,7 @@
       "author": "Ordinary_Crab_8565",
       "url": "https://www.reddit.com/r/automation/comments/1wjuw4i/newbie_vibe_coder_needing_help_with_crm/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wjo2jh",
@@ -320,7 +320,7 @@
       "author": "[deleted]",
       "url": "https://www.reddit.com/r/automation/comments/1wjo2jh/how_do_you_keep_automations_running_when_websites/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wjedlt",
@@ -331,7 +331,7 @@
       "author": "controlbeyond",
       "url": "https://www.reddit.com/r/automation/comments/1wjedlt/how_do_you_scale_a_mixed_robot_fleet_without/",
       "body": "I've been thinking about this as mixed robot fleets become more common in factories and warehouses. Adding more robots is not necessarily the difficult part. The problem gets much harder when the robots are not the same. With one robot, you're mostly dealing with that robot's navigation, motion, safety, charging, task execution, and whatever else is specific to the vehicle. Put several similar robots together and you now have fleet-level coordination to deal with. That's already a different problem, but at least the robots generally have similar capabilities and control requirements. The situa",
-      "new": true
+      "new": false
     },
     {
       "id": "1wjd3ip",
@@ -342,7 +342,7 @@
       "author": "oldrivereddy",
       "url": "https://www.reddit.com/r/automation/comments/1wjd3ip/anyone_using_chatgpt_outlook_email_to_automate/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wj68xg",
@@ -353,7 +353,7 @@
       "author": "Math_and_Finnances",
       "url": "https://www.reddit.com/r/automation/comments/1wj68xg/what_should_actually_be_automated_in_a_whatsapp/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wiznmx",
@@ -364,7 +364,7 @@
       "author": "Honest-Let-7219",
       "url": "https://www.reddit.com/r/automation/comments/1wiznmx/hi_i_trying_to_build_and_automation_for_us/",
       "body": "Recently i thought of automating prior authorisation process any suggestions if it\u2019s a better path or not",
-      "new": true
+      "new": false
     },
     {
       "id": "1wiqo2g",
@@ -375,7 +375,7 @@
       "author": "Ok-Bear6558",
       "url": "https://www.reddit.com/r/automation/comments/1wiqo2g/whats_a_mundane_thing_that_youve_automated_which/",
       "body": "[removed]",
-      "new": true
+      "new": false
     }
   ],
   "scanned": 100
