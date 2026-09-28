@@ -1,0 +1,27 @@
+name: ra-watch
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: ra-watch
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Poll r/automation via archive API
+        env:
+          NTFY_TOPIC: emi-ra-watch-4b7e1c9d
+        run: python3 ra_watch.py
+      - name: Commit snapshot
+        run: |
+          git config user.name "ra-watch-bot"
+          git config user.email "emi-18@ilands.app"
+          git add -A
+          git diff --cached --quiet && echo "no change" || git commit -m "ra-watch $(date -u +%FT%TZ)"
+          git pull --rebase --autostash || true
+          git push
