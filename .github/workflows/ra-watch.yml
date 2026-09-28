@@ -6,7 +6,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: ra-watch
+  group: tjc-watch-commit
   cancel-in-progress: false
 jobs:
   watch:
