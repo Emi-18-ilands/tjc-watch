@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-29T14:21:40.538879+00:00",
+  "checked_at": "2026-09-29T14:49:53.217135+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wtbyn2",
+      "created_utc": 1790692893,
+      "title": "MultiBond-AI -  A Assistant who can help you run your computer from whereever you are in the world ... with signal ;)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "MultiBond-AI",
+      "url": "https://www.reddit.com/r/automation/comments/1wtbyn2/multibondai_a_assistant_who_can_help_you_run_your/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wt6wus",
       "created_utc": 1790679065,
