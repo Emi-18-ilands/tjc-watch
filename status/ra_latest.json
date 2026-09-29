@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T13:24:15.858633+00:00",
+  "checked_at": "2026-09-29T13:50:22.858426+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -352,28 +352,6 @@
       "num_comments": 1,
       "author": "[deleted]",
       "url": "https://www.reddit.com/r/automation/comments/1wjo2jh/how_do_you_keep_automations_running_when_websites/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wjedlt",
-      "created_utc": 1789700255,
-      "title": "How Do You Scale a Mixed Robot Fleet Without Scaling Integration Complexity?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "controlbeyond",
-      "url": "https://www.reddit.com/r/automation/comments/1wjedlt/how_do_you_scale_a_mixed_robot_fleet_without/",
-      "body": "I've been thinking about this as mixed robot fleets become more common in factories and warehouses. Adding more robots is not necessarily the difficult part. The problem gets much harder when the robots are not the same. With one robot, you're mostly dealing with that robot's navigation, motion, safety, charging, task execution, and whatever else is specific to the vehicle. Put several similar robots together and you now have fleet-level coordination to deal with. That's already a different problem, but at least the robots generally have similar capabilities and control requirements. The situa",
-      "new": false
-    },
-    {
-      "id": "1wjd3ip",
-      "created_utc": 1789696653,
-      "title": "Anyone using ChatGPT + Outlook email to automate daily reporting?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "oldrivereddy",
-      "url": "https://www.reddit.com/r/automation/comments/1wjd3ip/anyone_using_chatgpt_outlook_email_to_automate/",
       "body": "[removed]",
       "new": false
     }
