@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T17:47:50.578642+00:00",
+  "checked_at": "2026-09-29T18:24:50.462522+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -341,17 +341,6 @@
       "num_comments": 1,
       "author": "SpencerRyanEllis",
       "url": "https://www.reddit.com/r/automation/comments/1wkd9m8/what_are_the_top_ai_transcription_companies_that/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wk917e",
-      "created_utc": 1789782552,
-      "title": "Anyone doing anything interesting with RingCentral + AI?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "NerdSquadIT",
-      "url": "https://www.reddit.com/r/automation/comments/1wk917e/anyone_doing_anything_interesting_with/",
       "body": "[removed]",
       "new": false
     }
