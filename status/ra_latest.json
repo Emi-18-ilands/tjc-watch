@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T19:46:42.153295+00:00",
+  "checked_at": "2026-09-29T20:21:35.509470+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -331,17 +331,6 @@
       "author": "SelfZealousidealy",
       "url": "https://www.reddit.com/r/automation/comments/1wl5ajh/how_do_you_keep_automations_running_when_websites/",
       "body": "This is my major maintenance problem as it takes me more time to repair faulty automations rather than developing new ones. Recently, I tried an AI driven automation tool that adapts itself to changes on the website better than any other script driven automation tool. So, what do others do?",
-      "new": false
-    },
-    {
-      "id": "1wkd9m8",
-      "created_utc": 1789795224,
-      "title": "What are the top AI transcription companies that are worth testing for messy multi speaker audio?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "SpencerRyanEllis",
-      "url": "https://www.reddit.com/r/automation/comments/1wkd9m8/what_are_the_top_ai_transcription_companies_that/",
-      "body": "[removed]",
       "new": false
     }
   ],
