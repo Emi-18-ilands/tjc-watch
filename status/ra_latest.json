@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-29T23:18:29.130811+00:00",
+  "checked_at": "2026-09-29T23:44:47.594940+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wtpinc",
+      "created_utc": 1790724526,
+      "title": "\"AI agencies\" are selling prompt wrappers that break in 90 days. Change my mind.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "jebssz",
+      "url": "https://www.reddit.com/r/automation/comments/1wtpinc/ai_agencies_are_selling_prompt_wrappers_that/",
+      "body": "I've been talking to a lot of people running AI agencies and consultancies, and I keep seeing the same pattern. The agency builds a slick agent demo. Three months later it quietly stops working, and nobody on the client side can fix it. It's almost never the model. It's that the agent runs on the client's messy data: spreadsheets with free-text statuses, five versions of the same customer, a CRM nobody updates. The demo worked on clean sample data. Production isn't clean. So my take is uncomfortable. A lot of what's sold as \"AI automation\" is really an unpaid data-cleanup project with a chatbo",
+      "new": true
+    },
     {
       "id": "1wtmv1h",
       "created_utc": 1790717642,
