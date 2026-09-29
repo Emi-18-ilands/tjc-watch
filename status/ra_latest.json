@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T14:49:53.217135+00:00",
+  "checked_at": "2026-09-29T15:22:59.964625+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "MultiBond-AI",
       "url": "https://www.reddit.com/r/automation/comments/1wtbyn2/multibondai_a_assistant_who_can_help_you_run_your/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wt6wus",
