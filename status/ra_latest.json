@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T06:25:33.832827+00:00",
+  "checked_at": "2026-09-29T06:52:42.259161+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ultra04_",
       "url": "https://www.reddit.com/r/automation/comments/1wt29lq/im_currently_working_on_an_automation_projectpdf/",
       "body": "Hello. This is my first time posting here. Apology if It breches any rules etc. let me know I will edit. I'm currently working on PDF TO EXCEL automation project. It's basically as the name suggests take pdf process it and turn it into an excel. The company I'm working on is a product based and these PDFs are actually purchase orders. I have figured out the processing of pdf tp excel part, but the important and troubling part is that:we receive these PDFs in mails(attached) by the vendors. And the email detection and receiving is a task. Right now I used a python import, which can access my ma",
-      "new": true
+      "new": false
     },
     {
       "id": "1wsembm",
