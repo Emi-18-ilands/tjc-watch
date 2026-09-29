@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T02:18:18.980289+00:00",
+  "checked_at": "2026-09-29T02:46:22.566352+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -40,8 +40,8 @@
       "id": "1wrly8p",
       "created_utc": 1790520140,
       "title": "How would you automate family inventory cards without overwriting disagreements?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 7,
       "author": "yawning42",
       "url": "https://www.reddit.com/r/automation/comments/1wrly8p/how_would_you_automate_family_inventory_cards/",
       "body": "I'm sketching a workflow for cataloging dozens of family objects during a move. If I merge different accounts into one neat paragraph, I could turn a guess into family history. Take a hypothetical chipped bowl: one person says the family bought it at a yard sale; another says a neighbor gave it to them. I would keep both accounts until someone finds better evidence. When someone adds an object, the inventory would create a blank card with an ID. A family member would attach a photo and record each account separately, including who shared the memory and that person's confidence in it. The AI wo",
