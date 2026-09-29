@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T16:23:32.328368+00:00",
+  "checked_at": "2026-09-29T16:50:38.970950+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Soft-Concept2531",
       "url": "https://www.reddit.com/r/automation/comments/1wte41t/how_do_you_stop_new_support_reps_from_relying_on/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wtbyn2",
