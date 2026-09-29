@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T21:46:29.510367+00:00",
+  "checked_at": "2026-09-29T22:20:08.219206+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "UggsleyPaddams",
       "url": "https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/",
       "body": "We already have a weekly job that pulls rankings and traffic into a Sheet and posts a summary to Slack. Now marketing wants AI visibility in the same summary, and the source they picked is Ahrefs Brand Radar. My part is wiring it up. What I care about is prompt level data I can diff week over week rather than 1 score. What are people piping it into?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wte41t",
