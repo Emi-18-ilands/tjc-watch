@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-29T09:22:35.543504+00:00",
+  "checked_at": "2026-09-29T09:49:33.051906+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "No-Marionberry8257",
       "url": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
       "body": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I feel like. So curious to the experts here, what are the craziest business automations you have come across so far?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wt29lq",
@@ -41,7 +41,7 @@
       "created_utc": 1790545739,
       "title": "How should I start as someone in social sciences?",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 3,
       "author": "Vivid_Complaint625",
       "url": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
       "body": "",
