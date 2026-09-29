@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-29T08:49:10.191294+00:00",
+  "checked_at": "2026-09-29T09:22:35.543504+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wt4xd7",
+      "created_utc": 1790671791,
+      "title": "What are the craziest business automations you have come across so far?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "No-Marionberry8257",
+      "url": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
+      "body": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I feel like. So curious to the experts here, what are the craziest business automations you have come across so far?",
+      "new": true
+    },
     {
       "id": "1wt29lq",
       "created_utc": 1790661845,
@@ -352,17 +363,6 @@
       "num_comments": 1,
       "author": "oldrivereddy",
       "url": "https://www.reddit.com/r/automation/comments/1wjd3ip/anyone_using_chatgpt_outlook_email_to_automate/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wj68xg",
-      "created_utc": 1789678939,
-      "title": "What should actually be automated in a WhatsApp sales process?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Math_and_Finnances",
-      "url": "https://www.reddit.com/r/automation/comments/1wj68xg/what_should_actually_be_automated_in_a_whatsapp/",
       "body": "[removed]",
       "new": false
     }
