@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-29T05:47:16.836238+00:00",
+  "checked_at": "2026-09-29T06:25:33.832827+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wt29lq",
+      "created_utc": 1790661845,
+      "title": "I'm currently working on an automation project(PDF to Excel) and am in desperate need of suggestions and options",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Ultra04_",
+      "url": "https://www.reddit.com/r/automation/comments/1wt29lq/im_currently_working_on_an_automation_projectpdf/",
+      "body": "Hello. This is my first time posting here. Apology if It breches any rules etc. let me know I will edit. I'm currently working on PDF TO EXCEL automation project. It's basically as the name suggests take pdf process it and turn it into an excel. The company I'm working on is a product based and these PDFs are actually purchase orders. I have figured out the processing of pdf tp excel part, but the important and troubling part is that:we receive these PDFs in mails(attached) by the vendors. And the email detection and receiving is a task. Right now I used a python import, which can access my ma",
+      "new": true
+    },
     {
       "id": "1wsembm",
       "created_utc": 1790602051,
@@ -353,17 +364,6 @@
       "author": "Math_and_Finnances",
       "url": "https://www.reddit.com/r/automation/comments/1wj68xg/what_should_actually_be_automated_in_a_whatsapp/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wiznmx",
-      "created_utc": 1789664400,
-      "title": "Hi, i trying to build and automation for US Healthcare to in their insurance work",
-      "score": 2,
-      "num_comments": 14,
-      "author": "Honest-Let-7219",
-      "url": "https://www.reddit.com/r/automation/comments/1wiznmx/hi_i_trying_to_build_and_automation_for_us/",
-      "body": "Recently i thought of automating prior authorisation process any suggestions if it\u2019s a better path or not",
       "new": false
     }
   ],
