@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-29T15:49:54.145976+00:00",
+  "checked_at": "2026-09-29T16:23:32.328368+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wte41t",
+      "created_utc": 1790697809,
+      "title": "How do you stop new support reps from relying on senior agents during live calls?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Soft-Concept2531",
+      "url": "https://www.reddit.com/r/automation/comments/1wte41t/how_do_you_stop_new_support_reps_from_relying_on/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wtbyn2",
       "created_utc": 1790692893,
@@ -341,28 +352,6 @@
       "num_comments": 1,
       "author": "NerdSquadIT",
       "url": "https://www.reddit.com/r/automation/comments/1wk917e/anyone_doing_anything_interesting_with/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wjuw4i",
-      "created_utc": 1789748728,
-      "title": "Newbie vibe coder needing help with CRM",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Ordinary_Crab_8565",
-      "url": "https://www.reddit.com/r/automation/comments/1wjuw4i/newbie_vibe_coder_needing_help_with_crm/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wjo2jh",
-      "created_utc": 1789732325,
-      "title": "How do you keep automations running when websites keep changing?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "[deleted]",
-      "url": "https://www.reddit.com/r/automation/comments/1wjo2jh/how_do_you_keep_automations_running_when_websites/",
       "body": "[removed]",
       "new": false
     }
