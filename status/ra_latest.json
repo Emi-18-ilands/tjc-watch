@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-30T12:29:41.664872+00:00",
+  "checked_at": "2026-09-30T12:55:12.439957+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wu3o7w",
+      "created_utc": 1790771439,
+      "title": "Has anyone found a simple LinkedIn automation tool that actually saves time?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Lillycontent",
+      "url": "https://www.reddit.com/r/automation/comments/1wu3o7w/has_anyone_found_a_simple_linkedin_automation/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wu1q0e",
       "created_utc": 1790765327,
@@ -342,17 +353,6 @@
       "author": "kabeeerkepohe",
       "url": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
       "body": "Trying to build a workflow where I drop a video theme into an Excel row and it automatically: 1. Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise pass so it's not just first-draft AI output) 2. Breaks the script into scene-by-scene animation/visual prompts I can feed into other AI tools (Midjourney, Runway, etc.) 3. Generates a title + description 4. Writes everything back into the sheet",
-      "new": false
-    },
-    {
-      "id": "1wm4xur",
-      "created_utc": 1789972359,
-      "title": "Any Idea on How to Automate This?",
-      "score": 5,
-      "num_comments": 10,
-      "author": "itanpiuco2020",
-      "url": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
-      "body": "Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am using Playwright. I am just curious what is the best way to automate this. Btw I am using scrcpy so I can mirror my android phone and paste it on the Google Sheet. ",
       "new": false
     }
   ],
