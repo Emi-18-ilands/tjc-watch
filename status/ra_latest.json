@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-09-30T13:23:16.616563+00:00",
+  "checked_at": "2026-09-30T13:49:05.282080+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wu50bc",
+      "created_utc": 1790775011,
+      "title": "Real number from this week: one of my agents got stuck in a silent failure loop for two months before anyone noticed",
+      "score": 1,
+      "num_comments": 1,
+      "author": "TruthUnique425",
+      "url": "https://www.reddit.com/r/automation/comments/1wu50bc/real_number_from_this_week_one_of_my_agents_got/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wu3o7w",
       "created_utc": 1790771439,
