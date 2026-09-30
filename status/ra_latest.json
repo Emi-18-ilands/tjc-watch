@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T11:48:17.768657+00:00",
+  "checked_at": "2026-09-30T12:29:41.664872+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -353,17 +353,6 @@
       "author": "itanpiuco2020",
       "url": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
       "body": "Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am using Playwright. I am just curious what is the best way to automate this. Btw I am using scrcpy so I can mirror my android phone and paste it on the Google Sheet. ",
-      "new": false
-    },
-    {
-      "id": "1wlwkzq",
-      "created_utc": 1789947581,
-      "title": "The issue of slavery?",
-      "score": 3,
-      "num_comments": 10,
-      "author": "CDN-Social-Democrat",
-      "url": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
-      "body": "To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I know terms like LLM, AGI, ASI, RSI, and such. I know the major players involved and what emphasis points differentiate the work. In general I am the regular outside observer in this whole thing. You may also see this post in some other places as I know every community has their own identity and set of perspectives. I am trying to get a bit more substantively informed on this topic and so I want to get a broad set of o",
       "new": false
     }
   ],
