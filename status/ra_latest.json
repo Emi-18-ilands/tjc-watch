@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T06:52:49.750741+00:00",
+  "checked_at": "2026-09-30T07:22:53.673746+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ahmiii_83",
       "url": "https://www.reddit.com/r/automation/comments/1wtxrfk/agencies_selling_automations_or_ai_agents_who/",
       "body": "Most of my work is building automations in n8n and AI agents, and a surprising amount of it is fixing things that looked finished. A workflow that runs green but quietly does nothing. A webhook that fires twice and creates duplicate records. An agent that answers confidently with made-up information. An API account that gets restricted in the middle of a project. That's the part I've come to enjoy most: reading the execution logs, finding where it actually broke, and making it hold up with real users instead of only in a demo. I also build the websites these systems usually sit behind, though ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wtpinc",
