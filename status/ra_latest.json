@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T07:22:53.673746+00:00",
+  "checked_at": "2026-09-30T07:49:30.209794+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -353,17 +353,6 @@
       "author": "CDN-Social-Democrat",
       "url": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
       "body": "To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I know terms like LLM, AGI, ASI, RSI, and such. I know the major players involved and what emphasis points differentiate the work. In general I am the regular outside observer in this whole thing. You may also see this post in some other places as I know every community has their own identity and set of perspectives. I am trying to get a bit more substantively informed on this topic and so I want to get a broad set of o",
-      "new": false
-    },
-    {
-      "id": "1wl5ajh",
-      "created_utc": 1789873058,
-      "title": "How do you keep automations running when websites keep changing?",
-      "score": 0,
-      "num_comments": 5,
-      "author": "SelfZealousidealy",
-      "url": "https://www.reddit.com/r/automation/comments/1wl5ajh/how_do_you_keep_automations_running_when_websites/",
-      "body": "This is my major maintenance problem as it takes me more time to repair faulty automations rather than developing new ones. Recently, I tried an AI driven automation tool that adapts itself to changes on the website better than any other script driven automation tool. So, what do others do?",
       "new": false
     }
   ],
