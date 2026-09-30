@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T21:48:43.778451+00:00",
+  "checked_at": "2026-09-30T22:20:48.692084+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -331,17 +331,6 @@
       "author": "harij21",
       "url": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
       "body": "We\u2019re hiring for AEO/GEO right now, and after a dozen calls here\u2019s my filter: Green flags: \u00b7 They show raw scans \u2013 timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this \u2013 they publish actual scan data with IDs you can verify, not just summaries. \u00b7 They frame the work as an experiment: baseline, intervention, before/after delta. \u00b7 They can explain their method well enough that you could, in theory, do it yourself. \u00b7 They volunteer what didn\u2019t work in past projects. Red flags: \u00b7 Guarantees. Nobody controls LLM behavior; \u201cwe\u2019ll get you cited by ChatGPT\u201d is a lie by const",
-      "new": false
-    },
-    {
-      "id": "1wn1hdb",
-      "created_utc": 1790057775,
-      "title": "Need help preparing for AI & Automation Manager interview",
-      "score": 7,
-      "num_comments": 15,
-      "author": "Trying_AImarketing",
-      "url": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
-      "body": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don\u2019t know how to prepare for this position as its a new position. Things I know so far: \\- Its a system manager role and not people manager \\- This role sits in the marketing department \\- Goal of this role to eliminate redundancy and increase marketing efficiency (well..duh!!) What recommendations do you have for preparing for such role? Since its a new type of role, obviously there\u2019s not much concrete stuff available on the internet.",
       "new": false
     }
   ],
