@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T22:47:35.317674+00:00",
+  "checked_at": "2026-09-30T23:18:28.366952+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -95,8 +95,8 @@
       "id": "1wt6wus",
       "created_utc": 1790679065,
       "title": "My client wanted their entire Sales process automated because adoption was low. I tried paperclip and hyper agents, but I failed.",
-      "score": 1,
-      "num_comments": 1,
+      "score": 13,
+      "num_comments": 15,
       "author": "rvy474",
       "url": "https://www.reddit.com/r/automation/comments/1wt6wus/my_client_wanted_their_entire_sales_process/",
       "body": "This was an engagement with a medium size construction tech company in the middle east, and it started off great. I was automating CRM hygiene, Proposal generation and bunch of close ended tasks for their 5 man sales team. Using openclaw and Gbrain I also created a Company GPT for their sales people so they can get easy access to deal and product intelligence via Slack. It worked perfectly. But I faced a big challenge with adoption. People were set in their ways, and no one was using the automations. The sales lead eventually came to me and asked if I could automate the entire sales process en",
