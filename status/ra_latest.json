@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T12:55:12.439957+00:00",
+  "checked_at": "2026-09-30T13:23:16.616563+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Lillycontent",
       "url": "https://www.reddit.com/r/automation/comments/1wu3o7w/has_anyone_found_a_simple_linkedin_automation/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wu1q0e",
