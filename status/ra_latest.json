@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T20:47:02.090580+00:00",
+  "checked_at": "2026-09-30T21:20:05.272254+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -106,8 +106,8 @@
       "id": "1wt4xd7",
       "created_utc": 1790671791,
       "title": "What are the craziest business automations you have come across so far?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 113,
+      "num_comments": 33,
       "author": "No-Marionberry8257",
       "url": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
       "body": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I feel like. So curious to the experts here, what are the craziest business automations you have come across so far?",
