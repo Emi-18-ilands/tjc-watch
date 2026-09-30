@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T18:51:53.685971+00:00",
+  "checked_at": "2026-09-30T19:21:02.066802+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -342,17 +342,6 @@
       "author": "Trying_AImarketing",
       "url": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
       "body": "Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don\u2019t know how to prepare for this position as its a new position. Things I know so far: \\- Its a system manager role and not people manager \\- This role sits in the marketing department \\- Goal of this role to eliminate redundancy and increase marketing efficiency (well..duh!!) What recommendations do you have for preparing for such role? Since its a new type of role, obviously there\u2019s not much concrete stuff available on the internet.",
-      "new": false
-    },
-    {
-      "id": "1wmsjdq",
-      "created_utc": 1790032078,
-      "title": "Help needed!",
-      "score": 16,
-      "num_comments": 33,
-      "author": "Hassieee",
-      "url": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
-      "body": "Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting somewhere after some research on each website but im so lost when it comes to making them work as a whole. If anyone can help pls tell me where to start",
       "new": false
     }
   ],
