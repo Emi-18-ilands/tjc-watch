@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T15:24:14.452166+00:00",
+  "checked_at": "2026-09-30T15:50:47.325761+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -353,17 +353,6 @@
       "author": "Hassieee",
       "url": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
       "body": "Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting somewhere after some research on each website but im so lost when it comes to making them work as a whole. If anyone can help pls tell me where to start",
-      "new": false
-    },
-    {
-      "id": "1wmikzr",
-      "created_utc": 1790010029,
-      "title": "Best way to automate: Excel input \u2192 AI script \u2192 animation prompts \u2192 title/description?",
-      "score": 2,
-      "num_comments": 12,
-      "author": "kabeeerkepohe",
-      "url": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
-      "body": "Trying to build a workflow where I drop a video theme into an Excel row and it automatically: 1. Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise pass so it's not just first-draft AI output) 2. Breaks the script into scene-by-scene animation/visual prompts I can feed into other AI tools (Midjourney, Runway, etc.) 3. Generates a title + description 4. Writes everything back into the sheet",
       "new": false
     }
   ],
