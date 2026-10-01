@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T17:48:45.614334+00:00",
+  "checked_at": "2026-10-01T18:25:40.557782+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -320,17 +320,6 @@
       "author": "TearsP",
       "url": "https://www.reddit.com/r/automation/comments/1wrft26/looking_for_an_automation_agency_in_nyc/",
       "body": "With experience please! Thanks ",
-      "new": false
-    },
-    {
-      "id": "1wr24r2",
-      "created_utc": 1790458060,
-      "title": "Anyone actually using AI agents without babysitting them?",
-      "score": 28,
-      "num_comments": 30,
-      "author": "pigeonnstory",
-      "url": "https://www.reddit.com/r/automation/comments/1wr24r2/anyone_actually_using_ai_agents_without/",
-      "body": "64, PT, small clinic in Iowa. Been messing with this stuff for a few years now, mostly reminders and billing followups. Nothing sophisticated. Just a few no-code tools that mostly do what I need. I keep seeing people talk about AI agents doing whole workflows, so I tried using one for insurance verification. Tried it a few different ways actually. Never got very far. At best it would pull some info together and write an email, but I still had to look it over and send it myself. Has anyone here actually gotten past that point? Like given an agent something boring but real and had it handle the ",
       "new": false
     }
   ],
