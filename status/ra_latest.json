@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T05:21:05.672633+00:00",
+  "checked_at": "2026-10-01T05:47:56.939878+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -342,28 +342,6 @@
       "author": "techlatest_net",
       "url": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wnxspm",
-      "created_utc": 1790143676,
-      "title": "Recommended readings on Process mapping and change management + implementing automation and AI?",
-      "score": 9,
-      "num_comments": 16,
-      "author": "Admirable_Building24",
-      "url": "https://www.reddit.com/r/automation/comments/1wnxspm/recommended_readings_on_process_mapping_and/",
-      "body": "I am responsible for implementing automation and AI in my org I was wondering if you could suggest some books / ebooks / articles or even wikis Main challenge I face are \\- no mapped processes \\- no process owners \\- \"we always did it like that\" \\- unable to explain what theyy do but once in a while epiphanies that it could be done with Claude Code (but usually not reproducible for above reasons) \\- lack of culture of measurement of cost / outcome thankful for any comments ",
-      "new": false
-    },
-    {
-      "id": "1wnqvp0",
-      "created_utc": 1790123253,
-      "title": "Does anyone use Cando (cando.build)?",
-      "score": 1,
-      "num_comments": 10,
-      "author": "acepoole",
-      "url": "https://www.reddit.com/r/automation/comments/1wnqvp0/does_anyone_use_cando_candobuild/",
-      "body": "I heard good things and they just raised a bunch of money. Curious if it's worth checking out.",
       "new": false
     }
   ],
