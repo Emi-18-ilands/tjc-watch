@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T12:27:40.129621+00:00",
+  "checked_at": "2026-10-01T12:54:08.628895+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1wuxoc1/anyone_tried_looplabsrun_for_automation_and/",
       "body": "anyone building ai automaton workflows with looplabs ?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wuxe3t",
@@ -23,7 +23,7 @@
       "author": "Aggravating_North987",
       "url": "https://www.reddit.com/r/automation/comments/1wuxe3t/looking_for_a_simple_whatsapp_automation_workflow/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wuvx7i",
