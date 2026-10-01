@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T00:29:58.929047+00:00",
+  "checked_at": "2026-10-01T00:54:00.590432+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wulft2",
+      "created_utc": 1790814646,
+      "title": "Need Suggestions for a Simple AI Tool",
+      "score": 1,
+      "num_comments": 0,
+      "author": "Ragingboomerang",
+      "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
+      "body": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you in your work. Please share some simple ideas, and I will see what I can do.",
+      "new": true
+    },
     {
       "id": "1wuk7c4",
       "created_utc": 1790811182,
@@ -331,17 +342,6 @@
       "author": "acepoole",
       "url": "https://www.reddit.com/r/automation/comments/1wnqvp0/does_anyone_use_cando_candobuild/",
       "body": "I heard good things and they just raised a bunch of money. Curious if it's worth checking out.",
-      "new": false
-    },
-    {
-      "id": "1wn6zmm",
-      "created_utc": 1790076864,
-      "title": "How to spot a good AI visibility agency (and avoid the bad ones)",
-      "score": 5,
-      "num_comments": 6,
-      "author": "harij21",
-      "url": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
-      "body": "We\u2019re hiring for AEO/GEO right now, and after a dozen calls here\u2019s my filter: Green flags: \u00b7 They show raw scans \u2013 timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWith.AI does this \u2013 they publish actual scan data with IDs you can verify, not just summaries. \u00b7 They frame the work as an experiment: baseline, intervention, before/after delta. \u00b7 They can explain their method well enough that you could, in theory, do it yourself. \u00b7 They volunteer what didn\u2019t work in past projects. Red flags: \u00b7 Guarantees. Nobody controls LLM behavior; \u201cwe\u2019ll get you cited by ChatGPT\u201d is a lie by const",
       "new": false
     }
   ],
