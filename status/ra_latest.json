@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T15:22:46.873278+00:00",
+  "checked_at": "2026-10-01T15:50:00.068991+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -353,17 +353,6 @@
       "author": "Ultimitehand",
       "url": "https://www.reddit.com/r/automation/comments/1wqidoe/how_to_automate_crystal_reports_with_an_llm/",
       "body": "I'm attempting to build an MCP server that can open a Crystal Reports file, find fields, read and edit formulas, and export the file as PDF. I attempted using a computer use agent, however, this is quite fragile and error prone. I have already tried the following: * Using **Power Automate** to script actions and execute them from the MCP Server: Crystal Reports doesn't expose a UI tree beyond \"Pane 1, Pane 2, ...\" * Using libraries like RPT RS: Read-only, no way to correctly save the report back Is there a way to easily manage a .rpt file with an LLM?",
-      "new": false
-    },
-    {
-      "id": "1wq83o7",
-      "created_utc": 1790370766,
-      "title": "Anybody from the UK own a GHL SaaS Agency/consultancy?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "QuayToTheTruth",
-      "url": "https://www.reddit.com/r/automation/comments/1wq83o7/anybody_from_the_uk_own_a_ghl_saas/",
-      "body": "",
       "new": false
     }
   ],
