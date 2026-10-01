@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T13:50:47.981380+00:00",
+  "checked_at": "2026-10-01T14:23:49.634172+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wv0ead",
+      "created_utc": 1790863675,
+      "title": "Which stealth/anti-detect tools have you used?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "LokeshSequentum",
+      "url": "https://www.reddit.com/r/automation/comments/1wv0ead/which_stealthantidetect_tools_have_you_used/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wuz233",
       "created_utc": 1790860272,
@@ -364,17 +375,6 @@
       "author": "tototoru",
       "url": "https://www.reddit.com/r/automation/comments/1wq2isj/to_ai_or_not_to_ai_the_question_is_what_to_ai_and/",
       "body": "We faced that problem on an OCR project, where the products on supplier invoices had to be matched to a client's catalog. Suppliers often use their own names and SKUs, not the client's. With large-context models and a catalog under 5K products, we could get away with sending the whole catalog with every invoice. We'd get a mostly correct result, but we'd burn billions of tokens for the number of invoices we had to process, so we made AI the last step instead. An invoice line gives you up to three clues. A barcode is the best clue: exact match or nothing, and its last digit is calculated from t",
-      "new": false
-    },
-    {
-      "id": "1wprn8v",
-      "created_utc": 1790328027,
-      "title": "Agencies running bots for multiple clients: how do you split LLM costs per client?",
-      "score": 23,
-      "num_comments": 18,
-      "author": "harij21",
-      "url": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
-      "body": "We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadsheet. It's error-prone and it doesn't scale. What I'm after: \\- A key per client with its own usage limits \\- Per-key analytics I can export or show the client \\- One invoice for us, with clean per-client breakdowns for re-billing My current plan is to give each client its own key on llmapi.ai and use its per-key usage limits and analytics, so all clients end up on one bill. Is anyone doing it this way? Or is it better ",
       "new": false
     }
   ],
