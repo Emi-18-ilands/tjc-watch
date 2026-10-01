@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T22:46:58.424223+00:00",
+  "checked_at": "2026-10-01T23:17:25.484713+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -172,8 +172,8 @@
       "id": "1wu1q0e",
       "created_utc": 1790765327,
       "title": "Which in-demand AI roles can you largely do with AI's help? Looking for your take",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 18,
       "author": "OutcomeCommercial908",
       "url": "https://www.reddit.com/r/automation/comments/1wu1q0e/which_indemand_ai_roles_can_you_largely_do_with/",
       "body": "I'm a professional with 8 years of experience in change management, project management and business/marketing roles across several sectors. Over the past two years I've been moving into roles directly linked to AI: AI project management, strategy, adoption and implementation. Nothing special. I took some courses and have been experimenting with LLMs in my own time ever since ChatGPT came out, mostly because I'm genuinely interested. I quickly noticed that my knowledge, however limited, put me well ahead of most of my peers. So I made the leap and landed an AI role at a private equity firm that",
