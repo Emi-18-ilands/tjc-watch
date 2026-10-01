@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T10:22:45.926604+00:00",
+  "checked_at": "2026-10-01T10:49:04.267334+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wuvx7i",
+      "created_utc": 1790850636,
+      "title": "How Document Automation Software Can Simplify Everyday Business Workflows",
+      "score": 1,
+      "num_comments": 1,
+      "author": "compentenza",
+      "url": "https://www.reddit.com/r/automation/comments/1wuvx7i/how_document_automation_software_can_simplify/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wuv5lu",
       "created_utc": 1790847838,
