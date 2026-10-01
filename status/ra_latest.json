@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T07:48:51.293287+00:00",
+  "checked_at": "2026-10-01T08:24:47.982813+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wutll8",
+      "created_utc": 1790841671,
+      "title": "What are you using to stay on top of follow ups ? any AI assistant for follow-ups you can recommend, would be really appreciated \ud83d\ude4f",
+      "score": 0,
+      "num_comments": 1,
+      "author": "Any_Assistant_4969",
+      "url": "https://www.reddit.com/r/automation/comments/1wutll8/what_are_you_using_to_stay_on_top_of_follow_ups/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wuoxnp",
       "created_utc": 1790825130,
