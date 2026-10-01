@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T12:54:08.628895+00:00",
+  "checked_at": "2026-10-01T13:24:52.951896+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wuz233",
+      "created_utc": 1790860272,
+      "title": "Help to building bot to book tennis court",
+      "score": 1,
+      "num_comments": 1,
+      "author": "kungfuman888",
+      "url": "https://www.reddit.com/r/automation/comments/1wuz233/help_to_building_bot_to_book_tennis_court/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wuxoc1",
       "created_utc": 1790856329,
@@ -364,17 +375,6 @@
       "author": "harij21",
       "url": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
       "body": "We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadsheet. It's error-prone and it doesn't scale. What I'm after: \\- A key per client with its own usage limits \\- Per-key analytics I can export or show the client \\- One invoice for us, with clean per-client breakdowns for re-billing My current plan is to give each client its own key on llmapi.ai and use its per-key usage limits and analytics, so all clients end up on one bill. Is anyone doing it this way? Or is it better ",
-      "new": false
-    },
-    {
-      "id": "1wp6dxw",
-      "created_utc": 1790267428,
-      "title": "self-hosting n8n trigger cold outreach off CRM events, which sending platforms actually have workable APIs/webhooks for this",
-      "score": 1,
-      "num_comments": 1,
-      "author": "KateBishop269",
-      "url": "https://www.reddit.com/r/automation/comments/1wp6dxw/selfhosting_n8n_trigger_cold_outreach_off_crm/",
-      "body": "Technical co-founder, self host n8n instead of Zapier mostly for cost and control. Trying to build a workflow where specific CRM events (deal marked \"stalled\" after X days, or a closed-lost with a specific reason) automatically trigger re-engagement sequence in our cold email too, rather than someone remembering to manually kick that off. n8n side is fine, I know how to build the workflow logic. The blocker is on the sending-tool side: a lot of the cold email platforms I've looked at either dont expose a real API, or the API exists but the docs are thin/outdated, or webhooks only fire on inbou",
       "new": false
     }
   ],
