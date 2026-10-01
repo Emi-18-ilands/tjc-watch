@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-01T11:49:10.481567+00:00",
+  "checked_at": "2026-10-01T12:27:40.129621+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wuxoc1",
+      "created_utc": 1790856329,
+      "title": "Anyone tried looplabs.run for automation and controls agent actions?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Common_Dream9420",
+      "url": "https://www.reddit.com/r/automation/comments/1wuxoc1/anyone_tried_looplabsrun_for_automation_and/",
+      "body": "anyone building ai automaton workflows with looplabs ?",
+      "new": true
+    },
+    {
+      "id": "1wuxe3t",
+      "created_utc": 1790855500,
+      "title": "Looking for a simple WhatsApp automation workflow to send messages to specific groups",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Aggravating_North987",
+      "url": "https://www.reddit.com/r/automation/comments/1wuxe3t/looking_for_a_simple_whatsapp_automation_workflow/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wuvx7i",
       "created_utc": 1790850636,
@@ -353,17 +375,6 @@
       "author": "KateBishop269",
       "url": "https://www.reddit.com/r/automation/comments/1wp6dxw/selfhosting_n8n_trigger_cold_outreach_off_crm/",
       "body": "Technical co-founder, self host n8n instead of Zapier mostly for cost and control. Trying to build a workflow where specific CRM events (deal marked \"stalled\" after X days, or a closed-lost with a specific reason) automatically trigger re-engagement sequence in our cold email too, rather than someone remembering to manually kick that off. n8n side is fine, I know how to build the workflow logic. The blocker is on the sending-tool side: a lot of the cold email platforms I've looked at either dont expose a real API, or the API exists but the docs are thin/outdated, or webhooks only fire on inbou",
-      "new": false
-    },
-    {
-      "id": "1wp1op8",
-      "created_utc": 1790256587,
-      "title": "Anyone automate action items from meetings via transcription?",
-      "score": 20,
-      "num_comments": 35,
-      "author": "Scary-Cheek1733",
-      "url": "https://www.reddit.com/r/automation/comments/1wp1op8/anyone_automate_action_items_from_meetings_via/",
-      "body": "I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes from the meeting to be stored in the database associated with the meeting attendee. Most of my meetings are one-on-one. I also frequently brainstorm future ideas or projects during these meetings and ideally that would be stored in a second database for crazy future ideas, not immediate action items. Has anyone managed to automate a system like this, with voice captured in context and turned into clean material an AI ",
       "new": false
     }
   ],
