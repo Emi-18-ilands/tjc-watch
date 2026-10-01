@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T00:54:00.590432+00:00",
+  "checked_at": "2026-10-01T01:21:02.394418+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ragingboomerang",
       "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "body": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you in your work. Please share some simple ideas, and I will see what I can do.",
-      "new": true
+      "new": false
     },
     {
       "id": "1wuk7c4",
