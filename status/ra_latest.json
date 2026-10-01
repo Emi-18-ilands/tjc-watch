@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T14:23:49.634172+00:00",
+  "checked_at": "2026-10-01T14:50:32.694258+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "LokeshSequentum",
       "url": "https://www.reddit.com/r/automation/comments/1wv0ead/which_stealthantidetect_tools_have_you_used/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wuz233",
