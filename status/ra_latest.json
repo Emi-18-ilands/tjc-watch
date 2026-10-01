@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-30T23:45:41.498968+00:00",
+  "checked_at": "2026-10-01T00:29:58.929047+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1wuk7c4/anyone_tried_looplabsrun_for_automation_and/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wu50bc",
