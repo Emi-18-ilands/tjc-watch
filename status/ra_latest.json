@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T03:21:37.422438+00:00",
+  "checked_at": "2026-10-01T03:49:29.849426+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wuoxnp",
+      "created_utc": 1790825130,
+      "title": "Thinking about starting an AI invoice/document processing automation service \u2014 looking for advice",
+      "score": 1,
+      "num_comments": 1,
+      "author": "No-Parsnip-824",
+      "url": "https://www.reddit.com/r/automation/comments/1wuoxnp/thinking_about_starting_an_ai_invoicedocument/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wumya7",
       "created_utc": 1790819071,
