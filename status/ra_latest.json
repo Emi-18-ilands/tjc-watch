@@ -1,8 +1,41 @@
 {
-  "checked_at": "2026-10-01T09:23:07.500908+00:00",
+  "checked_at": "2026-10-01T09:50:04.759973+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wuv5lu",
+      "created_utc": 1790847838,
+      "title": "Looking for a banner ad resizing tool that moves the text too",
+      "score": 1,
+      "num_comments": 1,
+      "author": "ColinScottHarper",
+      "url": "https://www.reddit.com/r/automation/comments/1wuv5lu/looking_for_a_banner_ad_resizing_tool_that_moves/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1wuv4re",
+      "created_utc": 1790847750,
+      "title": "Looking for a banner ad resizing tool that moves the text too",
+      "score": 1,
+      "num_comments": 1,
+      "author": "ColinScottHarper",
+      "url": "https://www.reddit.com/r/automation/comments/1wuv4re/looking_for_a_banner_ad_resizing_tool_that_moves/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1wuuz56",
+      "created_utc": 1790847131,
+      "title": "Web form automation! Need Help",
+      "score": 1,
+      "num_comments": 1,
+      "author": "yaswanth52",
+      "url": "https://www.reddit.com/r/automation/comments/1wuuz56/web_form_automation_need_help/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wutll8",
       "created_utc": 1790841671,
@@ -118,7 +151,7 @@
       "created_utc": 1790717642,
       "title": "Ahrefs Brand Radar AI visibility data into a weekly automated report, what are people piping it into",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 11,
       "author": "UggsleyPaddams",
       "url": "https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/",
       "body": "We already have a weekly job that pulls rankings and traffic into a Sheet and posts a summary to Slack. Now marketing wants AI visibility in the same summary, and the source they picked is Ahrefs Brand Radar. My part is wiring it up. What I care about is prompt level data I can diff week over week rather than 1 score. What are people piping it into?",
@@ -320,17 +353,6 @@
       "author": "Scary-Cheek1733",
       "url": "https://www.reddit.com/r/automation/comments/1wp1op8/anyone_automate_action_items_from_meetings_via/",
       "body": "I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes from the meeting to be stored in the database associated with the meeting attendee. Most of my meetings are one-on-one. I also frequently brainstorm future ideas or projects during these meetings and ideally that would be stored in a second database for crazy future ideas, not immediate action items. Has anyone managed to automate a system like this, with voice captured in context and turned into clean material an AI ",
-      "new": false
-    },
-    {
-      "id": "1wo7oww",
-      "created_utc": 1790174014,
-      "title": "Anyone automating change approvals with AI in product lifecycle management or is it still mostly document search",
-      "score": 6,
-      "num_comments": 22,
-      "author": "DapperAsi",
-      "url": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
-      "body": "I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineering now wants AI features in our PLM and every demo I see is document search or summaries. The slow part for us is routing change orders for approval and getting purchasing the updated BOM once a change is released. I would rather automate that handoff than add another chat window. Where has AI saved real time in PLM workflows for your team?",
       "new": false
     }
   ],
