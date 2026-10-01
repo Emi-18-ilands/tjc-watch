@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T03:49:29.849426+00:00",
+  "checked_at": "2026-10-01T04:22:09.296110+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "No-Parsnip-824",
       "url": "https://www.reddit.com/r/automation/comments/1wuoxnp/thinking_about_starting_an_ai_invoicedocument/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wumya7",
@@ -117,7 +117,7 @@
       "id": "1wte41t",
       "created_utc": 1790697809,
       "title": "How do you stop new support reps from relying on senior agents during live calls?",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "Soft-Concept2531",
       "url": "https://www.reddit.com/r/automation/comments/1wte41t/how_do_you_stop_new_support_reps_from_relying_on/",
