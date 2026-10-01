@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T07:23:11.591826+00:00",
+  "checked_at": "2026-10-01T07:48:51.293287+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -320,28 +320,6 @@
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
       "body": "I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineering now wants AI features in our PLM and every demo I see is document search or summaries. The slow part for us is routing change orders for approval and getting purchasing the updated BOM once a change is released. I would rather automate that handoff than add another chat window. Where has AI saved real time in PLM workflows for your team?",
-      "new": false
-    },
-    {
-      "id": "1wo68ne",
-      "created_utc": 1790170629,
-      "title": "Multi-agent workflows: when does splitting one AI agent into several actually help?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Webclues_Infotech",
-      "url": "https://www.reddit.com/r/automation/comments/1wo68ne/multiagent_workflows_when_does_splitting_one_ai/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wo2u4y",
-      "created_utc": 1790161357,
-      "title": "Local AI agent or cloud-hosted agent \u2014 what are you using?",
-      "score": 3,
-      "num_comments": 7,
-      "author": "techlatest_net",
-      "url": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
-      "body": "",
       "new": false
     }
   ],
