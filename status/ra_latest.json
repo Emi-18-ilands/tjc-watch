@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T01:47:29.911561+00:00",
+  "checked_at": "2026-10-01T02:20:29.415511+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Fuzzy-Bathroom-8190",
       "url": "https://www.reddit.com/r/automation/comments/1wumya7/how_are_you_automating_content_and_social_media/",
       "body": "I\u2019ve been looking at how small businesses and marketing teams are handling repetitive content and social media work with AI. One thing I keep seeing is that automation is not only about generating content. There\u2019s also the work around keeping a consistent brand voice, planning posts, making changes to existing content, and managing different channels. I\u2019m interested in how people here are approaching this. Do you prefer building your own automation workflows for content and social media, or using an existing tool and customizing it around your workflow?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wulft2",
