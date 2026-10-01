@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T20:48:13.895470+00:00",
+  "checked_at": "2026-10-01T21:20:01.347760+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -287,17 +287,6 @@
       "author": "Vivid_Complaint625",
       "url": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wrp1io",
-      "created_utc": 1790527535,
-      "title": "Has anyone found a good way to automate customer messages without making them feel robotic?",
-      "score": 11,
-      "num_comments": 23,
-      "author": "OwlZealousideal4779",
-      "url": "https://www.reddit.com/r/automation/comments/1wrp1io/has_anyone_found_a_good_way_to_automate_customer/",
-      "body": "I\u2019ve been thinking about this lately because a lot of businesses are automating their customer communication now, but some of the messages still feel super... automated lol. Ideally, I\u2019d want a setup where things like follow-ups, appointment reminders, FAQs, and lead responses can happen automatically, while still keeping the conversation natural. Curious what everyone here is using for this kind of workflow. Are you building it with n8n/Make/Zapier + different messaging APIs, or using an all-in-one platform? ",
       "new": false
     }
   ],
