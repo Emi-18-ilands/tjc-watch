@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T14:50:32.694258+00:00",
+  "checked_at": "2026-10-01T15:22:46.873278+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -364,17 +364,6 @@
       "author": "QuayToTheTruth",
       "url": "https://www.reddit.com/r/automation/comments/1wq83o7/anybody_from_the_uk_own_a_ghl_saas/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wq2isj",
-      "created_utc": 1790357514,
-      "title": "To AI or not to AI? The question is what to AI, and when.",
-      "score": 1,
-      "num_comments": 1,
-      "author": "tototoru",
-      "url": "https://www.reddit.com/r/automation/comments/1wq2isj/to_ai_or_not_to_ai_the_question_is_what_to_ai_and/",
-      "body": "We faced that problem on an OCR project, where the products on supplier invoices had to be matched to a client's catalog. Suppliers often use their own names and SKUs, not the client's. With large-context models and a catalog under 5K products, we could get away with sending the whole catalog with every invoice. We'd get a mostly correct result, but we'd burn billions of tokens for the number of invoices we had to process, so we made AI the last step instead. An invoice line gives you up to three clues. A barcode is the best clue: exact match or nothing, and its last digit is calculated from t",
       "new": false
     }
   ],
