@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-01T23:17:25.484713+00:00",
+  "checked_at": "2026-10-01T23:46:00.922569+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wverr3",
+      "created_utc": 1790897928,
+      "title": "Alpha estimation on images",
+      "score": 1,
+      "num_comments": 1,
+      "author": "lazzi_yt",
+      "url": "https://www.reddit.com/r/automation/comments/1wverr3/alpha_estimation_on_images/",
+      "body": "I'm in a bit of a pickle with an issue regarding background removal with transparent objects. I got studio images of cars, whom I need the background changed locally. I have a segmentation model to segment the bg area that's visible through the class and a general model to segment the entire car. I use a basic script that calculates the alpha for the entire window purely from brightness, but often there are bright reflections on the windows which throw off the calculation as well as simply looking unnatural. I've tried some open source matting models as well as inpainting with sd models but th",
+      "new": true
+    },
     {
       "id": "1wv0ead",
       "created_utc": 1790863675,
@@ -265,17 +276,6 @@
       "author": "Ultra04_",
       "url": "https://www.reddit.com/r/automation/comments/1wt29lq/im_currently_working_on_an_automation_projectpdf/",
       "body": "Hello. This is my first time posting here. Apology if It breches any rules etc. let me know I will edit. I'm currently working on PDF TO EXCEL automation project. It's basically as the name suggests take pdf process it and turn it into an excel. The company I'm working on is a product based and these PDFs are actually purchase orders. I have figured out the processing of pdf tp excel part, but the important and troubling part is that:we receive these PDFs in mails(attached) by the vendors. And the email detection and receiving is a task. Right now I used a python import, which can access my ma",
-      "new": false
-    },
-    {
-      "id": "1wsembm",
-      "created_utc": 1790602051,
-      "title": "I\u2019m maintaining a curated calendar of major robotics and Physical AI events. What am I missing?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "rgc4444",
-      "url": "https://www.reddit.com/r/automation/comments/1wsembm/im_maintaining_a_curated_calendar_of_major/",
-      "body": "",
       "new": false
     }
   ],
