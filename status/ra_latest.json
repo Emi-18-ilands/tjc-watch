@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-01T22:18:47.340470+00:00",
+  "checked_at": "2026-10-01T22:46:58.424223+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -275,17 +275,6 @@
       "num_comments": 1,
       "author": "rgc4444",
       "url": "https://www.reddit.com/r/automation/comments/1wsembm/im_maintaining_a_curated_calendar_of_major/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wrwptv",
-      "created_utc": 1790545739,
-      "title": "How should I start as someone in social sciences?",
-      "score": 1,
-      "num_comments": 3,
-      "author": "Vivid_Complaint625",
-      "url": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
       "body": "",
       "new": false
     }
