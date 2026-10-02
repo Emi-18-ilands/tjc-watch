@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T16:49:33.798848+00:00",
+  "checked_at": "2026-10-02T17:21:00.548826+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "rashreaction1015",
       "url": "https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/",
       "body": "We run customer support for a credit repair company and newer reps often get stuck when calls move between credit history disputes documents payments and account questions. They usually know the basics but once the call goes off script they end up messaging a senior rep or putting the customer on hold while they search for an answer. Looking into whether AI could listen to the call and surface useful guidance in real time based on what is being discussed. Ideally it would use our internal docs and past conversations so the answers match how the team actually handles these situations. The main ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wvrdps",
@@ -276,17 +276,6 @@
       "author": "UggsleyPaddams",
       "url": "https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/",
       "body": "We already have a weekly job that pulls rankings and traffic into a Sheet and posts a summary to Slack. Now marketing wants AI visibility in the same summary, and the source they picked is Ahrefs Brand Radar. My part is wiring it up. What I care about is prompt level data I can diff week over week rather than 1 score. What are people piping it into?",
-      "new": false
-    },
-    {
-      "id": "1wte41t",
-      "created_utc": 1790697809,
-      "title": "How do you stop new support reps from relying on senior agents during live calls?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Soft-Concept2531",
-      "url": "https://www.reddit.com/r/automation/comments/1wte41t/how_do_you_stop_new_support_reps_from_relying_on/",
-      "body": "[removed]",
       "new": false
     }
   ],
