@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T07:22:23.753886+00:00",
+  "checked_at": "2026-10-02T07:48:55.513201+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Altruitic_Keyel_2796",
       "url": "https://www.reddit.com/r/automation/comments/1wvn314/hr_operations_automations_that_actually_help/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wvmpd5",
