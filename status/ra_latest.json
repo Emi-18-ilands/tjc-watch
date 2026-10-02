@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T13:50:02.512064+00:00",
+  "checked_at": "2026-10-02T14:23:06.713134+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -275,17 +275,6 @@
       "num_comments": 1,
       "author": "Soft-Concept2531",
       "url": "https://www.reddit.com/r/automation/comments/1wte41t/how_do_you_stop_new_support_reps_from_relying_on/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wtbyn2",
-      "created_utc": 1790692893,
-      "title": "MultiBond-AI -  A Assistant who can help you run your computer from whereever you are in the world ... with signal ;)",
-      "score": 1,
-      "num_comments": 1,
-      "author": "MultiBond-AI",
-      "url": "https://www.reddit.com/r/automation/comments/1wtbyn2/multibondai_a_assistant_who_can_help_you_run_your/",
       "body": "[removed]",
       "new": false
     }
