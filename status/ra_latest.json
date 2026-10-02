@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T12:25:44.315427+00:00",
+  "checked_at": "2026-10-02T12:53:18.449645+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -183,8 +183,8 @@
       "id": "1wulft2",
       "created_utc": 1790814646,
       "title": "Need Suggestions for a Simple AI Tool",
-      "score": 1,
-      "num_comments": 0,
+      "score": 7,
+      "num_comments": 7,
       "author": "Ragingboomerang",
       "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "body": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you in your work. Please share some simple ideas, and I will see what I can do.",
@@ -309,17 +309,6 @@
       "author": "No-Marionberry8257",
       "url": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
       "body": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I feel like. So curious to the experts here, what are the craziest business automations you have come across so far?",
-      "new": false
-    },
-    {
-      "id": "1wt29lq",
-      "created_utc": 1790661845,
-      "title": "I'm currently working on an automation project(PDF to Excel) and am in desperate need of suggestions and options",
-      "score": 7,
-      "num_comments": 29,
-      "author": "Ultra04_",
-      "url": "https://www.reddit.com/r/automation/comments/1wt29lq/im_currently_working_on_an_automation_projectpdf/",
-      "body": "Hello. This is my first time posting here. Apology if It breches any rules etc. let me know I will edit. I'm currently working on PDF TO EXCEL automation project. It's basically as the name suggests take pdf process it and turn it into an excel. The company I'm working on is a product based and these PDFs are actually purchase orders. I have figured out the processing of pdf tp excel part, but the important and troubling part is that:we receive these PDFs in mails(attached) by the vendors. And the email detection and receiving is a task. Right now I used a python import, which can access my ma",
       "new": false
     }
   ],
