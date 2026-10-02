@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-02T06:25:57.346963+00:00",
+  "checked_at": "2026-10-02T06:53:35.955447+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wvmpd5",
+      "created_utc": 1790923002,
+      "title": "Need Windows VPS hosting suggestions for running claude's \"Computer Use\" features 24x7",
+      "score": 1,
+      "num_comments": 1,
+      "author": "fardeen957",
+      "url": "https://www.reddit.com/r/automation/comments/1wvmpd5/need_windows_vps_hosting_suggestions_for_running/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wvfnu4",
       "created_utc": 1790900417,
