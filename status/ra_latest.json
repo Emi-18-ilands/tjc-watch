@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T22:46:52.478705+00:00",
+  "checked_at": "2026-10-02T23:16:48.137720+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -287,17 +287,6 @@
       "author": "jebssz",
       "url": "https://www.reddit.com/r/automation/comments/1wtpinc/ai_agencies_are_selling_prompt_wrappers_that/",
       "body": "I've been talking to a lot of people running AI agencies and consultancies, and I keep seeing the same pattern. The agency builds a slick agent demo. Three months later it quietly stops working, and nobody on the client side can fix it. It's almost never the model. It's that the agent runs on the client's messy data: spreadsheets with free-text statuses, five versions of the same customer, a CRM nobody updates. The demo worked on clean sample data. Production isn't clean. So my take is uncomfortable. A lot of what's sold as \"AI automation\" is really an unpaid data-cleanup project with a chatbo",
-      "new": false
-    },
-    {
-      "id": "1wtmv1h",
-      "created_utc": 1790717642,
-      "title": "Ahrefs Brand Radar AI visibility data into a weekly automated report, what are people piping it into",
-      "score": 1,
-      "num_comments": 11,
-      "author": "UggsleyPaddams",
-      "url": "https://www.reddit.com/r/automation/comments/1wtmv1h/ahrefs_brand_radar_ai_visibility_data_into_a/",
-      "body": "We already have a weekly job that pulls rankings and traffic into a Sheet and posts a summary to Slack. Now marketing wants AI visibility in the same summary, and the source they picked is Ahrefs Brand Radar. My part is wiring it up. What I care about is prompt level data I can diff week over week rather than 1 score. What are people piping it into?",
       "new": false
     }
   ],
