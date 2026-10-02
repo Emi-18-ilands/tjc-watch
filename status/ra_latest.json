@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T12:53:18.449645+00:00",
+  "checked_at": "2026-10-02T13:22:40.142531+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -287,28 +287,6 @@
       "author": "MultiBond-AI",
       "url": "https://www.reddit.com/r/automation/comments/1wtbyn2/multibondai_a_assistant_who_can_help_you_run_your/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wt6wus",
-      "created_utc": 1790679065,
-      "title": "My client wanted their entire Sales process automated because adoption was low. I tried paperclip and hyper agents, but I failed.",
-      "score": 13,
-      "num_comments": 15,
-      "author": "rvy474",
-      "url": "https://www.reddit.com/r/automation/comments/1wt6wus/my_client_wanted_their_entire_sales_process/",
-      "body": "This was an engagement with a medium size construction tech company in the middle east, and it started off great. I was automating CRM hygiene, Proposal generation and bunch of close ended tasks for their 5 man sales team. Using openclaw and Gbrain I also created a Company GPT for their sales people so they can get easy access to deal and product intelligence via Slack. It worked perfectly. But I faced a big challenge with adoption. People were set in their ways, and no one was using the automations. The sales lead eventually came to me and asked if I could automate the entire sales process en",
-      "new": false
-    },
-    {
-      "id": "1wt4xd7",
-      "created_utc": 1790671791,
-      "title": "What are the craziest business automations you have come across so far?",
-      "score": 113,
-      "num_comments": 33,
-      "author": "No-Marionberry8257",
-      "url": "https://www.reddit.com/r/automation/comments/1wt4xd7/what_are_the_craziest_business_automations_you/",
-      "body": "As LLMs get more and more powerful, I feel the scope and craziness of automations should definitely get crazier and crazier by day. However I haven't really seen great use cases in production yet I feel like. So curious to the experts here, what are the craziest business automations you have come across so far?",
       "new": false
     }
   ],
