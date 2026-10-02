@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T11:48:17.055652+00:00",
+  "checked_at": "2026-10-02T12:25:44.315427+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1wvrdps/two_of_our_longest_serving_ops_people_leave_next/",
       "body": "Happy for them, slightly terrifying for the rest of us. An uncomfortable amount of how things really get done lives in their heads and a few personal spreadsheets, and the official documentation is years out of date. Most AI pitches I get are a chatbot sitting on top of those old docs, which feels backwards. Celonis and skan ai get mentioned for mapping how the work actually runs, which sounds closer to the real problem. Curious what has worked for anyone who has been through a handover like this.",
-      "new": true
+      "new": false
     },
     {
       "id": "1wvn314",
