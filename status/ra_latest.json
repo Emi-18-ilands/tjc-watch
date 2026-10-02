@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T21:19:46.117795+00:00",
+  "checked_at": "2026-10-02T21:47:41.970088+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Brave-Ad1653",
       "url": "https://www.reddit.com/r/automation/comments/1ww5hwf/helping_small_businesses_stop_losing_leads_to/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1ww1m1l",
