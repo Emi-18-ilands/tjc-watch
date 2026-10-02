@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-02T20:48:14.403608+00:00",
+  "checked_at": "2026-10-02T21:19:46.117795+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1ww5hwf",
+      "created_utc": 1790975857,
+      "title": "Helping small businesses stop losing leads to missed calls and slow follow-up using AI",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Brave-Ad1653",
+      "url": "https://www.reddit.com/r/automation/comments/1ww5hwf/helping_small_businesses_stop_losing_leads_to/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1ww1m1l",
       "created_utc": 1790966437,
