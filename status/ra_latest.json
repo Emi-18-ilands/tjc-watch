@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T02:57:06.398894+00:00",
+  "checked_at": "2026-10-03T03:25:28.594001+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "DarkriaNiCk",
       "url": "https://www.reddit.com/r/automation/comments/1wwbvcv/anyone_else_shifting_to_ai_agents_like/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1ww5hwf",
