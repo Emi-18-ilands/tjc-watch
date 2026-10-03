@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T04:47:39.296481+00:00",
+  "checked_at": "2026-10-03T05:25:36.726753+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "costafilh0",
       "url": "https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/",
       "body": "I like the original more, but the one on the live stream after the AI summit came out really nice too.",
-      "new": true
+      "new": false
     },
     {
       "id": "1wwe362",
@@ -23,7 +23,7 @@
       "author": "costafilh0",
       "url": "https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wwbvcv",
