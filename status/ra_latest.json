@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-03T05:50:34.772025+00:00",
+  "checked_at": "2026-10-03T06:26:59.350158+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wwfuwn",
+      "created_utc": 1791007914,
+      "title": "built a way to automate phone apps that have no api at massive scale",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Interesting_Hotel617",
+      "url": "https://www.reddit.com/r/automation/comments/1wwfuwn/built_a_way_to_automate_phone_apps_that_have_no/",
+      "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled.cx. it's real android phones in the cloud, you open them in a browser, each one has its own devic",
+      "new": true
+    },
+    {
+      "id": "1wwfibe",
+      "created_utc": 1791006666,
+      "title": "How do you find out when a client's automation breaks?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "yesimfarida",
+      "url": "https://www.reddit.com/r/automation/comments/1wwfibe/how_do_you_find_out_when_a_clients_automation/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1wwebeh",
       "created_utc": 1791002455,
