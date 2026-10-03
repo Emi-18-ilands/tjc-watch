@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-03T11:04:33.733314+00:00",
+  "checked_at": "2026-10-03T13:39:27.709528+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wwmik1",
+      "created_utc": 1791031932,
+      "title": "What if an online group be better if ai classified posts instead of simply removing them for breaking a rule?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Honest-Let-7219",
+      "url": "https://www.reddit.com/r/automation/comments/1wwmik1/what_if_an_online_group_be_better_if_ai/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wwgjd5",
       "created_utc": 1791010425,
@@ -150,8 +161,8 @@
       "id": "1wverr3",
       "created_utc": 1790897928,
       "title": "Alpha estimation on images",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 6,
       "author": "lazzi_yt",
       "url": "https://www.reddit.com/r/automation/comments/1wverr3/alpha_estimation_on_images/",
       "body": "I'm in a bit of a pickle with an issue regarding background removal with transparent objects. I got studio images of cars, whom I need the background changed locally. I have a segmentation model to segment the bg area that's visible through the class and a general model to segment the entire car. I use a basic script that calculates the alpha for the entire window purely from brightness, but often there are bright reflections on the windows which throw off the calculation as well as simply looking unnatural. I've tried some open source matting models as well as inpainting with sd models but th",
