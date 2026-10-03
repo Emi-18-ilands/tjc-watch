@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T07:01:32.271570+00:00",
+  "checked_at": "2026-10-03T07:21:00.016970+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Honest-Let-7219",
       "url": "https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1wwfuwn",
