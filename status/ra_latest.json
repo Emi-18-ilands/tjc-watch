@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-03T00:26:32.450583+00:00",
+  "checked_at": "2026-10-03T00:52:05.089817+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -216,7 +216,7 @@
       "id": "1wulft2",
       "created_utc": 1790814646,
       "title": "Need Suggestions for a Simple AI Tool",
-      "score": 7,
+      "score": 6,
       "num_comments": 7,
       "author": "Ragingboomerang",
       "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
@@ -276,17 +276,6 @@
       "author": "Ahmiii_83",
       "url": "https://www.reddit.com/r/automation/comments/1wtxrfk/agencies_selling_automations_or_ai_agents_who/",
       "body": "Most of my work is building automations in n8n and AI agents, and a surprising amount of it is fixing things that looked finished. A workflow that runs green but quietly does nothing. A webhook that fires twice and creates duplicate records. An agent that answers confidently with made-up information. An API account that gets restricted in the middle of a project. That's the part I've come to enjoy most: reading the execution logs, finding where it actually broke, and making it hold up with real users instead of only in a demo. I also build the websites these systems usually sit behind, though ",
-      "new": false
-    },
-    {
-      "id": "1wtpinc",
-      "created_utc": 1790724526,
-      "title": "\"AI agencies\" are selling prompt wrappers that break in 90 days. Change my mind.",
-      "score": 31,
-      "num_comments": 23,
-      "author": "jebssz",
-      "url": "https://www.reddit.com/r/automation/comments/1wtpinc/ai_agencies_are_selling_prompt_wrappers_that/",
-      "body": "I've been talking to a lot of people running AI agencies and consultancies, and I keep seeing the same pattern. The agency builds a slick agent demo. Three months later it quietly stops working, and nobody on the client side can fix it. It's almost never the model. It's that the agent runs on the client's messy data: spreadsheets with free-text statuses, five versions of the same customer, a CRM nobody updates. The demo worked on clean sample data. Production isn't clean. So my take is uncomfortable. A lot of what's sold as \"AI automation\" is really an unpaid data-cleanup project with a chatbo",
       "new": false
     }
   ],
