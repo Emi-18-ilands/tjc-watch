@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-02T23:44:49.728568+00:00",
+  "checked_at": "2026-10-03T00:26:32.450583+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -117,8 +117,8 @@
       "id": "1wuxoc1",
       "created_utc": 1790856329,
       "title": "Anyone tried looplabs.run for automation and controls agent actions?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 12,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1wuxoc1/anyone_tried_looplabsrun_for_automation_and/",
       "body": "anyone building ai automaton workflows with looplabs ?",
