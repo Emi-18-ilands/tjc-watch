@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-03T06:26:59.350158+00:00",
+  "checked_at": "2026-10-03T07:01:32.271570+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wwgjd5",
+      "created_utc": 1791010425,
+      "title": "Anyone who is using ECC github repo and has had a great result share your stories",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Honest-Let-7219",
+      "url": "https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wwfuwn",
       "created_utc": 1791007914,
@@ -12,7 +23,7 @@
       "author": "Interesting_Hotel617",
       "url": "https://www.reddit.com/r/automation/comments/1wwfuwn/built_a_way_to_automate_phone_apps_that_have_no/",
       "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled.cx. it's real android phones in the cloud, you open them in a browser, each one has its own devic",
-      "new": true
+      "new": false
     },
     {
       "id": "1wwfibe",
@@ -23,7 +34,7 @@
       "author": "yesimfarida",
       "url": "https://www.reddit.com/r/automation/comments/1wwfibe/how_do_you_find_out_when_a_clients_automation/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1wwebeh",
@@ -309,17 +320,6 @@
       "author": "Lillycontent",
       "url": "https://www.reddit.com/r/automation/comments/1wu3o7w/has_anyone_found_a_simple_linkedin_automation/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wu1q0e",
-      "created_utc": 1790765327,
-      "title": "Which in-demand AI roles can you largely do with AI's help? Looking for your take",
-      "score": 5,
-      "num_comments": 18,
-      "author": "OutcomeCommercial908",
-      "url": "https://www.reddit.com/r/automation/comments/1wu1q0e/which_indemand_ai_roles_can_you_largely_do_with/",
-      "body": "I'm a professional with 8 years of experience in change management, project management and business/marketing roles across several sectors. Over the past two years I've been moving into roles directly linked to AI: AI project management, strategy, adoption and implementation. Nothing special. I took some courses and have been experimenting with LLMs in my own time ever since ChatGPT came out, mostly because I'm genuinely interested. I quickly noticed that my knowledge, however limited, put me well ahead of most of my peers. So I made the leap and landed an AI role at a private equity firm that",
       "new": false
     }
   ],
