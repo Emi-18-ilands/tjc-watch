@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-03T04:21:12.572384+00:00",
+  "checked_at": "2026-10-03T04:47:39.296481+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wwebeh",
+      "created_utc": 1791002455,
+      "title": "Which one is your favorite?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "costafilh0",
+      "url": "https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/",
+      "body": "I like the original more, but the one on the live stream after the AI summit came out really nice too.",
+      "new": true
+    },
+    {
+      "id": "1wwe362",
+      "created_utc": 1791001663,
+      "title": "Which one is your favorite?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "costafilh0",
+      "url": "https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wwbvcv",
       "created_utc": 1790994379,
@@ -276,17 +298,6 @@
       "author": "OutcomeCommercial908",
       "url": "https://www.reddit.com/r/automation/comments/1wu1q0e/which_indemand_ai_roles_can_you_largely_do_with/",
       "body": "I'm a professional with 8 years of experience in change management, project management and business/marketing roles across several sectors. Over the past two years I've been moving into roles directly linked to AI: AI project management, strategy, adoption and implementation. Nothing special. I took some courses and have been experimenting with LLMs in my own time ever since ChatGPT came out, mostly because I'm genuinely interested. I quickly noticed that my knowledge, however limited, put me well ahead of most of my peers. So I made the leap and landed an AI role at a private equity firm that",
-      "new": false
-    },
-    {
-      "id": "1wtxrfk",
-      "created_utc": 1790750191,
-      "title": "Agencies selling automations or AI agents who builds and fixes them for you?",
-      "score": 7,
-      "num_comments": 21,
-      "author": "Ahmiii_83",
-      "url": "https://www.reddit.com/r/automation/comments/1wtxrfk/agencies_selling_automations_or_ai_agents_who/",
-      "body": "Most of my work is building automations in n8n and AI agents, and a surprising amount of it is fixing things that looked finished. A workflow that runs green but quietly does nothing. A webhook that fires twice and creates duplicate records. An agent that answers confidently with made-up information. An API account that gets restricted in the middle of a project. That's the part I've come to enjoy most: reading the execution logs, finding where it actually broke, and making it hold up with real users instead of only in a demo. I also build the websites these systems usually sit behind, though ",
       "new": false
     }
   ],
