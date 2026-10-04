@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-04T05:56:54.846249+00:00",
+  "checked_at": "2026-10-04T11:35:04.679314+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wxax6y",
+      "created_utc": 1791103923,
+      "title": "I'm a bit confused, I need your help",
+      "score": 1,
+      "num_comments": 1,
+      "author": "XunooL",
+      "url": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
+      "body": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, FastAPI...etc Which stack is better for delivering the automation product to a client? Note: \\- I know that the clients won't even know what I'm using to solve their problems until I deliver it, but they will judge when I reach the hosting/usage cost (the high-code is way less than no-code when it comes to using an automation system on a daily basis)",
+      "new": true
+    },
     {
       "id": "1wwy2ka",
       "created_utc": 1791061711,
@@ -117,8 +128,8 @@
       "id": "1ww1m1l",
       "created_utc": 1790966437,
       "title": "Anyone automating invoice reminders without Zapier?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 7,
+      "num_comments": 28,
       "author": "Excellent-Wheel7769",
       "url": "https://www.reddit.com/r/automation/comments/1ww1m1l/anyone_automating_invoice_reminders_without_zapier/",
       "body": "i need to chase unpaid invoices but between school runs and naps the manual follow ups keep slipping. found a simple script that checks a Google Sheet every morning and sends polite emails through Gmail. it skips weekends and stops once the payment hits. so far it caught two late ones last month. curious if anyone else runs something similar without paying for Zapier, or if there is a better way to handle the edge cases like partial payments",
