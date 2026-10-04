@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-04T04:01:03.624956+00:00",
+  "checked_at": "2026-10-04T05:56:54.846249+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -128,8 +128,8 @@
       "id": "1wvyl47",
       "created_utc": 1790959241,
       "title": "Anyone automated real time guidance for support reps during live calls?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 23,
+      "num_comments": 29,
       "author": "rashreaction1015",
       "url": "https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/",
       "body": "We run customer support for a credit repair company and newer reps often get stuck when calls move between credit history disputes documents payments and account questions. They usually know the basics but once the call goes off script they end up messaging a senior rep or putting the customer on hold while they search for an answer. Looking into whether AI could listen to the call and surface useful guidance in real time based on what is being discussed. Ideally it would use our internal docs and past conversations so the answers match how the team actually handles these situations. The main ",
