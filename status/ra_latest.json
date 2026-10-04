@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-03T18:32:40.668531+00:00",
+  "checked_at": "2026-10-04T00:58:47.288142+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wwy2ka",
+      "created_utc": 1791061711,
+      "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "clountaingleig1",
+      "url": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
+      "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled(.)cx it's real android phones in the cloud, you open them in a browser, each one has its own devi",
+      "new": true
+    },
+    {
+      "id": "1www23f",
+      "created_utc": 1791056547,
+      "title": "Has anyone tried the ChatGPT Plus free offer? How many credits do you actually get?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Least_Arm3744",
+      "url": "https://www.reddit.com/r/automation/comments/1www23f/has_anyone_tried_the_chatgpt_plus_free_offer_how/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wwmik1",
       "created_utc": 1791031932,
@@ -117,8 +139,8 @@
       "id": "1wvrdps",
       "created_utc": 1790940615,
       "title": "Two of our longest serving ops people leave next year. Any AI for operations teams that helps keep what they know?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 4,
+      "num_comments": 29,
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1wvrdps/two_of_our_longest_serving_ops_people_leave_next/",
       "body": "Happy for them, slightly terrifying for the rest of us. An uncomfortable amount of how things really get done lives in their heads and a few personal spreadsheets, and the official documentation is years out of date. Most AI pitches I get are a chatbot sitting on top of those old docs, which feels backwards. Celonis and skan ai get mentioned for mapping how the work actually runs, which sounds closer to the real problem. Curious what has worked for anyone who has been through a handover like this.",
@@ -161,7 +183,7 @@
       "id": "1wverr3",
       "created_utc": 1790897928,
       "title": "Alpha estimation on images",
-      "score": 2,
+      "score": 3,
       "num_comments": 6,
       "author": "lazzi_yt",
       "url": "https://www.reddit.com/r/automation/comments/1wverr3/alpha_estimation_on_images/",
