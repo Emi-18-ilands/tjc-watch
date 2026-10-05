@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T18:26:11.799586+00:00",
+  "checked_at": "2026-10-05T18:54:14.689199+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "outlets6",
       "url": "https://www.reddit.com/r/automation/comments/1wyftwm/how_do_you_dedupe_a_guest_list_when_half_the/",
       "body": "I'm trying to work out how much of a wedding guest list you can sensibly automate before you have to call somebody's mum. Take \"Linda,\" \"Aunt Linda,\" and \"Linda plus Robert\" on three rows. Those are example names, but that's the kind of mess I mean. It could be the same person entered twice, or one row could be an invitation for two people. A shared email address doesn't tell you which. Deleting the wrong row could quietly take someone off the list. The bit I'd try with EvoX is making a list of entries to review. I'd start with a small test sheet using fake names and contact details, including",
-      "new": true
+      "new": false
     },
     {
       "id": "1wy5ekz",
