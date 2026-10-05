@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-05T17:49:21.345435+00:00",
+  "checked_at": "2026-10-05T18:26:11.799586+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wyftwm",
+      "created_utc": 1791224010,
+      "title": "How do you dedupe a guest list when half the names are family nicknames?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "outlets6",
+      "url": "https://www.reddit.com/r/automation/comments/1wyftwm/how_do_you_dedupe_a_guest_list_when_half_the/",
+      "body": "I'm trying to work out how much of a wedding guest list you can sensibly automate before you have to call somebody's mum. Take \"Linda,\" \"Aunt Linda,\" and \"Linda plus Robert\" on three rows. Those are example names, but that's the kind of mess I mean. It could be the same person entered twice, or one row could be an invitation for two people. A shared email address doesn't tell you which. Deleting the wrong row could quietly take someone off the list. The bit I'd try with EvoX is making a list of entries to review. I'd start with a small test sheet using fake names and contact details, including",
+      "new": true
+    },
     {
       "id": "1wy5ekz",
       "created_utc": 1791197319,
@@ -331,17 +342,6 @@
       "author": "Fuzzy-Bathroom-8190",
       "url": "https://www.reddit.com/r/automation/comments/1wumya7/how_are_you_automating_content_and_social_media/",
       "body": "I\u2019ve been looking at how small businesses and marketing teams are handling repetitive content and social media work with AI. One thing I keep seeing is that automation is not only about generating content. There\u2019s also the work around keeping a consistent brand voice, planning posts, making changes to existing content, and managing different channels. I\u2019m interested in how people here are approaching this. Do you prefer building your own automation workflows for content and social media, or using an existing tool and customizing it around your workflow?",
-      "new": false
-    },
-    {
-      "id": "1wulft2",
-      "created_utc": 1790814646,
-      "title": "Need Suggestions for a Simple AI Tool",
-      "score": 6,
-      "num_comments": 7,
-      "author": "Ragingboomerang",
-      "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
-      "body": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you in your work. Please share some simple ideas, and I will see what I can do.",
       "new": false
     }
   ],
