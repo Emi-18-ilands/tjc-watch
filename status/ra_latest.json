@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-05T10:23:29.692129+00:00",
+  "checked_at": "2026-10-05T10:50:27.069725+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wy5ekz",
+      "created_utc": 1791197319,
+      "title": "Need help",
+      "score": 1,
+      "num_comments": 1,
+      "author": "pratikshyap",
+      "url": "https://www.reddit.com/r/automation/comments/1wy5ekz/need_help/",
+      "body": "I need to automate a mobile app, and I'm kind of new to automation. Details of the app are given below: With Memoir, you can: \u2022 Create and organise trips with friends and family \u2022 Build and follow your trip timeline \u2022 Capture photos and memories together \u2022 Track and split group expenses \u2022 Settle expenses easily after the trip \u2022 Plan activities and organise your itinerary \u2022 Keep your past trips and memories in one place Can someone help me with my confusion about which tool to use and how?",
+      "new": true
+    },
     {
       "id": "1wxax6y",
       "created_utc": 1791103923,
