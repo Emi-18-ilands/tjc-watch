@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-05T17:19:58.674556+00:00",
+  "checked_at": "2026-10-05T17:49:21.345435+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -342,17 +342,6 @@
       "author": "Ragingboomerang",
       "url": "https://www.reddit.com/r/automation/comments/1wulft2/need_suggestions_for_a_simple_ai_tool/",
       "body": "Hi guys,I am planning to create a simple AI tool for people in this niche, something that can be helpful to people visiting this sub and they wish to use it for free, a simple tool that can help you in your work. Please share some simple ideas, and I will see what I can do.",
-      "new": false
-    },
-    {
-      "id": "1wuk7c4",
-      "created_utc": 1790811182,
-      "title": "Anyone tried looplabs.run for automation and controls agent actions?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Common_Dream9420",
-      "url": "https://www.reddit.com/r/automation/comments/1wuk7c4/anyone_tried_looplabsrun_for_automation_and/",
-      "body": "",
       "new": false
     }
   ],
