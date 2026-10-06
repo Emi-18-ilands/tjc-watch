@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-06T00:31:02.233016+00:00",
+  "checked_at": "2026-10-06T00:54:41.860209+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wypba0",
+      "created_utc": 1791247854,
+      "title": "What is the best way to automate recurring cloud cost reporting and approvals across multiple client accounts?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Aegiaaa",
+      "url": "https://www.reddit.com/r/automation/comments/1wypba0/what_is_the_best_way_to_automate_recurring_cloud/",
+      "body": "I run a cloud consultancy and I'm trying to automate routine infrastructure maintenance. The logic to detect waste and calculate actions is there , I'm just having trouble with the approval state machine. We're currently generating a list of recommendations and then opening tickets, but my team has to wait for client approval before running standard cleanup scripts. Which makes it not very automated IMO",
+      "new": true
+    },
     {
       "id": "1wyftwm",
       "created_utc": 1791224010,
@@ -320,28 +331,6 @@
       "author": "Any_Assistant_4969",
       "url": "https://www.reddit.com/r/automation/comments/1wutll8/what_are_you_using_to_stay_on_top_of_follow_ups/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wuoxnp",
-      "created_utc": 1790825130,
-      "title": "Thinking about starting an AI invoice/document processing automation service \u2014 looking for advice",
-      "score": 1,
-      "num_comments": 1,
-      "author": "No-Parsnip-824",
-      "url": "https://www.reddit.com/r/automation/comments/1wuoxnp/thinking_about_starting_an_ai_invoicedocument/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wumya7",
-      "created_utc": 1790819071,
-      "title": "How are you automating content and social media tasks?",
-      "score": 1,
-      "num_comments": 8,
-      "author": "Fuzzy-Bathroom-8190",
-      "url": "https://www.reddit.com/r/automation/comments/1wumya7/how_are_you_automating_content_and_social_media/",
-      "body": "I\u2019ve been looking at how small businesses and marketing teams are handling repetitive content and social media work with AI. One thing I keep seeing is that automation is not only about generating content. There\u2019s also the work around keeping a consistent brand voice, planning posts, making changes to existing content, and managing different channels. I\u2019m interested in how people here are approaching this. Do you prefer building your own automation workflows for content and social media, or using an existing tool and customizing it around your workflow?",
       "new": false
     }
   ],
