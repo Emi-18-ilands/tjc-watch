@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T19:47:18.292426+00:00",
+  "checked_at": "2026-10-06T20:21:11.165924+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -330,17 +330,6 @@
       "num_comments": 1,
       "author": "ColinScottHarper",
       "url": "https://www.reddit.com/r/automation/comments/1wuv4re/looking_for_a_banner_ad_resizing_tool_that_moves/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wuuz56",
-      "created_utc": 1790847131,
-      "title": "Web form automation! Need Help",
-      "score": 1,
-      "num_comments": 1,
-      "author": "yaswanth52",
-      "url": "https://www.reddit.com/r/automation/comments/1wuuz56/web_form_automation_need_help/",
       "body": "[removed]",
       "new": false
     }
