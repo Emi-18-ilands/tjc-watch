@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-06T21:46:44.540106+00:00",
+  "checked_at": "2026-10-06T22:20:14.502512+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wzfdmx",
+      "created_utc": 1791323427,
+      "title": "Starting an AI automation agency. Need feedback on my demo and advice on a temporary side hustle",
+      "score": 1,
+      "num_comments": 1,
+      "author": "DayBeautiful2205",
+      "url": "https://www.reddit.com/r/automation/comments/1wzfdmx/starting_an_ai_automation_agency_need_feedback_on/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1wz640b",
       "created_utc": 1791301866,
@@ -308,17 +319,6 @@
       "num_comments": 1,
       "author": "compentenza",
       "url": "https://www.reddit.com/r/automation/comments/1wuvx7i/how_document_automation_software_can_simplify/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wuv5lu",
-      "created_utc": 1790847838,
-      "title": "Looking for a banner ad resizing tool that moves the text too",
-      "score": 1,
-      "num_comments": 1,
-      "author": "ColinScottHarper",
-      "url": "https://www.reddit.com/r/automation/comments/1wuv5lu/looking_for_a_banner_ad_resizing_tool_that_moves/",
       "body": "[removed]",
       "new": false
     }
