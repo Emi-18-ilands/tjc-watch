@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-06T18:23:17.126617+00:00",
+  "checked_at": "2026-10-06T18:52:34.637099+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -342,17 +342,6 @@
       "author": "yaswanth52",
       "url": "https://www.reddit.com/r/automation/comments/1wuuz56/web_form_automation_need_help/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wutll8",
-      "created_utc": 1790841671,
-      "title": "What are you using to stay on top of follow ups ? any AI assistant for follow-ups you can recommend, would be really appreciated \ud83d\ude4f",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Any_Assistant_4969",
-      "url": "https://www.reddit.com/r/automation/comments/1wutll8/what_are_you_using_to_stay_on_top_of_follow_ups/",
-      "body": "",
       "new": false
     }
   ],
