@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-06T03:49:37.302656+00:00",
+  "checked_at": "2026-10-06T04:22:02.786504+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wytcqb",
+      "created_utc": 1791260472,
+      "title": "Agent work mode- Cloud workaround help.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "BigRandy01",
+      "url": "https://www.reddit.com/r/automation/comments/1wytcqb/agent_work_mode_cloud_workaround_help/",
+      "body": "Hey guys, I\u2019ve been working on a job for a client where they want me to make listing for vrbo, booking, Airbnb, and other platforms. I wanted to use chat gpt in agent mode to build these for me then I would review them and edit anything incorrect. However on booking, they won\u2019t let me sign in from the cloud browser in gpt work mode. Has anyone found a work around for this so it cannot tell it\u2019s and agent? Or is there a better ai to use for this type of work? I need to do this for three different properties with 5 units on each. So I\u2019d love to save myself the hours and hours of mindless clickin",
+      "new": true
+    },
     {
       "id": "1wypba0",
       "created_utc": 1791247854,
