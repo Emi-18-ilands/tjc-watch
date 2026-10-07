@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T14:49:48.623547+00:00",
+  "checked_at": "2026-10-07T15:32:31.190080+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -297,17 +297,6 @@
       "num_comments": 1,
       "author": "LokeshSequentum",
       "url": "https://www.reddit.com/r/automation/comments/1wv0ead/which_stealthantidetect_tools_have_you_used/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wuz233",
-      "created_utc": 1790860272,
-      "title": "Help to building bot to book tennis court",
-      "score": 1,
-      "num_comments": 1,
-      "author": "kungfuman888",
-      "url": "https://www.reddit.com/r/automation/comments/1wuz233/help_to_building_bot_to_book_tennis_court/",
       "body": "",
       "new": false
     }
