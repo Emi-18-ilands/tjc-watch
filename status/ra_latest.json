@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T12:28:33.235396+00:00",
+  "checked_at": "2026-10-07T12:57:00.274642+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -51,8 +51,8 @@
       "id": "1wypba0",
       "created_utc": 1791247854,
       "title": "What is the best way to automate recurring cloud cost reporting and approvals across multiple client accounts?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 14,
+      "num_comments": 29,
       "author": "Aegiaaa",
       "url": "https://www.reddit.com/r/automation/comments/1wypba0/what_is_the_best_way_to_automate_recurring_cloud/",
       "body": "I run a cloud consultancy and I'm trying to automate routine infrastructure maintenance. The logic to detect waste and calculate actions is there , I'm just having trouble with the approval state machine. We're currently generating a list of recommendations and then opening tickets, but my team has to wait for client approval before running standard cleanup scripts. Which makes it not very automated IMO",
