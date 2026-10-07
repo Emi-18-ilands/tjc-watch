@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-07T13:24:01.528422+00:00",
+  "checked_at": "2026-10-07T13:50:43.252842+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1wzwfui",
+      "created_utc": 1791379446,
+      "title": "What is the best way to get your first few n8n automation clients?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "DoubtAdditional745",
+      "url": "https://www.reddit.com/r/automation/comments/1wzwfui/what_is_the_best_way_to_get_your_first_few_n8n/",
+      "body": "I\u2019ve built around 9 n8n workflows so far including an ai compliance agent lead generation systems and content automation, all self taught and mostly from my phone. I am ready to start taking on paid projects but finding clients has been the hard part. How did you get your first few automation clients and did upwork, reddit, cold outreach or something else work best for you? Any tips would be great. ",
+      "new": true
+    },
     {
       "id": "1wzqslj",
       "created_utc": 1791360137,
@@ -298,17 +309,6 @@
       "author": "kungfuman888",
       "url": "https://www.reddit.com/r/automation/comments/1wuz233/help_to_building_bot_to_book_tennis_court/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wuxoc1",
-      "created_utc": 1790856329,
-      "title": "Anyone tried looplabs.run for automation and controls agent actions?",
-      "score": 2,
-      "num_comments": 12,
-      "author": "Common_Dream9420",
-      "url": "https://www.reddit.com/r/automation/comments/1wuxoc1/anyone_tried_looplabsrun_for_automation_and/",
-      "body": "anyone building ai automaton workflows with looplabs ?",
       "new": false
     }
   ],
