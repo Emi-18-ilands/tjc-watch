@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T08:24:10.541195+00:00",
+  "checked_at": "2026-10-07T08:51:06.992366+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "lappetrice",
       "url": "https://www.reddit.com/r/automation/comments/1wzqslj/what_are_the_most_impressive_automation_tools_you/",
       "body": "Hi all- recently I tried Gamma and was super impressed with how quickly it created a presentation automatically from the data I had in a google doc. It was quite impressive to me. So I figured there should be more out there. So experts here, what are the most impressive automation tools you have come across so far?",
-      "new": true
+      "new": false
     },
     {
       "id": "1wzfdmx",
