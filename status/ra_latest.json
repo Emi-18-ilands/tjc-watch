@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-08T14:52:37.119472+00:00",
+  "checked_at": "2026-10-08T15:23:06.521789+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "petargeorgievv",
       "url": "https://www.reddit.com/r/automation/comments/1x0rc60/how_do_you_handle_social_media_automation_ai/",
       "body": "I see a lot of tools popping to handle your full marketing, social media generation and such. This is just marketing effort to sell some generic AI automation for you. I don't believe one size fits all tools. I am in the same niche, as I have a social media scheduler and email automation tool and yet I don't claim its possible to create at this point a tool that is entirely for you. There is a saying I like **\"if it works for everyone, it works for none\"** and this is my case. What I do believe is though that AI agents such as the new ChatGPT Dots, Muse, Grok bot etc, you can actually achieve ",
-      "new": true
+      "new": false
     },
     {
       "id": "1wzwfui",
