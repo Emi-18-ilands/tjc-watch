@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T11:21:11.223721+00:00",
+  "checked_at": "2026-10-09T11:49:12.886092+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -260,7 +260,7 @@
       "id": "1wvrdps",
       "created_utc": 1790940615,
       "title": "Two of our longest serving ops people leave next year. Any AI for operations teams that helps keep what they know?",
-      "score": 4,
+      "score": 8,
       "num_comments": 32,
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1wvrdps/two_of_our_longest_serving_ops_people_leave_next/",
