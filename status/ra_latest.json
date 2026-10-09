@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-09T18:24:07.661009+00:00",
+  "checked_at": "2026-10-09T18:53:24.092005+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x1lwht",
+      "created_utc": 1791553841,
+      "title": "How do you keep side scripts from breaking every time a vendor changes their API?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Ok-Reason3715",
+      "url": "https://www.reddit.com/r/automation/comments/1x1lwht/how_do_you_keep_side_scripts_from_breaking_every/",
+      "body": "running a couple automation scripts that pull client visit logs and generate followup reminders. every so often a vendor changes their API without notice and the whole thing breaks. last month I spent an evening patching endpoints instead of finishing the tutorial I actually wanted to work on. tried adding a simple retry loop but it still fails hard when the schema shifts. anyone else keeping side scripts stable across API updates? how do you structure your error handling so a change in one field doesn't cascade into full rewrites? right now it works until it doesn't, and I'd rather not babysi",
+      "new": false
+    },
     {
       "id": "1x1cjj4",
       "created_utc": 1791521984,
