@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T05:21:53.200241+00:00",
+  "checked_at": "2026-10-09T05:50:09.069033+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Excellent-Wheel7769",
       "url": "https://www.reddit.com/r/automation/comments/1x1cjj4/how_do_you_keep_automation_from_hiding_important/",
       "body": "i've automated onboarding emails, document checklists, and slack invites. it saves time and customers like how quickly everything gets done. but someone recently replied to an automated welcome email with details about their team, and i nearly missed it buried in the logs. i don't want to manually review every interaction, but i also don't want genuine conversations getting lost because the workflow runs too smoothly. for those who've dealt with this, what's worked best? a separate inbox for replies, simple rules to flag certain messages, or a human checkpoint somewhere in the process? i'd rat",
-      "new": true
+      "new": false
     },
     {
       "id": "1x0rc60",
