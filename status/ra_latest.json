@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T22:47:02.876422+00:00",
+  "checked_at": "2026-10-10T23:18:13.557632+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -150,8 +150,8 @@
       "id": "1wwy2ka",
       "created_utc": 1791061711,
       "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
-      "score": 30,
-      "num_comments": 15,
+      "score": 19,
+      "num_comments": 16,
       "author": "clountaingleig1",
       "url": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
       "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled(.)cx it's real android phones in the cloud, you open them in a browser, each one has its own devi",
