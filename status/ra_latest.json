@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-10T19:46:38.022863+00:00",
+  "checked_at": "2026-10-10T20:19:05.505331+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Brief_System7585",
       "url": "https://www.reddit.com/r/automation/comments/1x2ncp1/automation_agency_owners_help/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x1lwht",
