@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T01:20:00.730938+00:00",
+  "checked_at": "2026-10-11T01:48:24.973612+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -276,17 +276,6 @@
       "author": "rashreaction1015",
       "url": "https://www.reddit.com/r/automation/comments/1wvyl47/anyone_automated_real_time_guidance_for_support/",
       "body": "We run customer support for a credit repair company and newer reps often get stuck when calls move between credit history disputes documents payments and account questions. They usually know the basics but once the call goes off script they end up messaging a senior rep or putting the customer on hold while they search for an answer. Looking into whether AI could listen to the call and surface useful guidance in real time based on what is being discussed. Ideally it would use our internal docs and past conversations so the answers match how the team actually handles these situations. The main ",
-      "new": false
-    },
-    {
-      "id": "1wvrdps",
-      "created_utc": 1790940615,
-      "title": "Two of our longest serving ops people leave next year. Any AI for operations teams that helps keep what they know?",
-      "score": 8,
-      "num_comments": 32,
-      "author": "DapperAsi",
-      "url": "https://www.reddit.com/r/automation/comments/1wvrdps/two_of_our_longest_serving_ops_people_leave_next/",
-      "body": "Happy for them, slightly terrifying for the rest of us. An uncomfortable amount of how things really get done lives in their heads and a few personal spreadsheets, and the official documentation is years out of date. Most AI pitches I get are a chatbot sitting on top of those old docs, which feels backwards. Celonis and skan ai get mentioned for mapping how the work actually runs, which sounds closer to the real problem. Curious what has worked for anyone who has been through a handover like this.",
       "new": false
     }
   ],
