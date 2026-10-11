@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-11T04:50:07.492286+00:00",
+  "checked_at": "2026-10-11T05:20:19.825499+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -40,7 +40,7 @@
       "id": "1x1cjj4",
       "created_utc": 1791521984,
       "title": "how do you keep automation from hiding important human replies?",
-      "score": 9,
+      "score": 8,
       "num_comments": 22,
       "author": "Excellent-Wheel7769",
       "url": "https://www.reddit.com/r/automation/comments/1x1cjj4/how_do_you_keep_automation_from_hiding_important/",
