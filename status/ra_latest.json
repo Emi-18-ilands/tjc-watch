@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-11T08:49:21.484584+00:00",
+  "checked_at": "2026-10-11T09:20:34.426748+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x33mg9",
+      "created_utc": 1791710119,
+      "title": "How do you avoid following up with someone who\u2019s already replied elsewhere?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "thedobergamger-95",
+      "url": "https://www.reddit.com/r/automation/comments/1x33mg9/how_do_you_avoid_following_up_with_someone_whos/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x2wsiy",
       "created_utc": 1791686158,
@@ -151,7 +162,7 @@
       "created_utc": 1791103923,
       "title": "I'm a bit confused, I need your help",
       "score": 2,
-      "num_comments": 33,
+      "num_comments": 39,
       "author": "XunooL",
       "url": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
       "body": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, FastAPI...etc Which stack is better for delivering the automation product to a client? Note: \\- I know that the clients won't even know what I'm using to solve their problems until I deliver it, but they will judge when I reach the hosting/usage cost (the high-code is way less than no-code when it comes to using an automation system on a daily basis)",
