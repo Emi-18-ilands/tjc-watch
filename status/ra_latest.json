@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-11T02:19:49.192937+00:00",
+  "checked_at": "2026-10-11T02:49:33.845294+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x2wsiy",
+      "created_utc": 1791686158,
+      "title": "How capable is AI at building software and automating business processes? Looking for advice on where to start.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Few-Can-19",
+      "url": "https://www.reddit.com/r/automation/comments/1x2wsiy/how_capable_is_ai_at_building_software_and/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x2ncp1",
       "created_utc": 1791659354,
