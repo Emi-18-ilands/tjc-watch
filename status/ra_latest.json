@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T15:53:22.359452+00:00",
+  "checked_at": "2026-10-12T16:22:50.747255+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1x45dsr/tasket_new_21_release_simulate_your_windows/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
-      "new": true
+      "new": false
     },
     {
       "id": "1x45bdq",
@@ -23,7 +23,7 @@
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1x45bdq/tasket_new_21_release_simulate_your_windows/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
-      "new": true
+      "new": false
     },
     {
       "id": "1x41az5",
