@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T01:23:24.631588+00:00",
+  "checked_at": "2026-10-12T01:52:28.835292+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "1Om6evsN7g",
       "url": "https://www.reddit.com/r/automation/comments/1x3nmn3/anyone_automated_podcast_postproduction_end_to/",
       "body": "We're recording a 2 hour, two-person video podcast and want to skip manual editing entirely. Three camera files (one per person plus a wide). What I want the agent to handle: \u2022 Pick the best 30 sec to 2 min moments for Shorts and LinkedIn \u2022 Switch cameras to whoever's speaking \u2022 Add captions and our existing intro and outro \u2022 Export ready-to-post files I'm leaning towards Claude plus ffmpeg on a MacBook M4, and I'm fine paying for API tokens where the laptop can't keep up. Has anyone built this, or is there a repo or workflow I can start from? Mostly want to know what broke or needed a human i",
-      "new": true
+      "new": false
     },
     {
       "id": "1x3kacb",
