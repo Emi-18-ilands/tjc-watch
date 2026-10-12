@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T03:23:24.970904+00:00",
+  "checked_at": "2026-10-12T03:55:20.585235+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "underatedd6",
       "url": "https://www.reddit.com/r/automation/comments/1x3qs85/need_help/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x3nmn3",
@@ -309,17 +309,6 @@
       "author": "Brave-Ad1653",
       "url": "https://www.reddit.com/r/automation/comments/1ww5hwf/helping_small_businesses_stop_losing_leads_to/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1ww1m1l",
-      "created_utc": 1790966437,
-      "title": "Anyone automating invoice reminders without Zapier?",
-      "score": 10,
-      "num_comments": 40,
-      "author": "Excellent-Wheel7769",
-      "url": "https://www.reddit.com/r/automation/comments/1ww1m1l/anyone_automating_invoice_reminders_without_zapier/",
-      "body": "i need to chase unpaid invoices but between school runs and naps the manual follow ups keep slipping. found a simple script that checks a Google Sheet every morning and sends polite emails through Gmail. it skips weekends and stops once the payment hits. so far it caught two late ones last month. curious if anyone else runs something similar without paying for Zapier, or if there is a better way to handle the edge cases like partial payments",
       "new": false
     }
   ],
