@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-12T11:54:18.323905+00:00",
+  "checked_at": "2026-10-12T12:37:36.066990+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x400uy",
+      "created_utc": 1791806562,
+      "title": "How do you stop webhook retries from creating duplicate records?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "GoldSirenone",
+      "url": "https://www.reddit.com/r/automation/comments/1x400uy/how_do_you_stop_webhook_retries_from_creating/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x3x9hw",
       "created_utc": 1791796996,
@@ -319,17 +330,6 @@
       "num_comments": 2,
       "author": "costafilh0",
       "url": "https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wwbvcv",
-      "created_utc": 1790994379,
-      "title": "Anyone else shifting to AI agents (like Dots-ChatGPT) for QA automation? Is traditional QA cooked?",
-      "score": 1,
-      "num_comments": 2,
-      "author": "DarkriaNiCk",
-      "url": "https://www.reddit.com/r/automation/comments/1wwbvcv/anyone_else_shifting_to_ai_agents_like/",
       "body": "",
       "new": false
     }
