@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-12T15:23:15.981200+00:00",
+  "checked_at": "2026-10-12T15:53:22.359452+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x45dsr",
+      "created_utc": 1791820040,
+      "title": "Tasket++ (new 2.1 release): Simulate your Windows actions automatically (free & open source) - Looking for testers",
+      "score": 1,
+      "num_comments": 1,
+      "author": "AmirHammoutene",
+      "url": "https://www.reddit.com/r/automation/comments/1x45dsr/tasket_new_21_release_simulate_your_windows/",
+      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
+      "new": true
+    },
+    {
+      "id": "1x45bdq",
+      "created_utc": 1791819891,
+      "title": "Tasket++ (new 2.1 release): Simulate your Windows actions automatically (free & open source) - Looking for testers",
+      "score": 1,
+      "num_comments": 1,
+      "author": "AmirHammoutene",
+      "url": "https://www.reddit.com/r/automation/comments/1x45bdq/tasket_new_21_release_simulate_your_windows/",
+      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
+      "new": true
+    },
     {
       "id": "1x41az5",
       "created_utc": 1791810221,
@@ -287,28 +309,6 @@
       "author": "Honest-Let-7219",
       "url": "https://www.reddit.com/r/automation/comments/1wwmik1/what_if_an_online_group_be_better_if_ai/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wwgjd5",
-      "created_utc": 1791010425,
-      "title": "Anyone who is using ECC github repo and has had a great result share your stories",
-      "score": 10,
-      "num_comments": 5,
-      "author": "Honest-Let-7219",
-      "url": "https://www.reddit.com/r/automation/comments/1wwgjd5/anyone_who_is_using_ecc_github_repo_and_has_had_a/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1wwfuwn",
-      "created_utc": 1791007914,
-      "title": "built a way to automate phone apps that have no api at massive scale",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Interesting_Hotel617",
-      "url": "https://www.reddit.com/r/automation/comments/1wwfuwn/built_a_way_to_automate_phone_apps_that_have_no/",
-      "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled.cx. it's real android phones in the cloud, you open them in a browser, each one has its own devic",
       "new": false
     }
   ],
