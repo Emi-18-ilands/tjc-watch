@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T19:50:24.270712+00:00",
+  "checked_at": "2026-10-12T20:22:47.540477+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "247richlife",
       "url": "https://www.reddit.com/r/automation/comments/1x4bu4q/what_are_you_still_doing_manually_in_excel_or/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x45dsr",
