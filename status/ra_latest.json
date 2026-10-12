@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T05:22:34.668860+00:00",
+  "checked_at": "2026-10-12T05:51:51.816329+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "RichConsequence578",
       "url": "https://www.reddit.com/r/automation/comments/1x3t7ae/looking_for_aussie_automation_agencies/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x3qs85",
