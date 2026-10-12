@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-12T13:36:35.472690+00:00",
+  "checked_at": "2026-10-12T14:03:46.643004+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "QuietCauliflower6029",
       "url": "https://www.reddit.com/r/automation/comments/1x41az5/live_testknot_webinar_tomorrow_oct_13_3_pm_ist/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x400uy",
