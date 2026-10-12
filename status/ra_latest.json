@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-12T12:37:36.066990+00:00",
+  "checked_at": "2026-10-12T13:36:35.472690+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x41az5",
+      "created_utc": 1791810221,
+      "title": "Live Testknot webinar tomorrow (Oct 13 @ 3 PM IST) \u2013 what do you want to see?",
+      "score": 1,
+      "num_comments": 0,
+      "author": "QuietCauliflower6029",
+      "url": "https://www.reddit.com/r/automation/comments/1x41az5/live_testknot_webinar_tomorrow_oct_13_3_pm_ist/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1x400uy",
       "created_utc": 1791806562,
@@ -12,7 +23,7 @@
       "author": "GoldSirenone",
       "url": "https://www.reddit.com/r/automation/comments/1x400uy/how_do_you_stop_webhook_retries_from_creating/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x3x9hw",
@@ -309,28 +320,6 @@
       "author": "yesimfarida",
       "url": "https://www.reddit.com/r/automation/comments/1wwfibe/how_do_you_find_out_when_a_clients_automation/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1wwebeh",
-      "created_utc": 1791002455,
-      "title": "Which one is your favorite?",
-      "score": 0,
-      "num_comments": 4,
-      "author": "costafilh0",
-      "url": "https://www.reddit.com/r/automation/comments/1wwebeh/which_one_is_your_favorite/",
-      "body": "I like the original more, but the one on the live stream after the AI summit came out really nice too.",
-      "new": false
-    },
-    {
-      "id": "1wwe362",
-      "created_utc": 1791001663,
-      "title": "Which one is your favorite?",
-      "score": 0,
-      "num_comments": 2,
-      "author": "costafilh0",
-      "url": "https://www.reddit.com/r/automation/comments/1wwe362/which_one_is_your_favorite/",
-      "body": "",
       "new": false
     }
   ],
