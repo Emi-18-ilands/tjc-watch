@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T00:34:35.338311+00:00",
+  "checked_at": "2026-10-13T01:02:40.707660+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Traditional_Tea_8935",
       "url": "https://www.reddit.com/r/automation/comments/1x4hu6q/has_anyone_else_noticed_that_no_code_ai/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x4bu4q",
