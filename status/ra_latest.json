@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-13T13:57:18.654708+00:00",
+  "checked_at": "2026-10-13T14:25:27.464006+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x4xxm1",
+      "created_utc": 1791901207,
+      "title": "Help for a caveman firefighter who wants to stop clicking the same buttons over and over and over",
+      "score": 1,
+      "num_comments": 1,
+      "author": "BigNSMRT",
+      "url": "https://www.reddit.com/r/automation/comments/1x4xxm1/help_for_a_caveman_firefighter_who_wants_to_stop/",
+      "body": "I\u2019m a firefighter and I use a web-based report system (esosuite) when filling out our fire reports. I\u2019m on a busy unit, so I end up having 10-20 reports typically each day. Each report has 40-50 items I have to enter via dropdown menu, and they are almost always the same selection. I would LOVE LOVE LOVE some program or \u201cthing\u201d where, when I start a new report I could push a button and it would auto-populate those 40 odd selections. It would cut down the time I take on these reports dramatically, and help save my sanity to boot. However I am a caveman and I have no idea how to go about setting",
+      "new": true
+    },
     {
       "id": "1x4u2b2",
       "created_utc": 1791890737,
@@ -287,17 +298,6 @@
       "author": "Biscuitsnblunts",
       "url": "https://www.reddit.com/r/automation/comments/1wz640b/trying_to_automate_some_invoicing/",
       "body": "Hello, looking for some assistance. Currently I track my sales on Google Sheets (staff complete a form that fills out google sheets) and at the end of each month I manually input each line item onto Quickbooks Online invoices. It is around 200-250 items split across 20-25 customers usually. I am looking at Make or N8N possibly to take the data from Sheets and create specific item lines in QBO monthly customer invoices based on the information. Any ideas on what the best choice would be or other options? I am not very tech friendly. Thanks!",
-      "new": false
-    },
-    {
-      "id": "1wytcqb",
-      "created_utc": 1791260472,
-      "title": "Agent work mode- Cloud workaround help.",
-      "score": 8,
-      "num_comments": 11,
-      "author": "BigRandy01",
-      "url": "https://www.reddit.com/r/automation/comments/1wytcqb/agent_work_mode_cloud_workaround_help/",
-      "body": "Hey guys, I\u2019ve been working on a job for a client where they want me to make listing for vrbo, booking, Airbnb, and other platforms. I wanted to use chat gpt in agent mode to build these for me then I would review them and edit anything incorrect. However on booking, they won\u2019t let me sign in from the cloud browser in gpt work mode. Has anyone found a work around for this so it cannot tell it\u2019s and agent? Or is there a better ai to use for this type of work? I need to do this for three different properties with 5 units on each. So I\u2019d love to save myself the hours and hours of mindless clickin",
       "new": false
     }
   ],
