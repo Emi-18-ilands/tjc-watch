@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-13T11:23:12.350844+00:00",
+  "checked_at": "2026-10-13T11:52:44.132737+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x4u2b2",
+      "created_utc": 1791890737,
+      "title": "How can small businesses in the USA use AI automation?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "OrbitWorksofficial",
+      "url": "https://www.reddit.com/r/automation/comments/1x4u2b2/how_can_small_businesses_in_the_usa_use_ai/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x4o4xv",
       "created_utc": 1791868598,
