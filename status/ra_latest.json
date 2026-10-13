@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T09:24:41.523027+00:00",
+  "checked_at": "2026-10-13T09:52:59.845488+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -161,8 +161,8 @@
       "id": "1x3kacb",
       "created_utc": 1791754722,
       "title": "Simple Twitter post automation",
-      "score": 1,
-      "num_comments": 1,
+      "score": 12,
+      "num_comments": 18,
       "author": "horlofhorlof",
       "url": "https://www.reddit.com/r/automation/comments/1x3kacb/simple_twitter_post_automation/",
       "body": "im trying to figure out how to make a very basic twitter post automation, essentially what i want to do is to have a folder or database with images and have one of those images be posted at a specific time every day in a random order, but i am having a hard time finding resources or any information about if the twitter API allows for such an integration with the free plans, im just looking to automate a tedius task i currently do manually",
