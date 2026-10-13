@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-13T02:52:33.065244+00:00",
+  "checked_at": "2026-10-13T03:22:08.280164+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x4m153",
+      "created_utc": 1791861685,
+      "title": "Running AI workflows locally instead of relying on cloud APIs",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Apart_Pin_6301",
+      "url": "https://www.reddit.com/r/automation/comments/1x4m153/running_ai_workflows_locally_instead_of_relying/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1x4hu6q",
       "created_utc": 1791849371,
@@ -309,17 +320,6 @@
       "author": "clountaingleig1",
       "url": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
       "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled(.)cx it's real android phones in the cloud, you open them in a browser, each one has its own devi",
-      "new": false
-    },
-    {
-      "id": "1www23f",
-      "created_utc": 1791056547,
-      "title": "Has anyone tried the ChatGPT Plus free offer? How many credits do you actually get?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Least_Arm3744",
-      "url": "https://www.reddit.com/r/automation/comments/1www23f/has_anyone_tried_the_chatgpt_plus_free_offer_how/",
-      "body": "",
       "new": false
     }
   ],
