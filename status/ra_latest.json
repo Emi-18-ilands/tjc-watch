@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T05:52:05.383534+00:00",
+  "checked_at": "2026-10-13T06:29:29.772543+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -320,17 +320,6 @@
       "author": "pratikshyap",
       "url": "https://www.reddit.com/r/automation/comments/1wy5ekz/need_help/",
       "body": "I need to automate a mobile app, and I'm kind of new to automation. Details of the app are given below: With Memoir, you can: \u2022 Create and organise trips with friends and family \u2022 Build and follow your trip timeline \u2022 Capture photos and memories together \u2022 Track and split group expenses \u2022 Settle expenses easily after the trip \u2022 Plan activities and organise your itinerary \u2022 Keep your past trips and memories in one place Can someone help me with my confusion about which tool to use and how?",
-      "new": false
-    },
-    {
-      "id": "1wxax6y",
-      "created_utc": 1791103923,
-      "title": "I'm a bit confused, I need your help",
-      "score": 2,
-      "num_comments": 39,
-      "author": "XunooL",
-      "url": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
-      "body": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, FastAPI...etc Which stack is better for delivering the automation product to a client? Note: \\- I know that the clients won't even know what I'm using to solve their problems until I deliver it, but they will judge when I reach the hosting/usage cost (the high-code is way less than no-code when it comes to using an automation system on a daily basis)",
       "new": false
     }
   ],
