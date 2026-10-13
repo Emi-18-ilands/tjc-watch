@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T15:53:49.785309+00:00",
+  "checked_at": "2026-10-13T16:24:06.643472+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -287,17 +287,6 @@
       "author": "DayBeautiful2205",
       "url": "https://www.reddit.com/r/automation/comments/1wzfdmx/starting_an_ai_automation_agency_need_feedback_on/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1wz640b",
-      "created_utc": 1791301866,
-      "title": "Trying to automate some invoicing",
-      "score": 7,
-      "num_comments": 41,
-      "author": "Biscuitsnblunts",
-      "url": "https://www.reddit.com/r/automation/comments/1wz640b/trying_to_automate_some_invoicing/",
-      "body": "Hello, looking for some assistance. Currently I track my sales on Google Sheets (staff complete a form that fills out google sheets) and at the end of each month I manually input each line item onto Quickbooks Online invoices. It is around 200-250 items split across 20-25 customers usually. I am looking at Make or N8N possibly to take the data from Sheets and create specific item lines in QBO monthly customer invoices based on the information. Any ideas on what the best choice would be or other options? I am not very tech friendly. Thanks!",
       "new": false
     }
   ],
