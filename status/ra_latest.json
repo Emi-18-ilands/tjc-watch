@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-13T04:54:33.662662+00:00",
+  "checked_at": "2026-10-13T05:23:02.811823+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x4o4xv",
+      "created_utc": 1791868598,
+      "title": "What are you using to handle email in n8n automations?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Bake_2543",
+      "url": "https://www.reddit.com/r/automation/comments/1x4o4xv/what_are_you_using_to_handle_email_in_n8n/",
+      "body": "curious what other developers use in their n8n workflowa? especially when automations would require to send out emails and handle incoming replies? are you sticking with gmail or do you use an email api or a dedicated service like agentmail or hostinger agentic mail? would love to know what works for you in production and what you'll avoid",
+      "new": true
+    },
+    {
+      "id": "1x4o098",
+      "created_utc": 1791868152,
+      "title": "What are you using to handle email in n8n automations?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "[deleted]",
+      "url": "https://www.reddit.com/r/automation/comments/1x4o098/what_are_you_using_to_handle_email_in_n8n/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x4m153",
       "created_utc": 1791861685,
@@ -309,17 +331,6 @@
       "author": "XunooL",
       "url": "https://www.reddit.com/r/automation/comments/1wxax6y/im_a_bit_confused_i_need_your_help/",
       "body": "I'm gonna keep it short: I'm confused between building Automation systems for clients using no-code tools like n8n, Zapier, and Make, or using a high-code stack such as LangGraph, LangChain, Python, FastAPI...etc Which stack is better for delivering the automation product to a client? Note: \\- I know that the clients won't even know what I'm using to solve their problems until I deliver it, but they will judge when I reach the hosting/usage cost (the high-code is way less than no-code when it comes to using an automation system on a daily basis)",
-      "new": false
-    },
-    {
-      "id": "1wwy2ka",
-      "created_utc": 1791061711,
-      "title": "built a way to automate phone apps that have no api at massive scale (ai agent support)",
-      "score": 19,
-      "num_comments": 16,
-      "author": "clountaingleig1",
-      "url": "https://www.reddit.com/r/automation/comments/1wwy2ka/built_a_way_to_automate_phone_apps_that_have_no/",
-      "body": "half the stuff i want to automate only lives in some phone app. no api, no website, so zapier/n8n can't touch it and scraping gets you blocked pretty fast tried the usual stuff first. bluestacks was slow, cooked my laptop, and a bunch of apps just refused to run on it. appium scripts worked for like a week until the app moved one button. at one point i literally had old phones plugged into a usb hub on my desk lol, which was fine until i needed more than 5 of them so we ended up building distilled(.)cx it's real android phones in the cloud, you open them in a browser, each one has its own devi",
       "new": false
     }
   ],
