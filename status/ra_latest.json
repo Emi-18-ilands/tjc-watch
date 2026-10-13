@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T17:50:55.566134+00:00",
+  "checked_at": "2026-10-13T18:28:02.246109+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -139,8 +139,8 @@
       "id": "1x3u5nx",
       "created_utc": 1791785220,
       "title": "What I learned letting AI drive a real browser instead of writing scripts",
-      "score": 1,
-      "num_comments": 1,
+      "score": 9,
+      "num_comments": 15,
       "author": "tejaskumarlol",
       "url": "https://www.reddit.com/r/automation/comments/1x3u5nx/what_i_learned_letting_ai_drive_a_real_browser/",
       "body": "A few things I learned letting AI drive a browser instead of writing scripts: Sites change faster than selectors. Having the AI read the page each time beat maintaining scripts. Pop-ups and cookie banners cause a lot of the failures. The fix was telling the AI how to clear them, not clicking harder. Anything that pays, sends or deletes should wait for a human. Approving on your phone kept it usable. Flows you repeat should be recorded once and replayed without the AI, so they're cheap and predictable. I built this into Daiku (invite only, the first 7 days free).",
