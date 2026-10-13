@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T08:25:24.929027+00:00",
+  "checked_at": "2026-10-13T08:53:54.408827+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -309,17 +309,6 @@
       "author": "outlets6",
       "url": "https://www.reddit.com/r/automation/comments/1wyftwm/how_do_you_dedupe_a_guest_list_when_half_the/",
       "body": "I'm trying to work out how much of a wedding guest list you can sensibly automate before you have to call somebody's mum. Take \"Linda,\" \"Aunt Linda,\" and \"Linda plus Robert\" on three rows. Those are example names, but that's the kind of mess I mean. It could be the same person entered twice, or one row could be an invitation for two people. A shared email address doesn't tell you which. Deleting the wrong row could quietly take someone off the list. The bit I'd try with EvoX is making a list of entries to review. I'd start with a small test sheet using fake names and contact details, including",
-      "new": false
-    },
-    {
-      "id": "1wy5ekz",
-      "created_utc": 1791197319,
-      "title": "Need help",
-      "score": 7,
-      "num_comments": 22,
-      "author": "pratikshyap",
-      "url": "https://www.reddit.com/r/automation/comments/1wy5ekz/need_help/",
-      "body": "I need to automate a mobile app, and I'm kind of new to automation. Details of the app are given below: With Memoir, you can: \u2022 Create and organise trips with friends and family \u2022 Build and follow your trip timeline \u2022 Capture photos and memories together \u2022 Track and split group expenses \u2022 Settle expenses easily after the trip \u2022 Plan activities and organise your itinerary \u2022 Keep your past trips and memories in one place Can someone help me with my confusion about which tool to use and how?",
       "new": false
     }
   ],
