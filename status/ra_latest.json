@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T03:22:08.280164+00:00",
+  "checked_at": "2026-10-13T03:54:23.551505+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Apart_Pin_6301",
       "url": "https://www.reddit.com/r/automation/comments/1x4m153/running_ai_workflows_locally_instead_of_relying/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x4hu6q",
