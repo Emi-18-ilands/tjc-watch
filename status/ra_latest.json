@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-12T23:48:57.272168+00:00",
+  "checked_at": "2026-10-13T00:34:35.338311+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x4hu6q",
+      "created_utc": 1791849371,
+      "title": "Has Anyone Else Noticed That No Code AI Automation Tools Still Require Manual Tech Work",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Traditional_Tea_8935",
+      "url": "https://www.reddit.com/r/automation/comments/1x4hu6q/has_anyone_else_noticed_that_no_code_ai/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1x4bu4q",
       "created_utc": 1791834271,
