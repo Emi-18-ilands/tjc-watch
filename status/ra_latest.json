@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-13T20:01:53.333253+00:00",
+  "checked_at": "2026-10-13T20:32:51.085206+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Crafty_Rabbit2411",
       "url": "https://www.reddit.com/r/automation/comments/1x571cb/what_are_some_ai_automations_that_businesses/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x4xxm1",
