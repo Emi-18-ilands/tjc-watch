@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T15:05:48.854093+00:00",
+  "checked_at": "2026-10-14T15:42:00.922304+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -106,7 +106,7 @@
       "id": "1x4m153",
       "created_utc": 1791861685,
       "title": "Running AI workflows locally instead of relying on cloud APIs",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "Apart_Pin_6301",
       "url": "https://www.reddit.com/r/automation/comments/1x4m153/running_ai_workflows_locally_instead_of_relying/",
