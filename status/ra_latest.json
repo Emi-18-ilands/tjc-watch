@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T10:05:15.924063+00:00",
+  "checked_at": "2026-10-14T10:36:37.622460+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "LukeWinsBig",
       "url": "https://www.reddit.com/r/automation/comments/1x5mwd7/what_should_a_small_service_business_automate/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x5i0jg",
