@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-14T00:40:32.910326+00:00",
+  "checked_at": "2026-10-14T01:32:45.873169+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Historical-Carpet388",
       "url": "https://www.reddit.com/r/automation/comments/1x5co5x/looking_for_5_design_partners_for_sentnl/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x571cb",
@@ -128,7 +128,7 @@
       "id": "1x41az5",
       "created_utc": 1791810221,
       "title": "Live Testknot webinar tomorrow (Oct 13 @ 3 PM IST) \u2013 what do you want to see?",
-      "score": 1,
+      "score": 0,
       "num_comments": 0,
       "author": "QuietCauliflower6029",
       "url": "https://www.reddit.com/r/automation/comments/1x41az5/live_testknot_webinar_tomorrow_oct_13_3_pm_ist/",
