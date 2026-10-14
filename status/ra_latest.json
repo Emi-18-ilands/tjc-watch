@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-13T23:56:39.004148+00:00",
+  "checked_at": "2026-10-14T00:40:32.910326+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x5co5x",
+      "created_utc": 1791935865,
+      "title": "Looking for 5 design partners for Sentnl",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Historical-Carpet388",
+      "url": "https://www.reddit.com/r/automation/comments/1x5co5x/looking_for_5_design_partners_for_sentnl/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1x571cb",
       "created_utc": 1791921532,
