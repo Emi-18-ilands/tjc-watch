@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-14T09:09:05.018078+00:00",
+  "checked_at": "2026-10-14T10:05:15.924063+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x5mwd7",
+      "created_utc": 1791970755,
+      "title": "What should a small service business automate first? My order after watching a lot of them try",
+      "score": 1,
+      "num_comments": 1,
+      "author": "LukeWinsBig",
+      "url": "https://www.reddit.com/r/automation/comments/1x5mwd7/what_should_a_small_service_business_automate/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1x5i0jg",
       "created_utc": 1791952166,
