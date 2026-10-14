@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-14T04:04:58.169463+00:00",
+  "checked_at": "2026-10-14T04:36:58.688821+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x5i0jg",
+      "created_utc": 1791952166,
+      "title": "How do you manage projects for multiple clients?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "SzJack",
+      "url": "https://www.reddit.com/r/automation/comments/1x5i0jg/how_do_you_manage_projects_for_multiple_clients/",
+      "body": "Am I the only one that keeps hopping around different services - VPS provider, then set up n8n, setting up a domain, sending passwords via some secure option for credentials, adding a healthcheck ping in another one and then also some 3rd party backups setup?",
+      "new": true
+    },
     {
       "id": "1x5h1gg",
       "created_utc": 1791948926,
@@ -12,7 +23,7 @@
       "author": "angrydonut_forever",
       "url": "https://www.reddit.com/r/automation/comments/1x5h1gg/looking_for_someone_experienced_with_jiandaoyun/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x5co5x",
