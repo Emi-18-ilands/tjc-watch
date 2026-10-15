@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T21:34:27.571022+00:00",
+  "checked_at": "2026-10-15T22:01:15.013825+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "WalkCareful7005",
       "url": "https://www.reddit.com/r/automation/comments/1x6peue/how_do_you_try_a_new_data_api_in_an_automation/",
       "body": "The usual way to try a new provider in a workflow (a different search API, an enrichment tool, a scraper) is: sign up, add a card, often pick a monthly plan, and then find out after ten calls it wasn't the right one. For a quick comparison that feels backwards. Paying a few cents per call to run the same inputs through three providers side by side would tell you far more. The options I know of: \\- free tiers, when they're big enough to test properly \\- trials, which tend to expire before you've decided \\- a service that already has several providers and bills per call (I work with the Agentik ",
-      "new": true
+      "new": false
     },
     {
       "id": "1x6kboq",
@@ -23,7 +23,7 @@
       "author": "Historical-Carpet388",
       "url": "https://www.reddit.com/r/automation/comments/1x6kboq/looking_for_5_design_partners_for_sentnl/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x6fmeu",
