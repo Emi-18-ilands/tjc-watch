@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T20:29:27.303108+00:00",
+  "checked_at": "2026-10-15T21:03:24.206760+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -298,17 +298,6 @@
       "author": "Ok-Reason3715",
       "url": "https://www.reddit.com/r/automation/comments/1x1lwht/how_do_you_keep_side_scripts_from_breaking_every/",
       "body": "running a couple automation scripts that pull client visit logs and generate followup reminders. every so often a vendor changes their API without notice and the whole thing breaks. last month I spent an evening patching endpoints instead of finishing the tutorial I actually wanted to work on. tried adding a simple retry loop but it still fails hard when the schema shifts. anyone else keeping side scripts stable across API updates? how do you structure your error handling so a change in one field doesn't cascade into full rewrites? right now it works until it doesn't, and I'd rather not babysi",
-      "new": false
-    },
-    {
-      "id": "1x1cjj4",
-      "created_utc": 1791521984,
-      "title": "how do you keep automation from hiding important human replies?",
-      "score": 8,
-      "num_comments": 22,
-      "author": "Excellent-Wheel7769",
-      "url": "https://www.reddit.com/r/automation/comments/1x1cjj4/how_do_you_keep_automation_from_hiding_important/",
-      "body": "i've automated onboarding emails, document checklists, and slack invites. it saves time and customers like how quickly everything gets done. but someone recently replied to an automated welcome email with details about their team, and i nearly missed it buried in the logs. i don't want to manually review every interaction, but i also don't want genuine conversations getting lost because the workflow runs too smoothly. for those who've dealt with this, what's worked best? a separate inbox for replies, simple rules to flag certain messages, or a human checkpoint somewhere in the process? i'd rat",
       "new": false
     }
   ],
