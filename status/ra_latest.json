@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-15T09:08:07.057685+00:00",
+  "checked_at": "2026-10-15T10:05:25.579697+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1x6fmeu/who_here_is_running_n8n_ai_nodes_through/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x5mwd7",
