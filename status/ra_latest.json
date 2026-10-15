@@ -1,14 +1,36 @@
 {
-  "checked_at": "2026-10-15T21:03:24.206760+00:00",
+  "checked_at": "2026-10-15T21:34:27.571022+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1x6peue",
+      "created_utc": 1792079652,
+      "title": "How do you try a new data API in an automation without committing to a plan first?",
+      "score": 2,
+      "num_comments": 7,
+      "author": "WalkCareful7005",
+      "url": "https://www.reddit.com/r/automation/comments/1x6peue/how_do_you_try_a_new_data_api_in_an_automation/",
+      "body": "The usual way to try a new provider in a workflow (a different search API, an enrichment tool, a scraper) is: sign up, add a card, often pick a monthly plan, and then find out after ten calls it wasn't the right one. For a quick comparison that feels backwards. Paying a few cents per call to run the same inputs through three providers side by side would tell you far more. The options I know of: \\- free tiers, when they're big enough to test properly \\- trials, which tend to expire before you've decided \\- a service that already has several providers and bills per call (I work with the Agentik ",
+      "new": true
+    },
+    {
+      "id": "1x6kboq",
+      "created_utc": 1792067346,
+      "title": "Looking for 5 design partners for Sentnl",
+      "score": 2,
+      "num_comments": 3,
+      "author": "Historical-Carpet388",
+      "url": "https://www.reddit.com/r/automation/comments/1x6kboq/looking_for_5_design_partners_for_sentnl/",
+      "body": "",
+      "new": true
+    },
+    {
       "id": "1x6fmeu",
       "created_utc": 1792050825,
       "title": "Who here is running n8n AI nodes through OpenRouter or Nebius instead of the big providers?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 9,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1x6fmeu/who_here_is_running_n8n_ai_nodes_through/",
       "body": "",
@@ -287,17 +309,6 @@
       "author": "Brief_System7585",
       "url": "https://www.reddit.com/r/automation/comments/1x2ncp1/automation_agency_owners_help/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1x1lwht",
-      "created_utc": 1791553841,
-      "title": "How do you keep side scripts from breaking every time a vendor changes their API?",
-      "score": 4,
-      "num_comments": 19,
-      "author": "Ok-Reason3715",
-      "url": "https://www.reddit.com/r/automation/comments/1x1lwht/how_do_you_keep_side_scripts_from_breaking_every/",
-      "body": "running a couple automation scripts that pull client visit logs and generate followup reminders. every so often a vendor changes their API without notice and the whole thing breaks. last month I spent an evening patching endpoints instead of finishing the tutorial I actually wanted to work on. tried adding a simple retry loop but it still fails hard when the schema shifts. anyone else keeping side scripts stable across API updates? how do you structure your error handling so a change in one field doesn't cascade into full rewrites? right now it works until it doesn't, and I'd rather not babysi",
       "new": false
     }
   ],
