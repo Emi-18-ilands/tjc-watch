@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-16T23:26:01.814208+00:00",
+  "checked_at": "2026-10-16T23:53:33.042163+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x7vhil",
+      "created_utc": 1792193876,
+      "title": "How I got 30+ call backs in a month",
+      "score": 1,
+      "num_comments": 1,
+      "author": "fxckzxck",
+      "url": "https://www.reddit.com/r/automation/comments/1x7vhil/how_i_got_30_call_backs_in_a_month/",
+      "body": "Been seeing a lot of job search posts so figured I'd share what worked. Last few months I was getting 2-3 interview requests a month from manual outreach. Was in a rough place honestly, depression kind of hit. Applying for jobs is no fun. Built job engine scrapers to pull fresh jobs, hooked up some MCPs, tried a few automation tools for applications. Agent VMs were too slow for how I wanted it to run so I ended up getting a real human to do the actual submissions. I automated the whole thing. The biggest thing was fresh jobs. Applying within minutes of a job being posted changes everything. No",
+      "new": true
+    },
     {
       "id": "1x7q86d",
       "created_utc": 1792180453,
