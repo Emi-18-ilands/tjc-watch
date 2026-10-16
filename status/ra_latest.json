@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-16T04:05:28.492211+00:00",
+  "checked_at": "2026-10-16T04:34:35.281484+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -51,8 +51,8 @@
       "id": "1x5i0jg",
       "created_utc": 1791952166,
       "title": "How do you manage projects for multiple clients?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 8,
+      "num_comments": 24,
       "author": "SzJack",
       "url": "https://www.reddit.com/r/automation/comments/1x5i0jg/how_do_you_manage_projects_for_multiple_clients/",
       "body": "Am I the only one that keeps hopping around different services - VPS provider, then set up n8n, setting up a domain, sending passwords via some secure option for credentials, adding a healthcheck ping in another one and then also some 3rd party backups setup?",
