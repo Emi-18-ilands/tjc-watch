@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T17:25:38.402850+00:00",
+  "checked_at": "2026-10-17T17:54:18.575583+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1x8fol3/i_build_19_business_workflows_claude_mobile_and/",
       "body": "https://i.redd.it/q569sng392wh1.png i am trying to automate back office ops and was learning claude and asked to very vague prompt to build 19 worksflows across different departments \u2026 but not sure weather if I can productive all of them n deply to agentcore so instead of going on creating auth keys from zendesk, hubspot , stripe , gmail, calendar and slack. I asked agent to verify and show me proof against fetchsansbox managed relay for webhooks and behavioral verification of agent written code wonderibf what are you guys doing for automating business ops",
-      "new": true
+      "new": false
     },
     {
       "id": "1x8ad8h",
