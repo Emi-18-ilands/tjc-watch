@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-17T13:33:31.331198+00:00",
+  "checked_at": "2026-10-17T13:58:44.089327+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Comfortable-Many2661",
       "url": "https://www.reddit.com/r/automation/comments/1x8ad8h/which_api_do_you_pay_a_monthly_plan_for_but/",
       "body": "Curious how common this is. Most automations use a handful of paid APIs, but only one or two of them get hit a lot. The rest get called a few times a week, and many of those providers still want a monthly plan or a minimum top-up. So people end up paying a full monthly plan for a scraper that does twenty pages a week. What I've seen people do about it: \\- drop to the smallest plan and hope it's enough \\- share one account across several projects \\- switch to providers that charge per call \\- route the occasional tools through something that bills per call (I work with the Agentik team, which d",
-      "new": true
+      "new": false
     },
     {
       "id": "1x7vhil",
