@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T19:24:52.081201+00:00",
+  "checked_at": "2026-10-18T19:54:03.815353+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Skylarcke",
       "url": "https://www.reddit.com/r/automation/comments/1x9bdy0/has_anyone_tried_some_kind_of_automation_for/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1x9b5ue",
