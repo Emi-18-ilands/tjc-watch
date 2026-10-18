@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T07:58:24.132679+00:00",
+  "checked_at": "2026-10-18T08:28:41.521787+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ok-Potato8646",
       "url": "https://www.reddit.com/r/automation/comments/1x8w88e/how_do_you_test_retries_when_a_webhook_succeeds/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x8pd1s",
