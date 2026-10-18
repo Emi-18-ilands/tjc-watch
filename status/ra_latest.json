@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-18T18:29:46.913950+00:00",
+  "checked_at": "2026-10-18T18:59:52.477554+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x9b5ue",
+      "created_utc": 1792349723,
+      "title": "Looking for a custom, human-approved way to organise my LinkedIn network and send ~30 targeted requests a day (not a bot)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Old-Government-1414",
+      "url": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
+      "body": "**What I want to build or find** I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don\u2019t want a bot that logs into my account and clicks things, because that risks a restriction. **Workflow I\u2019m after** 1. **Database first:** all my existing connections in one place, categorised automatically from LinkedIn\u2019s data export. 2. **Daily queue:** it finds about 30 relevant people a day from a target list, removes anyone already connected or with a pending request, and fills the remaining slots with new people. 3. **Approval:** I open it, review",
+      "new": true
+    },
     {
       "id": "1x9361i",
       "created_utc": 1792329900,
@@ -331,17 +342,6 @@
       "author": "underatedd6",
       "url": "https://www.reddit.com/r/automation/comments/1x3qs85/need_help/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1x3nmn3",
-      "created_utc": 1791764088,
-      "title": "Anyone automated podcast post-production end to end with an AI agent?",
-      "score": 1,
-      "num_comments": 13,
-      "author": "1Om6evsN7g",
-      "url": "https://www.reddit.com/r/automation/comments/1x3nmn3/anyone_automated_podcast_postproduction_end_to/",
-      "body": "We're recording a 2 hour, two-person video podcast and want to skip manual editing entirely. Three camera files (one per person plus a wide). What I want the agent to handle: \u2022 Pick the best 30 sec to 2 min moments for Shorts and LinkedIn \u2022 Switch cameras to whoever's speaking \u2022 Add captions and our existing intro and outro \u2022 Export ready-to-post files I'm leaning towards Claude plus ffmpeg on a MacBook M4, and I'm fine paying for API tokens where the laptop can't keep up. Has anyone built this, or is there a repo or workflow I can start from? Mostly want to know what broke or needed a human i",
       "new": false
     }
   ],
