@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T13:33:56.053482+00:00",
+  "checked_at": "2026-10-18T13:58:57.959194+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ok-Motor-9812",
       "url": "https://www.reddit.com/r/automation/comments/1x9361i/i_priced_a_scraper_at_14_gb_of_proxy_traffic_per/",
       "body": "I measured one extract in a fresh process. 52 requests, 35.4 MB. Times about 40 date combos and I reported 1.4 GB and 3 to 6 dollars of residential proxy per hotel. Wrong by 17x. Two functions next to it already cached their fetches for 30 min, so only the first combo paid 35 MB, the rest paid 1.19 MB. That 1.19 was one product page downloaded again every time. Cached it too, about 20 lines, and repeat combos went to 0 requests. Now I run many calls in one process and print the delta per call. Anyone else priced something off one cold run?",
-      "new": true
+      "new": false
     },
     {
       "id": "1x8w88e",
