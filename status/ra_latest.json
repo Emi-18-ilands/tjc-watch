@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-18T18:59:52.477554+00:00",
+  "checked_at": "2026-10-18T19:24:52.081201+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x9bdy0",
+      "created_utc": 1792350246,
+      "title": "Has anyone tried some kind of automation for classifieds product listing?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Skylarcke",
+      "url": "https://www.reddit.com/r/automation/comments/1x9bdy0/has_anyone_tried_some_kind_of_automation_for/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1x9b5ue",
       "created_utc": 1792349723,
@@ -12,7 +23,7 @@
       "author": "Old-Government-1414",
       "url": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
       "body": "**What I want to build or find** I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don\u2019t want a bot that logs into my account and clicks things, because that risks a restriction. **Workflow I\u2019m after** 1. **Database first:** all my existing connections in one place, categorised automatically from LinkedIn\u2019s data export. 2. **Daily queue:** it finds about 30 relevant people a day from a target list, removes anyone already connected or with a pending request, and fills the remaining slots with new people. 3. **Approval:** I open it, review",
-      "new": true
+      "new": false
     },
     {
       "id": "1x9361i",
@@ -331,17 +342,6 @@
       "author": "RichConsequence578",
       "url": "https://www.reddit.com/r/automation/comments/1x3t7ae/looking_for_aussie_automation_agencies/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1x3qs85",
-      "created_utc": 1791773814,
-      "title": "need help",
-      "score": 1,
-      "num_comments": 1,
-      "author": "underatedd6",
-      "url": "https://www.reddit.com/r/automation/comments/1x3qs85/need_help/",
-      "body": "[removed]",
       "new": false
     }
   ],
