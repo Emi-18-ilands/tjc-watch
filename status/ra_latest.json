@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-18T00:40:35.116451+00:00",
+  "checked_at": "2026-10-18T01:31:52.703083+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Ok_Host1989",
       "url": "https://www.reddit.com/r/automation/comments/1x8pd1s/which_parts_of_social_media_management_are_worth/",
       "body": "Managing social media for a business takes more time than people often expect. Planning content, writing captions, creating visuals, and keeping up with a posting schedule can easily become a daily workload. Tools like Fismbot help with AI-assisted content creation, but the real challenge is using automation without making every post sound the same. For those running a business or managing social media accounts, **what tasks have you successfully automated, and which ones do you think still need a human touch?**",
-      "new": true
+      "new": false
     },
     {
       "id": "1x8fol3",
