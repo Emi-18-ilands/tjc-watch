@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-19T02:07:53.240778+00:00",
+  "checked_at": "2026-10-19T03:03:55.398380+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1x9l0e1",
+      "created_utc": 1792376363,
+      "title": "how can i become really good",
+      "score": 1,
+      "num_comments": 1,
+      "author": "yossef_egy",
+      "url": "https://www.reddit.com/r/automation/comments/1x9l0e1/how_can_i_become_really_good/",
+      "body": "What should I do to become really good at this field? What should I practice and how should I practice? I know this might sound like a strange question but I'm afraid to apply for jobs because I don't think the quality of my work is good enough yet I care a lot about quality and I care about maintaining a good reputation so I don't want to deliver poor work or disappoint clients I want to know how I can improve my skills and become really good at what I do I'm currently using Claude Code and I've been working with it for about a week Honestly, I don't feel like I've made any progress and I don",
+      "new": true
+    },
     {
       "id": "1x9bdy0",
       "created_utc": 1792350246,
@@ -320,17 +331,6 @@
       "author": "erdsingh24",
       "url": "https://www.reddit.com/r/automation/comments/1x3x9hw/how_to_set_up_n8n_webhooks_locally_on_windows/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1x3u5nx",
-      "created_utc": 1791785220,
-      "title": "What I learned letting AI drive a real browser instead of writing scripts",
-      "score": 9,
-      "num_comments": 15,
-      "author": "tejaskumarlol",
-      "url": "https://www.reddit.com/r/automation/comments/1x3u5nx/what_i_learned_letting_ai_drive_a_real_browser/",
-      "body": "A few things I learned letting AI drive a browser instead of writing scripts: Sites change faster than selectors. Having the AI read the page each time beat maintaining scripts. Pop-ups and cookie banners cause a lot of the failures. The fix was telling the AI how to clear them, not clicking harder. Anything that pays, sends or deletes should wait for a human. Approving on your phone kept it usable. Flows you repeat should be recorded once and replayed without the AI, so they're cheap and predictable. I built this into Daiku (invite only, the first 7 days free).",
       "new": false
     }
   ],
