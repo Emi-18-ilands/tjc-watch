@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T22:30:33.164106+00:00",
+  "checked_at": "2026-10-19T22:59:54.252059+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -51,8 +51,8 @@
       "id": "1x9bdy0",
       "created_utc": 1792350246,
       "title": "Has anyone tried some kind of automation for classifieds product listing?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 11,
       "author": "Skylarcke",
       "url": "https://www.reddit.com/r/automation/comments/1x9bdy0/has_anyone_tried_some_kind_of_automation_for/",
       "body": "",
