@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T22:02:01.159888+00:00",
+  "checked_at": "2026-10-19T22:30:33.164106+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -62,8 +62,8 @@
       "id": "1x9b5ue",
       "created_utc": 1792349723,
       "title": "Looking for a custom, human-approved way to organise my LinkedIn network and send ~30 targeted requests a day (not a bot)",
-      "score": 1,
-      "num_comments": 1,
+      "score": 8,
+      "num_comments": 24,
       "author": "Old-Government-1414",
       "url": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
       "body": "**What I want to build or find** I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don\u2019t want a bot that logs into my account and clicks things, because that risks a restriction. **Workflow I\u2019m after** 1. **Database first:** all my existing connections in one place, categorised automatically from LinkedIn\u2019s data export. 2. **Daily queue:** it finds about 30 relevant people a day from a target list, removes anyone already connected or with a pending request, and fills the remaining slots with new people. 3. **Approval:** I open it, review",
