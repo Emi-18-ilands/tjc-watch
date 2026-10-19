@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T14:37:56.307593+00:00",
+  "checked_at": "2026-10-19T15:34:38.704122+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "charan11_4",
       "url": "https://www.reddit.com/r/automation/comments/1x9x8l8/how_can_i_learn_agentic_ai_for_free_without/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1x9qznj",
