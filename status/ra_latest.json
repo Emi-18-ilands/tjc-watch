@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-19T17:05:54.366238+00:00",
+  "checked_at": "2026-10-19T17:35:34.832827+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xa2vsg",
+      "created_utc": 1792430259,
+      "title": "How to create an ai agent that actually does stuff for your team?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Separate-Record8115",
+      "url": "https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/",
+      "body": "Running ops at a 25 person startup and tryingto figure out how, to actually hand off recurring work to AI, not just answering questions, but stuff like following up on things, pulling info from different places, that kind of work, What have you tried that worked? Curious what approaches real teams are using, and what fell flat.",
+      "new": true
+    },
     {
       "id": "1x9x8l8",
       "created_utc": 1792417372,
@@ -320,17 +331,6 @@
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1x45bdq/tasket_new_21_release_simulate_your_windows/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
-      "new": false
-    },
-    {
-      "id": "1x41az5",
-      "created_utc": 1791810221,
-      "title": "Live Testknot webinar tomorrow (Oct 13 @ 3 PM IST) \u2013 what do you want to see?",
-      "score": 0,
-      "num_comments": 0,
-      "author": "QuietCauliflower6029",
-      "url": "https://www.reddit.com/r/automation/comments/1x41az5/live_testknot_webinar_tomorrow_oct_13_3_pm_ist/",
-      "body": "",
       "new": false
     }
   ],
