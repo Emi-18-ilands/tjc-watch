@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T00:42:14.629483+00:00",
+  "checked_at": "2026-10-20T01:36:09.381275+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -73,7 +73,7 @@
       "id": "1x9361i",
       "created_utc": 1792329900,
       "title": "I priced a scraper at 1.4 GB of proxy traffic per hotel. The real number was about 82 MB. How do you measure yours?",
-      "score": 2,
+      "score": 3,
       "num_comments": 8,
       "author": "Ok-Motor-9812",
       "url": "https://www.reddit.com/r/automation/comments/1x9361i/i_priced_a_scraper_at_14_gb_of_proxy_traffic_per/",
@@ -319,17 +319,6 @@
       "num_comments": 6,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1x45dsr/tasket_new_21_release_simulate_your_windows/",
-      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
-      "new": false
-    },
-    {
-      "id": "1x45bdq",
-      "created_utc": 1791819891,
-      "title": "Tasket++ (new 2.1 release): Simulate your Windows actions automatically (free & open source) - Looking for testers",
-      "score": 1,
-      "num_comments": 1,
-      "author": "AmirHammoutene",
-      "url": "https://www.reddit.com/r/automation/comments/1x45bdq/tasket_new_21_release_simulate_your_windows/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs locally, with no telemetry, no cloud, and no complexity. **What it can do**: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume, tak",
       "new": false
     }
