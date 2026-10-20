@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T10:05:27.349769+00:00",
+  "checked_at": "2026-10-20T10:35:06.101008+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -298,17 +298,6 @@
       "author": "Traditional_Tea_8935",
       "url": "https://www.reddit.com/r/automation/comments/1x4hu6q/has_anyone_else_noticed_that_no_code_ai/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1x4bu4q",
-      "created_utc": 1791834271,
-      "title": "What are you still doing manually in Excel or Google Sheets that really should be automated?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "247richlife",
-      "url": "https://www.reddit.com/r/automation/comments/1x4bu4q/what_are_you_still_doing_manually_in_excel_or/",
-      "body": "[removed]",
       "new": false
     }
   ],
