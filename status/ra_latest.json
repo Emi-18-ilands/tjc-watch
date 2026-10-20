@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T14:34:14.287300+00:00",
+  "checked_at": "2026-10-20T15:11:24.556191+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "The_NN_Word",
       "url": "https://www.reddit.com/r/automation/comments/1xaskkd/looking_for_content_creators_on_instagram_who/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xarj4n",
@@ -276,17 +276,6 @@
       "author": "OrbitWorksofficial",
       "url": "https://www.reddit.com/r/automation/comments/1x4u2b2/how_can_small_businesses_in_the_usa_use_ai/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1x4o4xv",
-      "created_utc": 1791868598,
-      "title": "What are you using to handle email in n8n automations?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Bake_2543",
-      "url": "https://www.reddit.com/r/automation/comments/1x4o4xv/what_are_you_using_to_handle_email_in_n8n/",
-      "body": "curious what other developers use in their n8n workflowa? especially when automations would require to send out emails and handle incoming replies? are you sticking with gmail or do you use an email api or a dedicated service like agentmail or hostinger agentic mail? would love to know what works for you in production and what you'll avoid",
       "new": false
     }
   ],
