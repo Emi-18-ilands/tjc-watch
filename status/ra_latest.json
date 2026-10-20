@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-20T08:35:08.799942+00:00",
+  "checked_at": "2026-10-20T09:10:43.658180+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -29,8 +29,8 @@
       "id": "1x9qznj",
       "created_utc": 1792397287,
       "title": "How do we stop cost controls drifting every time a model or price changes?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 8,
+      "num_comments": 24,
       "author": "Any-Basis7541",
       "url": "https://www.reddit.com/r/automation/comments/1x9qznj/how_do_we_stop_cost_controls_drifting_every_time/",
       "body": "We've been monitoring token usage and setting budget limits per model, and sending lighter workloads to cheaper models. The problem is that when we update the model pricing or change a model, our existing thresholds and routing rules don't work anymore. We've also been considering cost per request, however the increase in retries, and larger context windows has made it more challenging to pinpoint where the costs are coming from. So this still needs some additional manual investigation. I was thinking of putting our thresholds more in line with model usage and cost, so it alerts us if a change",
