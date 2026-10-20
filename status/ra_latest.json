@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-20T12:39:56.175647+00:00",
+  "checked_at": "2026-10-20T13:42:17.088515+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xarj4n",
+      "created_utc": 1792501282,
+      "title": "What are the best AI use cases you\u2019ve created for presales?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Iheartnutellaa",
+      "url": "https://www.reddit.com/r/automation/comments/1xarj4n/what_are_the_best_ai_use_cases_youve_created_for/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1xa2vsg",
       "created_utc": 1792430259,
@@ -276,28 +287,6 @@
       "author": "[deleted]",
       "url": "https://www.reddit.com/r/automation/comments/1x4o098/what_are_you_using_to_handle_email_in_n8n/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1x4m153",
-      "created_utc": 1791861685,
-      "title": "Running AI workflows locally instead of relying on cloud APIs",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Apart_Pin_6301",
-      "url": "https://www.reddit.com/r/automation/comments/1x4m153/running_ai_workflows_locally_instead_of_relying/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1x4hu6q",
-      "created_utc": 1791849371,
-      "title": "Has Anyone Else Noticed That No Code AI Automation Tools Still Require Manual Tech Work",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Traditional_Tea_8935",
-      "url": "https://www.reddit.com/r/automation/comments/1x4hu6q/has_anyone_else_noticed_that_no_code_ai/",
-      "body": "",
       "new": false
     }
   ],
