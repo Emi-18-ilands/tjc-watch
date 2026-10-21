@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T18:03:06.199163+00:00",
+  "checked_at": "2026-10-21T18:36:56.209326+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -287,17 +287,6 @@
       "author": "Crafty_Rabbit2411",
       "url": "https://www.reddit.com/r/automation/comments/1x571cb/what_are_some_ai_automations_that_businesses/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1x4xxm1",
-      "created_utc": 1791901207,
-      "title": "Help for a caveman firefighter who wants to stop clicking the same buttons over and over and over",
-      "score": 1,
-      "num_comments": 1,
-      "author": "BigNSMRT",
-      "url": "https://www.reddit.com/r/automation/comments/1x4xxm1/help_for_a_caveman_firefighter_who_wants_to_stop/",
-      "body": "I\u2019m a firefighter and I use a web-based report system (esosuite) when filling out our fire reports. I\u2019m on a busy unit, so I end up having 10-20 reports typically each day. Each report has 40-50 items I have to enter via dropdown menu, and they are almost always the same selection. I would LOVE LOVE LOVE some program or \u201cthing\u201d where, when I start a new report I could push a button and it would auto-populate those 40 odd selections. It would cut down the time I take on these reports dramatically, and help save my sanity to boot. However I am a caveman and I have no idea how to go about setting",
       "new": false
     }
   ],
