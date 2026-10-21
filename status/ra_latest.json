@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-21T02:10:16.145987+00:00",
+  "checked_at": "2026-10-21T03:04:54.065581+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Advanced_Aspect_4127",
       "url": "https://www.reddit.com/r/automation/comments/1xbasah/how_do_you_automate_the_repetitive_work_in_a/",
       "body": "I'm a logistics coordinator in the UAE. Most of my day is taking sales orders and turning them into shipments: customs documents, invoices, packing lists, and booking small international parcels. A lot of it is copy-paste between systems, and I'm sure I'm doing some of it the hard way. What are you automating in your role, and with what? Generating invoices and packing lists from a sales order Customs declarations and HS code lookups Tracking updates and chasing carriers Excel and Google Sheets workflows (macros, scripts, formulas) Email sorting and templates for shared inboxes Tools like Zapi",
-      "new": true
+      "new": false
     },
     {
       "id": "1xaskkd",
