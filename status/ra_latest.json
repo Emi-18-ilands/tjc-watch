@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-22T23:30:58.849343+00:00",
+  "checked_at": "2026-10-22T23:57:28.580578+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xcym9v",
+      "created_utc": 1792712909,
+      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "AmirHammoutene",
+      "url": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/",
+      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
+      "new": true
+    },
     {
       "id": "1xcc6pu",
       "created_utc": 1792654761,
@@ -286,17 +297,6 @@
       "num_comments": 1,
       "author": "Historical-Carpet388",
       "url": "https://www.reddit.com/r/automation/comments/1x5co5x/looking_for_5_design_partners_for_sentnl/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1x571cb",
-      "created_utc": 1791921532,
-      "title": "What are some AI automations that businesses actually need?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Crafty_Rabbit2411",
-      "url": "https://www.reddit.com/r/automation/comments/1x571cb/what_are_some_ai_automations_that_businesses/",
       "body": "",
       "new": false
     }
