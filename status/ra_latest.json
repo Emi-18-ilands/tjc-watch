@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-22T08:38:46.401600+00:00",
+  "checked_at": "2026-10-22T09:35:11.436719+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "djdagger78",
       "url": "https://www.reddit.com/r/automation/comments/1xcc6pu/how_do_i_find_the_linkedin_profiles_of_github/",
       "body": "There are three of us doing AI research recruiting in my company. I just write a script that scrapes and writes prompt libraries, so getting the contributor list of a repo is easy. I use Phantombuster for this. What happens is I end up with a bunch of GitHub handles, and then I need to know who the person actually is and where they work right now. Some of them have a real name on the profile, and some don't. Some link a personal site, and some don't link anything at all. For some of them, I'm not able to find the actual person behind these GitHub profiles. If I need to, it takes a lot of time ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xbmp42",
