@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-23T00:43:17.105869+00:00",
+  "checked_at": "2026-10-23T01:39:45.324638+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -29,8 +29,8 @@
       "id": "1xbmp42",
       "created_utc": 1792588097,
       "title": "Testing an internal Software - What Should I do?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 18,
       "author": "Far_Ground9402",
       "url": "https://www.reddit.com/r/automation/comments/1xbmp42/testing_an_internal_software_what_should_i_do/",
       "body": "I work at a small business that has recently built an internal software/portal with the aim to replace all of the 3rd party tools, apps & subscriptions we use. It has been a huge project with alot of time & money invested. The software acts as CRM system, lead handling, calendar booking, a quote tool and much more. I believe majority if not ALL of the code was vibecoded - I know the development team used Lovable too amongst some other tools. This portal is still not ready for deployment company wide but I have been tasked to test out its functionality, security, UI and so on. I don't have acce",
