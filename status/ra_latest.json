@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T05:31:12.436136+00:00",
+  "checked_at": "2026-10-24T06:00:25.382213+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1xe0c3n/best_way_to_learn_mcp_servers_when_all_your/",
       "body": "I run ops automation at a logistics company, about 40 Zapier flows and a pile of Python scripts on cron that move orders between our WMS, the carrier portals and a shared inbox. Leadership wants Claude handling the exceptions like address mismatches and missed pickups, and the plan is to expose our systems as MCP servers so it can read and act on them. IT wants code they can review, not another workflow tool, so Zapier's own MCP option is already out. I can write Python and the free quickstart stuff had a toy server running in an afternoon, but Ive never designed an API anyone else depends on.",
-      "new": true
+      "new": false
     },
     {
       "id": "1xdcnxq",
