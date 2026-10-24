@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T11:28:08.304531+00:00",
+  "checked_at": "2026-10-24T11:59:41.452843+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Outrageous_Text5335",
       "url": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
       "body": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest option available. For anyone who moved away from Zapier, what did you switch to and how has it held up as your workflows grew?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xe0c3n",
@@ -40,8 +40,8 @@
       "id": "1xcym9v",
       "created_utc": 1792712909,
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 5,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
