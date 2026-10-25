@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T14:28:08.729938+00:00",
+  "checked_at": "2026-10-25T14:59:28.687962+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -29,8 +29,8 @@
       "id": "1xe0c3n",
       "created_utc": 1792819840,
       "title": "Best way to learn MCP servers when all your automations are Zapier and cron jobs",
-      "score": 1,
-      "num_comments": 1,
+      "score": 6,
+      "num_comments": 18,
       "author": "DapperAsi",
       "url": "https://www.reddit.com/r/automation/comments/1xe0c3n/best_way_to_learn_mcp_servers_when_all_your/",
       "body": "I run ops automation at a logistics company, about 40 Zapier flows and a pile of Python scripts on cron that move orders between our WMS, the carrier portals and a shared inbox. Leadership wants Claude handling the exceptions like address mismatches and missed pickups, and the plan is to expose our systems as MCP servers so it can read and act on them. IT wants code they can review, not another workflow tool, so Zapier's own MCP option is already out. I can write Python and the free quickstart stuff had a toy server running in an afternoon, but Ive never designed an API anyone else depends on.",
@@ -238,8 +238,8 @@
       "id": "1x8ad8h",
       "created_utc": 1792243976,
       "title": "Which API do you pay a monthly plan for but barely use?",
-      "score": 4,
-      "num_comments": 6,
+      "score": 5,
+      "num_comments": 8,
       "author": "Comfortable-Many2661",
       "url": "https://www.reddit.com/r/automation/comments/1x8ad8h/which_api_do_you_pay_a_monthly_plan_for_but/",
       "body": "Curious how common this is. Most automations use a handful of paid APIs, but only one or two of them get hit a lot. The rest get called a few times a week, and many of those providers still want a monthly plan or a minimum top-up. So people end up paying a full monthly plan for a scraper that does twenty pages a week. What I've seen people do about it: \\- drop to the smallest plan and hope it's enough \\- share one account across several projects \\- switch to providers that charge per call \\- route the occasional tools through something that bills per call (I work with the Agentik team, which d",
