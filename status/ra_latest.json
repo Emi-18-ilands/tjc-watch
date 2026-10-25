@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T00:36:57.359755+00:00",
+  "checked_at": "2026-10-25T01:14:39.532814+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -283,7 +283,7 @@
       "created_utc": 1792050825,
       "title": "Who here is running n8n AI nodes through OpenRouter or Nebius instead of the big providers?",
       "score": 2,
-      "num_comments": 9,
+      "num_comments": 12,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1x6fmeu/who_here_is_running_n8n_ai_nodes_through/",
       "body": "",
