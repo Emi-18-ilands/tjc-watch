@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T13:11:52.413424+00:00",
+  "checked_at": "2026-10-25T14:00:02.889702+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -261,7 +261,7 @@
       "created_utc": 1792180453,
       "title": "Need help with automation",
       "score": 1,
-      "num_comments": 21,
+      "num_comments": 32,
       "author": "Nasha210",
       "url": "https://www.reddit.com/r/automation/comments/1x7q86d/need_help_with_automation/",
       "body": "I\u2019ve been trying to use ChatGPT Plus to extract data from my bank statements. Right now I crop out the section showing the balances, save it as an image, and ask ChatGPT to turn it into a CSV. The problem is that the accuracy is hit or miss, and there is still a ton of manual work involved. What I really want is to build an automated workflow, and this is the part I need help figuring out. Ideally it would: 1. Go through my email and download bank statements automatically. 2. Go to my other bank accounts, ask me to log in when needed, and download the statements from there too. 3. Open the sta",
