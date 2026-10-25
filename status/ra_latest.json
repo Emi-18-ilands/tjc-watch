@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T12:33:52.047963+00:00",
+  "checked_at": "2026-10-25T13:11:52.413424+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -84,7 +84,7 @@
       "id": "1xbe0nj",
       "created_utc": 1792558341,
       "title": "How can I automate transferring approved drawings from Oracle Aconex to Asite using Power Automate?",
-      "score": 1,
+      "score": 2,
       "num_comments": 8,
       "author": "Majestic_Potato_4061",
       "url": "https://www.reddit.com/r/automation/comments/1xbe0nj/how_can_i_automate_transferring_approved_drawings/",
