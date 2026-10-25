@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-10-25T15:59:38.391777+00:00",
+  "checked_at": "2026-10-25T16:29:07.439138+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xf6t5l",
+      "created_utc": 1792945707,
+      "title": "Has anyone actually made money selling automation workflows? What worked for you?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "AIMarket24pro",
+      "url": "https://www.reddit.com/r/automation/comments/1xf6t5l/has_anyone_actually_made_money_selling_automation/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xeud8w",
       "created_utc": 1792907571,
