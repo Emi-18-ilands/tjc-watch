@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T11:28:19.165867+00:00",
+  "checked_at": "2026-10-25T11:58:16.990183+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -118,7 +118,7 @@
       "created_utc": 1792501282,
       "title": "What are the best AI use cases you\u2019ve created for presales?",
       "score": 3,
-      "num_comments": 6,
+      "num_comments": 7,
       "author": "Iheartnutellaa",
       "url": "https://www.reddit.com/r/automation/comments/1xarj4n/what_are_the_best_ai_use_cases_youve_created_for/",
       "body": "",
@@ -271,7 +271,7 @@
       "id": "1x6peue",
       "created_utc": 1792079652,
       "title": "How do you try a new data API in an automation without committing to a plan first?",
-      "score": 3,
+      "score": 5,
       "num_comments": 12,
       "author": "WalkCareful7005",
       "url": "https://www.reddit.com/r/automation/comments/1x6peue/how_do_you_try_a_new_data_api_in_an_automation/",
