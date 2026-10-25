@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T14:59:28.687962+00:00",
+  "checked_at": "2026-10-25T15:28:23.999256+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -18,8 +18,8 @@
       "id": "1xe5ssm",
       "created_utc": 1792839813,
       "title": "What are you using instead of Zapier to keep automation costs down?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 12,
+      "num_comments": 36,
       "author": "Outrageous_Text5335",
       "url": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
       "body": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest option available. For anyone who moved away from Zapier, what did you switch to and how has it held up as your workflows grew?",
