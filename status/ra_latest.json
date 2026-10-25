@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T16:29:07.439138+00:00",
+  "checked_at": "2026-10-25T17:00:48.468560+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "AIMarket24pro",
       "url": "https://www.reddit.com/r/automation/comments/1xf6t5l/has_anyone_actually_made_money_selling_automation/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xeud8w",
@@ -52,7 +52,7 @@
       "created_utc": 1792758530,
       "title": "Which AI task in your workflow is still a five node chain you wish was one?",
       "score": 5,
-      "num_comments": 18,
+      "num_comments": 19,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1xdcnxq/which_ai_task_in_your_workflow_is_still_a_five/",
       "body": "",
@@ -216,7 +216,7 @@
       "id": "1x8w88e",
       "created_utc": 1792305529,
       "title": "How do you test retries when a webhook succeeds but the caller times out?",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "Ok-Potato8646",
       "url": "https://www.reddit.com/r/automation/comments/1x8w88e/how_do_you_test_retries_when_a_webhook_succeeds/",
