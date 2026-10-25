@@ -1,19 +1,8 @@
 {
-  "checked_at": "2026-10-25T06:37:25.393559+00:00",
+  "checked_at": "2026-10-25T07:36:52.368108+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
-    {
-      "id": "1xeud8w",
-      "created_utc": 1792907571,
-      "title": "Starting an AI automation agency \u2014 need advice",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Mountain_Tie_2341",
-      "url": "https://www.reddit.com/r/automation/comments/1xeud8w/starting_an_ai_automation_agency_need_advice/",
-      "body": "[removed]",
-      "new": false
-    },
     {
       "id": "1xe5ssm",
       "created_utc": 1792839813,
@@ -286,6 +275,17 @@
       "num_comments": 3,
       "author": "Historical-Carpet388",
       "url": "https://www.reddit.com/r/automation/comments/1x6kboq/looking_for_5_design_partners_for_sentnl/",
+      "body": "",
+      "new": false
+    },
+    {
+      "id": "1x6fmeu",
+      "created_utc": 1792050825,
+      "title": "Who here is running n8n AI nodes through OpenRouter or Nebius instead of the big providers?",
+      "score": 2,
+      "num_comments": 12,
+      "author": "easybits_ai",
+      "url": "https://www.reddit.com/r/automation/comments/1x6fmeu/who_here_is_running_n8n_ai_nodes_through/",
       "body": "",
       "new": false
     }
