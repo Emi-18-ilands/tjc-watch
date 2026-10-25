@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-24T23:53:29.213899+00:00",
+  "checked_at": "2026-10-25T00:36:57.359755+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -29,8 +29,8 @@
       "id": "1xdcnxq",
       "created_utc": 1792758530,
       "title": "Which AI task in your workflow is still a five node chain you wish was one?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 18,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1xdcnxq/which_ai_task_in_your_workflow_is_still_a_five/",
       "body": "",
