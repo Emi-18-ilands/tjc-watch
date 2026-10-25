@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T15:28:23.999256+00:00",
+  "checked_at": "2026-10-25T15:59:38.391777+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -52,7 +52,7 @@
       "created_utc": 1792712909,
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
       "score": 5,
-      "num_comments": 5,
+      "num_comments": 7,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
