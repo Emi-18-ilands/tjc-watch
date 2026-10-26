@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T23:54:40.110177+00:00",
+  "checked_at": "2026-10-26T00:51:30.211371+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -276,17 +276,6 @@
       "author": "Nasha210",
       "url": "https://www.reddit.com/r/automation/comments/1x7q86d/need_help_with_automation/",
       "body": "I\u2019ve been trying to use ChatGPT Plus to extract data from my bank statements. Right now I crop out the section showing the balances, save it as an image, and ask ChatGPT to turn it into a CSV. The problem is that the accuracy is hit or miss, and there is still a ton of manual work involved. What I really want is to build an automated workflow, and this is the part I need help figuring out. Ideally it would: 1. Go through my email and download bank statements automatically. 2. Go to my other bank accounts, ask me to log in when needed, and download the statements from there too. 3. Open the sta",
-      "new": false
-    },
-    {
-      "id": "1x6peue",
-      "created_utc": 1792079652,
-      "title": "How do you try a new data API in an automation without committing to a plan first?",
-      "score": 5,
-      "num_comments": 12,
-      "author": "WalkCareful7005",
-      "url": "https://www.reddit.com/r/automation/comments/1x6peue/how_do_you_try_a_new_data_api_in_an_automation/",
-      "body": "The usual way to try a new provider in a workflow (a different search API, an enrichment tool, a scraper) is: sign up, add a card, often pick a monthly plan, and then find out after ten calls it wasn't the right one. For a quick comparison that feels backwards. Paying a few cents per call to run the same inputs through three providers side by side would tell you far more. The options I know of: \\- free tiers, when they're big enough to test properly \\- trials, which tend to expire before you've decided \\- a service that already has several providers and bills per call (I work with the Agentik ",
       "new": false
     }
   ],
