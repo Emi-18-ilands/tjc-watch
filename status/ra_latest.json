@@ -1,18 +1,62 @@
 {
-  "checked_at": "2026-10-27T16:26:27.856149+00:00",
+  "checked_at": "2026-10-27T20:54:34.645545+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xh4fck",
+      "created_utc": 1793134294,
+      "title": "Has anyone built a custom project management tool instead of using ClickUp or Airtable?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Zach-Kelly48",
+      "url": "https://www.reddit.com/r/automation/comments/1xh4fck/has_anyone_built_a_custom_project_management_tool/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xh36q3",
+      "created_utc": 1793131519,
+      "title": "For people who freelance with n8n: how do you handle clients and trust before a build?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Mr_Somebodyyyy",
+      "url": "https://www.reddit.com/r/automation/comments/1xh36q3/for_people_who_freelance_with_n8n_how_do_you/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xh34a3",
+      "created_utc": 1793131366,
+      "title": "Whats the best live avatar model now?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "realimposter",
+      "url": "https://www.reddit.com/r/automation/comments/1xh34a3/whats_the_best_live_avatar_model_now/",
+      "body": "I'm looking for a realistic live avatar model that can do custom animations, custom voices, low latency, easy api, any recommendations?",
+      "new": true
+    },
+    {
+      "id": "1xgxnxb",
+      "created_utc": 1793119428,
+      "title": "Anyone testing Seedance inside automated video workflows?",
+      "score": 0,
+      "num_comments": 2,
+      "author": "ArachnidPersonal1742",
+      "url": "https://www.reddit.com/r/automation/comments/1xgxnxb/anyone_testing_seedance_inside_automated_video/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1xgt5r8",
       "created_utc": 1793109231,
       "title": "\ud83d\ude80 LOOKING FOR AI MODEL OWNERS \u2013 FANVUE CHAT MANAGEMENT",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "Several_Ride_7534",
       "url": "https://www.reddit.com/r/automation/comments/1xgt5r8/looking_for_ai_model_owners_fanvue_chat_management/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xgqmfb",
@@ -23,7 +67,7 @@
       "author": "Patient-Tea-922",
       "url": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
       "body": "I\u2019m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients, it was fastest just to duplicate our core lead routing and data sync workflow into a new workspace. Just copy that, plug in the client\u2019s credentials and turn it on. We\u2019ve grown a lot faster than I think any of us were expecting, and it\u2019s become painfully clear to me that this approach was a mistake. I\u2019m now maintaining almost 25 virtually identical versions of the same workflow. I\u2019m sure you see",
-      "new": true
+      "new": false
     },
     {
       "id": "1xgo8fl",
@@ -117,7 +161,7 @@
       "id": "1xf6t5l",
       "created_utc": 1792945707,
       "title": "Has anyone actually made money selling automation workflows? What worked for you?",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "AIMarket24pro",
       "url": "https://www.reddit.com/r/automation/comments/1xf6t5l/has_anyone_actually_made_money_selling_automation/",
@@ -243,28 +287,6 @@
       "author": "Iheartnutellaa",
       "url": "https://www.reddit.com/r/automation/comments/1xarj4n/what_are_the_best_ai_use_cases_youve_created_for/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1xa2vsg",
-      "created_utc": 1792430259,
-      "title": "How to create an ai agent that actually does stuff for your team?",
-      "score": 40,
-      "num_comments": 83,
-      "author": "Separate-Record8115",
-      "url": "https://www.reddit.com/r/automation/comments/1xa2vsg/how_to_create_an_ai_agent_that_actually_does/",
-      "body": "Running ops at a 25 person startup and tryingto figure out how, to actually hand off recurring work to AI, not just answering questions, but stuff like following up on things, pulling info from different places, that kind of work, What have you tried that worked? Curious what approaches real teams are using, and what fell flat.",
-      "new": false
-    },
-    {
-      "id": "1x9x8l8",
-      "created_utc": 1792417372,
-      "title": "How Can I Learn Agentic AI for Free Without ChatGPT Plus or Claude Pro?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "charan11_4",
-      "url": "https://www.reddit.com/r/automation/comments/1x9x8l8/how_can_i_learn_agentic_ai_for_free_without/",
-      "body": "[removed]",
       "new": false
     }
   ],
