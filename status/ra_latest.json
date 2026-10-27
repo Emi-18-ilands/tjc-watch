@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-27T05:30:24.736656+00:00",
+  "checked_at": "2026-10-27T10:52:36.029531+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xgo8fl",
+      "created_utc": 1793094681,
+      "title": "Which industries do you think benefit the most from RPA?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "gramosoft",
+      "url": "https://www.reddit.com/r/automation/comments/1xgo8fl/which_industries_do_you_think_benefit_the_most/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xgo5ob",
+      "created_utc": 1793094394,
+      "title": "Which business processes are worth automating with RPA?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "gramosoft",
+      "url": "https://www.reddit.com/r/automation/comments/1xgo5ob/which_business_processes_are_worth_automating/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xg4gbz",
       "created_utc": 1793038104,
@@ -40,8 +62,8 @@
       "id": "1xfwsnn",
       "created_utc": 1793021250,
       "title": "6 weeks into trying to land my first consulting client. What am I missing?",
-      "score": 12,
-      "num_comments": 18,
+      "score": 13,
+      "num_comments": 21,
       "author": "marcelorojas56",
       "url": "https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/",
       "body": "I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually give correct answers. I still have a full-time job, and I'm trying to start a small consultancy on the side. The idea: companies that put an AI assistant in front of their customers (fintech, insurance, health) often have no way to know when it's giving wrong answers, because the data underneath is stale or messy. I fix that layer. What I've done so far: * Built a site with a free diagnostic agent, ",
@@ -51,8 +73,8 @@
       "id": "1xfwrio",
       "created_utc": 1793021171,
       "title": "Is combining AI generators with traditional editors the future, or just too many subscriptions?",
-      "score": 14,
-      "num_comments": 4,
+      "score": 3,
+      "num_comments": 5,
       "author": "Hot-Wrangler-3692",
       "url": "https://www.reddit.com/r/automation/comments/1xfwrio/is_combining_ai_generators_with_traditional/",
       "body": "Disclosure: This post is part of a Dreamina brand collaboration. Dreamina's $0.29 first-month offer for Seedance 2/2.5 brings up a workflow question for me: generate the footage there, then polish it in a separate editor, or wait for one tool to handle both? does anyone actually prefer mixing two different tools, or does the extra subscription and extra interface mostly get in the way?",
@@ -243,28 +265,6 @@
       "author": "yossef_egy",
       "url": "https://www.reddit.com/r/automation/comments/1x9l0e1/how_can_i_become_really_good/",
       "body": "What should I do to become really good at this field? What should I practice and how should I practice? I know this might sound like a strange question but I'm afraid to apply for jobs because I don't think the quality of my work is good enough yet I care a lot about quality and I care about maintaining a good reputation so I don't want to deliver poor work or disappoint clients I want to know how I can improve my skills and become really good at what I do I'm currently using Claude Code and I've been working with it for about a week Honestly, I don't feel like I've made any progress and I don",
-      "new": false
-    },
-    {
-      "id": "1x9bdy0",
-      "created_utc": 1792350246,
-      "title": "Has anyone tried some kind of automation for classifieds product listing?",
-      "score": 2,
-      "num_comments": 14,
-      "author": "Skylarcke",
-      "url": "https://www.reddit.com/r/automation/comments/1x9bdy0/has_anyone_tried_some_kind_of_automation_for/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1x9b5ue",
-      "created_utc": 1792349723,
-      "title": "Looking for a custom, human-approved way to organise my LinkedIn network and send ~30 targeted requests a day (not a bot)",
-      "score": 9,
-      "num_comments": 27,
-      "author": "Old-Government-1414",
-      "url": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
-      "body": "**What I want to build or find** I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don\u2019t want a bot that logs into my account and clicks things, because that risks a restriction. **Workflow I\u2019m after** 1. **Database first:** all my existing connections in one place, categorised automatically from LinkedIn\u2019s data export. 2. **Daily queue:** it finds about 30 relevant people a day from a target list, removes anyone already connected or with a pending request, and fills the remaining slots with new people. 3. **Approval:** I open it, review",
       "new": false
     }
   ],
