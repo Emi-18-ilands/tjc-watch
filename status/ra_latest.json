@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-27T10:52:36.029531+00:00",
+  "checked_at": "2026-10-27T16:26:27.856149+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xgt5r8",
+      "created_utc": 1793109231,
+      "title": "\ud83d\ude80 LOOKING FOR AI MODEL OWNERS \u2013 FANVUE CHAT MANAGEMENT",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Several_Ride_7534",
+      "url": "https://www.reddit.com/r/automation/comments/1xgt5r8/looking_for_ai_model_owners_fanvue_chat_management/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xgqmfb",
+      "created_utc": 1793102479,
+      "title": "How can our consultancy keep client-specific policies without forking the entire workflow for every single account?",
+      "score": 4,
+      "num_comments": 14,
+      "author": "Patient-Tea-922",
+      "url": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
+      "body": "I\u2019m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients, it was fastest just to duplicate our core lead routing and data sync workflow into a new workspace. Just copy that, plug in the client\u2019s credentials and turn it on. We\u2019ve grown a lot faster than I think any of us were expecting, and it\u2019s become painfully clear to me that this approach was a mistake. I\u2019m now maintaining almost 25 virtually identical versions of the same workflow. I\u2019m sure you see",
+      "new": true
+    },
     {
       "id": "1xgo8fl",
       "created_utc": 1793094681,
@@ -12,7 +34,7 @@
       "author": "gramosoft",
       "url": "https://www.reddit.com/r/automation/comments/1xgo8fl/which_industries_do_you_think_benefit_the_most/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xgo5ob",
@@ -23,14 +45,14 @@
       "author": "gramosoft",
       "url": "https://www.reddit.com/r/automation/comments/1xgo5ob/which_business_processes_are_worth_automating/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xg4gbz",
       "created_utc": 1793038104,
       "title": "What automation have you wanted to build that the existing tools just couldn\u2019t handle?",
-      "score": 1,
-      "num_comments": 10,
+      "score": 2,
+      "num_comments": 18,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xg4gbz/what_automation_have_you_wanted_to_build_that_the/",
       "body": "Hi all, I\u2019ve been working on automation stuff for a while and keep going back and forth on where the real bottleneck is. Figured I\u2019d ask the people who actually deal with it instead of guessing. What I keep running into: * **Documenting the process.** Nobody wants to write the SOP, and when someone does it\u2019s a giant 40 step PDF nobody opens again. * **Keeping it up to date.** At my last job we had hundreds, maybe thousands, of SOPs in an internal wiki. Most were out of date, so nobody trusted or read them. * **Actually running them.** AI tools are great at automating what they already know, bu",
@@ -40,8 +62,8 @@
       "id": "1xg1m1y",
       "created_utc": 1793031932,
       "title": "Need advice on automating market research data entry for 18,327 Excel rows",
-      "score": 9,
-      "num_comments": 18,
+      "score": 14,
+      "num_comments": 24,
       "author": "keepinitlowkey7",
       "url": "https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/",
       "body": "&#x200B; Hi everyone, I\u2019m working on my first client project, which involves around 18,327 market research report entries in Excel. My task is to research each report using research websites and fill in multiple fields, such as market size, CAGR, forecast period, key trends, regional insights, and major companies. I\u2019ve completed approximately 80% of the work manually, but I\u2019m struggling with the remaining entries because some information is difficult to find, and some AI-generated answers are inaccurate or too generic. I\u2019ve also noticed that a few previously completed cells may contain incorre",
@@ -243,28 +265,6 @@
       "author": "charan11_4",
       "url": "https://www.reddit.com/r/automation/comments/1x9x8l8/how_can_i_learn_agentic_ai_for_free_without/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1x9qznj",
-      "created_utc": 1792397287,
-      "title": "How do we stop cost controls drifting every time a model or price changes?",
-      "score": 8,
-      "num_comments": 30,
-      "author": "Any-Basis7541",
-      "url": "https://www.reddit.com/r/automation/comments/1x9qznj/how_do_we_stop_cost_controls_drifting_every_time/",
-      "body": "We've been monitoring token usage and setting budget limits per model, and sending lighter workloads to cheaper models. The problem is that when we update the model pricing or change a model, our existing thresholds and routing rules don't work anymore. We've also been considering cost per request, however the increase in retries, and larger context windows has made it more challenging to pinpoint where the costs are coming from. So this still needs some additional manual investigation. I was thinking of putting our thresholds more in line with model usage and cost, so it alerts us if a change",
-      "new": false
-    },
-    {
-      "id": "1x9l0e1",
-      "created_utc": 1792376363,
-      "title": "how can i become really good",
-      "score": 8,
-      "num_comments": 16,
-      "author": "yossef_egy",
-      "url": "https://www.reddit.com/r/automation/comments/1x9l0e1/how_can_i_become_really_good/",
-      "body": "What should I do to become really good at this field? What should I practice and how should I practice? I know this might sound like a strange question but I'm afraid to apply for jobs because I don't think the quality of my work is good enough yet I care a lot about quality and I care about maintaining a good reputation so I don't want to deliver poor work or disappoint clients I want to know how I can improve my skills and become really good at what I do I'm currently using Claude Code and I've been working with it for about a week Honestly, I don't feel like I've made any progress and I don",
       "new": false
     }
   ],
