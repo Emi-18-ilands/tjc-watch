@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T20:42:49.522960+00:00",
+  "checked_at": "2026-10-27T00:21:20.153839+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,11 +8,11 @@
       "created_utc": 1793038104,
       "title": "What automation have you wanted to build that the existing tools just couldn\u2019t handle?",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 5,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xg4gbz/what_automation_have_you_wanted_to_build_that_the/",
       "body": "Hi all, I\u2019ve been working on automation stuff for a while and keep going back and forth on where the real bottleneck is. Figured I\u2019d ask the people who actually deal with it instead of guessing. What I keep running into: * **Documenting the process.** Nobody wants to write the SOP, and when someone does it\u2019s a giant 40 step PDF nobody opens again. * **Keeping it up to date.** At my last job we had hundreds, maybe thousands, of SOPs in an internal wiki. Most were out of date, so nobody trusted or read them. * **Actually running them.** AI tools are great at automating what they already know, bu",
-      "new": true
+      "new": false
     },
     {
       "id": "1xg1m1y",
@@ -23,7 +23,7 @@
       "author": "keepinitlowkey7",
       "url": "https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/",
       "body": "&#x200B; Hi everyone, I\u2019m working on my first client project, which involves around 18,327 market research report entries in Excel. My task is to research each report using research websites and fill in multiple fields, such as market size, CAGR, forecast period, key trends, regional insights, and major companies. I\u2019ve completed approximately 80% of the work manually, but I\u2019m struggling with the remaining entries because some information is difficult to find, and some AI-generated answers are inaccurate or too generic. I\u2019ve also noticed that a few previously completed cells may contain incorre",
-      "new": true
+      "new": false
     },
     {
       "id": "1xfx6dd",
@@ -34,29 +34,29 @@
       "author": "Hot_Rub_3746",
       "url": "https://www.reddit.com/r/automation/comments/1xfx6dd/how_to_automate_semrush_monthly_data_extraction/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xfwsnn",
       "created_utc": 1793021250,
       "title": "6 weeks into trying to land my first consulting client. What am I missing?",
-      "score": 11,
-      "num_comments": 17,
+      "score": 12,
+      "num_comments": 18,
       "author": "marcelorojas56",
       "url": "https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/",
       "body": "I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually give correct answers. I still have a full-time job, and I'm trying to start a small consultancy on the side. The idea: companies that put an AI assistant in front of their customers (fintech, insurance, health) often have no way to know when it's giving wrong answers, because the data underneath is stale or messy. I fix that layer. What I've done so far: * Built a site with a free diagnostic agent, ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xfwrio",
       "created_utc": 1793021171,
       "title": "Is combining AI generators with traditional editors the future, or just too many subscriptions?",
-      "score": 3,
-      "num_comments": 3,
+      "score": 14,
+      "num_comments": 4,
       "author": "Hot-Wrangler-3692",
       "url": "https://www.reddit.com/r/automation/comments/1xfwrio/is_combining_ai_generators_with_traditional/",
       "body": "Disclosure: This post is part of a Dreamina brand collaboration. Dreamina's $0.29 first-month offer for Seedance 2/2.5 brings up a workflow question for me: generate the footage there, then polish it in a separate editor, or wait for one tool to handle both? does anyone actually prefer mixing two different tools, or does the extra subscription and extra interface mostly get in the way?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xfqsel",
@@ -67,7 +67,7 @@
       "author": "Turhh1r",
       "url": "https://www.reddit.com/r/automation/comments/1xfqsel/i_need_help_seeing_value/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xf6t5l",
