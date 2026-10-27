@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T00:21:20.153839+00:00",
+  "checked_at": "2026-10-27T05:30:24.736656+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,7 +8,7 @@
       "created_utc": 1793038104,
       "title": "What automation have you wanted to build that the existing tools just couldn\u2019t handle?",
       "score": 1,
-      "num_comments": 5,
+      "num_comments": 10,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xg4gbz/what_automation_have_you_wanted_to_build_that_the/",
       "body": "Hi all, I\u2019ve been working on automation stuff for a while and keep going back and forth on where the real bottleneck is. Figured I\u2019d ask the people who actually deal with it instead of guessing. What I keep running into: * **Documenting the process.** Nobody wants to write the SOP, and when someone does it\u2019s a giant 40 step PDF nobody opens again. * **Keeping it up to date.** At my last job we had hundreds, maybe thousands, of SOPs in an internal wiki. Most were out of date, so nobody trusted or read them. * **Actually running them.** AI tools are great at automating what they already know, bu",
@@ -18,8 +18,8 @@
       "id": "1xg1m1y",
       "created_utc": 1793031932,
       "title": "Need advice on automating market research data entry for 18,327 Excel rows",
-      "score": 7,
-      "num_comments": 12,
+      "score": 9,
+      "num_comments": 18,
       "author": "keepinitlowkey7",
       "url": "https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/",
       "body": "&#x200B; Hi everyone, I\u2019m working on my first client project, which involves around 18,327 market research report entries in Excel. My task is to research each report using research websites and fill in multiple fields, such as market size, CAGR, forecast period, key trends, regional insights, and major companies. I\u2019ve completed approximately 80% of the work manually, but I\u2019m struggling with the remaining entries because some information is difficult to find, and some AI-generated answers are inaccurate or too generic. I\u2019ve also noticed that a few previously completed cells may contain incorre",
@@ -265,17 +265,6 @@
       "author": "Old-Government-1414",
       "url": "https://www.reddit.com/r/automation/comments/1x9b5ue/looking_for_a_custom_humanapproved_way_to/",
       "body": "**What I want to build or find** I want a semi-automated LinkedIn workflow where the tool prepares everything and I approve every action. I don\u2019t want a bot that logs into my account and clicks things, because that risks a restriction. **Workflow I\u2019m after** 1. **Database first:** all my existing connections in one place, categorised automatically from LinkedIn\u2019s data export. 2. **Daily queue:** it finds about 30 relevant people a day from a target list, removes anyone already connected or with a pending request, and fills the remaining slots with new people. 3. **Approval:** I open it, review",
-      "new": false
-    },
-    {
-      "id": "1x9361i",
-      "created_utc": 1792329900,
-      "title": "I priced a scraper at 1.4 GB of proxy traffic per hotel. The real number was about 82 MB. How do you measure yours?",
-      "score": 3,
-      "num_comments": 10,
-      "author": "Ok-Motor-9812",
-      "url": "https://www.reddit.com/r/automation/comments/1x9361i/i_priced_a_scraper_at_14_gb_of_proxy_traffic_per/",
-      "body": "I measured one extract in a fresh process. 52 requests, 35.4 MB. Times about 40 date combos and I reported 1.4 GB and 3 to 6 dollars of residential proxy per hotel. Wrong by 17x. Two functions next to it already cached their fetches for 30 min, so only the first combo paid 35 MB, the rest paid 1.19 MB. That 1.19 was one product page downloaded again every time. Cached it too, about 20 lines, and repeat combos went to 0 requests. Now I run many calls in one process and print the delta per call. Anyone else priced something off one cold run?",
       "new": false
     }
   ],
