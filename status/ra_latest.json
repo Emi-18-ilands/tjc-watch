@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T20:54:34.645545+00:00",
+  "checked_at": "2026-10-28T00:25:38.649193+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,7 +12,7 @@
       "author": "Zach-Kelly48",
       "url": "https://www.reddit.com/r/automation/comments/1xh4fck/has_anyone_built_a_custom_project_management_tool/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xh36q3",
@@ -23,7 +23,7 @@
       "author": "Mr_Somebodyyyy",
       "url": "https://www.reddit.com/r/automation/comments/1xh36q3/for_people_who_freelance_with_n8n_how_do_you/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xh34a3",
@@ -34,7 +34,7 @@
       "author": "realimposter",
       "url": "https://www.reddit.com/r/automation/comments/1xh34a3/whats_the_best_live_avatar_model_now/",
       "body": "I'm looking for a realistic live avatar model that can do custom animations, custom voices, low latency, easy api, any recommendations?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xgxnxb",
@@ -45,7 +45,7 @@
       "author": "ArachnidPersonal1742",
       "url": "https://www.reddit.com/r/automation/comments/1xgxnxb/anyone_testing_seedance_inside_automated_video/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xgt5r8",
@@ -62,8 +62,8 @@
       "id": "1xgqmfb",
       "created_utc": 1793102479,
       "title": "How can our consultancy keep client-specific policies without forking the entire workflow for every single account?",
-      "score": 4,
-      "num_comments": 14,
+      "score": 5,
+      "num_comments": 20,
       "author": "Patient-Tea-922",
       "url": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
       "body": "I\u2019m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients, it was fastest just to duplicate our core lead routing and data sync workflow into a new workspace. Just copy that, plug in the client\u2019s credentials and turn it on. We\u2019ve grown a lot faster than I think any of us were expecting, and it\u2019s become painfully clear to me that this approach was a mistake. I\u2019m now maintaining almost 25 virtually identical versions of the same workflow. I\u2019m sure you see",
@@ -275,17 +275,6 @@
       "num_comments": 1,
       "author": "The_NN_Word",
       "url": "https://www.reddit.com/r/automation/comments/1xaskkd/looking_for_content_creators_on_instagram_who/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1xarj4n",
-      "created_utc": 1792501282,
-      "title": "What are the best AI use cases you\u2019ve created for presales?",
-      "score": 3,
-      "num_comments": 7,
-      "author": "Iheartnutellaa",
-      "url": "https://www.reddit.com/r/automation/comments/1xarj4n/what_are_the_best_ai_use_cases_youve_created_for/",
       "body": "",
       "new": false
     }
