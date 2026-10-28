@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-10-28T13:28:15.417401+00:00",
+  "checked_at": "2026-10-28T19:03:24.719296+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xhwes3",
+      "created_utc": 1793212421,
+      "title": "Which productivity habit have you started implementing that has made a difference?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Mike_Economist2864",
+      "url": "https://www.reddit.com/r/automation/comments/1xhwes3/which_productivity_habit_have_you_started/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xhplhi",
+      "created_utc": 1793197705,
+      "title": "How to hand onboarding, invoices and CRM updates to an agent without hiring an ops person",
+      "score": 2,
+      "num_comments": 9,
+      "author": "Similar_Confusion534",
+      "url": "https://www.reddit.com/r/automation/comments/1xhplhi/how_to_hand_onboarding_invoices_and_crm_updates/",
+      "body": "A question I saw today stuck with me. A small team with about 30 manual processes, like onboarding customers, sending invoices, updating the CRM after calls and syncing data between tools. Each one is small, together they eat hours every week, and engineering is busy with the product. Here's the approach I'd take. It's also what we built Conecto around, so full disclosure, I'm one of the founders. 1. Rank the processes by hours per week and start with the top five. Invoicing, CRM updates after calls and onboarding usually cover most of it. 2. Give one agent access to the actual systems instead",
+      "new": true
+    },
     {
       "id": "1xhk4al",
       "created_utc": 1793182451,
@@ -12,18 +34,18 @@
       "author": "Mysterypackmainecoon",
       "url": "https://www.reddit.com/r/automation/comments/1xhk4al/looking_for_someone_experienced_with_ai_and/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xhinla",
       "created_utc": 1793176953,
       "title": "What are some truly useful automation tools for business outside Zapier & N8N?",
       "score": 19,
-      "num_comments": 24,
+      "num_comments": 31,
       "author": "Ok-Macaron2516",
       "url": "https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/",
       "body": "Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the game quiet a bit- specifically for businesses and entrepreneurs. So curious experts here, what are some truly useful automation tools for business outside Zapier & N8N?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xhgn1c",
@@ -34,7 +56,7 @@
       "author": "ilove_cartoon",
       "url": "https://www.reddit.com/r/automation/comments/1xhgn1c/how_can_i_automate_a_canva_fashion_product/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xhgdak",
@@ -45,7 +67,7 @@
       "author": "SaiTarunRonanki",
       "url": "https://www.reddit.com/r/automation/comments/1xhgdak/splitting_agent_tools_into_4_permission_buckets/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xh4fck",
@@ -265,17 +287,6 @@
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xcym9v/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
-      "new": false
-    },
-    {
-      "id": "1xcc6pu",
-      "created_utc": 1792654761,
-      "title": "How do i find the linkedin profiles of github repo contributors?",
-      "score": 5,
-      "num_comments": 13,
-      "author": "djdagger78",
-      "url": "https://www.reddit.com/r/automation/comments/1xcc6pu/how_do_i_find_the_linkedin_profiles_of_github/",
-      "body": "There are three of us doing AI research recruiting in my company. I just write a script that scrapes and writes prompt libraries, so getting the contributor list of a repo is easy. I use Phantombuster for this. What happens is I end up with a bunch of GitHub handles, and then I need to know who the person actually is and where they work right now. Some of them have a real name on the profile, and some don't. Some link a personal site, and some don't link anything at all. For some of them, I'm not able to find the actual person behind these GitHub profiles. If I need to, it takes a lot of time ",
       "new": false
     }
   ],
