@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T09:48:00.895112+00:00",
+  "checked_at": "2026-10-29T16:51:37.982124+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,23 +7,23 @@
       "id": "1xie4e8",
       "created_utc": 1793261828,
       "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 7,
       "author": "Creepy_Effective_598",
       "url": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
       "body": "we put together a report at work on AI cases where consumer goods companies actually published results, and I expected it to be mostly ai ads and chatbots, surprisingly not. 54 of the 120 cases are outside marketing, in planning, factories, sales and back office. plus surprisingly (again) that's where the clearest money is. Diageo tracks 10 million casks of maturing spirit across 300 sites and reports $100 million in extra sales in a year from it. Hindustan Unilever's factory in Tinsukia cut changeover time by 85%, and its frozen production plan went from 14 days to 1. Kao forecasts demand for",
-      "new": true
+      "new": false
     },
     {
       "id": "1xidym7",
       "created_utc": 1793261215,
       "title": "PowerPoint + Power BI automation",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 6,
       "author": "fuckingfrito",
       "url": "https://www.reddit.com/r/automation/comments/1xidym7/powerpoint_power_bi_automation/",
       "body": "Dear community I am building an automation that opens PPTX files which are connected to PowerBI to retrieve data in most of its slides. The loading of each slide is time consuming and Devin created a solution but one slide was exported with the Power BI loading logo + bar. It seems there is no attribute on the slides that can programmatically tell us that they are fully loaded. Can I get some ideas for this mechanism I need to make sure slides are done loading before export?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xicr0x",
@@ -34,18 +34,18 @@
       "author": "SimpleOtherwise307",
       "url": "https://www.reddit.com/r/automation/comments/1xicr0x/how_to_automate_onedrive_file_organization_and/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xibvzj",
       "created_utc": 1793253429,
       "title": "Built an stealth CAPTCHA-solving + token-generating GitHub automation bot in a single night using Gemini. I can now automate literally anything on the web. What should I build/monetize next?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 0,
+      "num_comments": 2,
       "author": "xprtyyy",
       "url": "https://www.reddit.com/r/automation/comments/1xibvzj/built_an_stealth_captchasolving_tokengenerating/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xibj02",
@@ -56,7 +56,7 @@
       "author": "Usual_Difficulty_126",
       "url": "https://www.reddit.com/r/automation/comments/1xibj02/prepaid_balance_vs_card_on_file_vs_your_own_keys/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xi7u73",
@@ -95,8 +95,8 @@
       "id": "1xhyuxm",
       "created_utc": 1793217711,
       "title": "What AI tools do you use to turn from data into reports?",
-      "score": 6,
-      "num_comments": 12,
+      "score": 7,
+      "num_comments": 19,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
       "body": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a template and generate a consistent output without manually processing every form. Has anyone built a workflow like this? What tools or approaches have worked well for you?",
@@ -117,8 +117,8 @@
       "id": "1xhplhi",
       "created_utc": 1793197705,
       "title": "How to hand onboarding, invoices and CRM updates to an agent without hiring an ops person",
-      "score": 3,
-      "num_comments": 9,
+      "score": 4,
+      "num_comments": 12,
       "author": "Similar_Confusion534",
       "url": "https://www.reddit.com/r/automation/comments/1xhplhi/how_to_hand_onboarding_invoices_and_crm_updates/",
       "body": "A question I saw today stuck with me. A small team with about 30 manual processes, like onboarding customers, sending invoices, updating the CRM after calls and syncing data between tools. Each one is small, together they eat hours every week, and engineering is busy with the product. Here's the approach I'd take. It's also what we built Conecto around, so full disclosure, I'm one of the founders. 1. Rank the processes by hours per week and start with the top five. Invoicing, CRM updates after calls and onboarding usually cover most of it. 2. Give one agent access to the actual systems instead",
@@ -342,17 +342,6 @@
       "author": "Mountain_Tie_2341",
       "url": "https://www.reddit.com/r/automation/comments/1xeud8w/starting_an_ai_automation_agency_need_advice/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xe5ssm",
-      "created_utc": 1792839813,
-      "title": "What are you using instead of Zapier to keep automation costs down?",
-      "score": 13,
-      "num_comments": 39,
-      "author": "Outrageous_Text5335",
-      "url": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
-      "body": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest option available. For anyone who moved away from Zapier, what did you switch to and how has it held up as your workflows grew?",
       "new": false
     }
   ],
