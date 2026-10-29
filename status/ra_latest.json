@@ -1,8 +1,63 @@
 {
-  "checked_at": "2026-10-29T02:46:07.991850+00:00",
+  "checked_at": "2026-10-29T09:48:00.895112+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xie4e8",
+      "created_utc": 1793261828,
+      "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Creepy_Effective_598",
+      "url": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
+      "body": "we put together a report at work on AI cases where consumer goods companies actually published results, and I expected it to be mostly ai ads and chatbots, surprisingly not. 54 of the 120 cases are outside marketing, in planning, factories, sales and back office. plus surprisingly (again) that's where the clearest money is. Diageo tracks 10 million casks of maturing spirit across 300 sites and reports $100 million in extra sales in a year from it. Hindustan Unilever's factory in Tinsukia cut changeover time by 85%, and its frozen production plan went from 14 days to 1. Kao forecasts demand for",
+      "new": true
+    },
+    {
+      "id": "1xidym7",
+      "created_utc": 1793261215,
+      "title": "PowerPoint + Power BI automation",
+      "score": 1,
+      "num_comments": 1,
+      "author": "fuckingfrito",
+      "url": "https://www.reddit.com/r/automation/comments/1xidym7/powerpoint_power_bi_automation/",
+      "body": "Dear community I am building an automation that opens PPTX files which are connected to PowerBI to retrieve data in most of its slides. The loading of each slide is time consuming and Devin created a solution but one slide was exported with the Power BI loading logo + bar. It seems there is no attribute on the slides that can programmatically tell us that they are fully loaded. Can I get some ideas for this mechanism I need to make sure slides are done loading before export?",
+      "new": true
+    },
+    {
+      "id": "1xicr0x",
+      "created_utc": 1793256619,
+      "title": "How to automate OneDrive file organization and information extraction using AI Agents (No-code)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "SimpleOtherwise307",
+      "url": "https://www.reddit.com/r/automation/comments/1xicr0x/how_to_automate_onedrive_file_organization_and/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xibvzj",
+      "created_utc": 1793253429,
+      "title": "Built an stealth CAPTCHA-solving + token-generating GitHub automation bot in a single night using Gemini. I can now automate literally anything on the web. What should I build/monetize next?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "xprtyyy",
+      "url": "https://www.reddit.com/r/automation/comments/1xibvzj/built_an_stealth_captchasolving_tokengenerating/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xibj02",
+      "created_utc": 1793252122,
+      "title": "prepaid balance vs card on file vs your own keys: which billing setup fits which automation",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Usual_Difficulty_126",
+      "url": "https://www.reddit.com/r/automation/comments/1xibj02/prepaid_balance_vs_card_on_file_vs_your_own_keys/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xi7u73",
       "created_utc": 1793240311,
@@ -12,7 +67,7 @@
       "author": "EquipmentKnown8691",
       "url": "https://www.reddit.com/r/automation/comments/1xi7u73/how_should_it_set_up_a_citizen_developer_program/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xi78z4",
@@ -23,7 +78,7 @@
       "author": "CoretampAutomation",
       "url": "https://www.reddit.com/r/automation/comments/1xi78z4/how_to_pack_nuts_efficiently_full_vffs_packaging/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xi3evq",
@@ -34,18 +89,18 @@
       "author": "Silly_Procedure1870",
       "url": "https://www.reddit.com/r/automation/comments/1xi3evq/what_are_some_simple_automations_youve_built/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xhyuxm",
       "created_utc": 1793217711,
       "title": "What AI tools do you use to turn from data into reports?",
-      "score": 4,
-      "num_comments": 8,
+      "score": 6,
+      "num_comments": 12,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
       "body": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a template and generate a consistent output without manually processing every form. Has anyone built a workflow like this? What tools or approaches have worked well for you?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xhwes3",
@@ -84,8 +139,8 @@
       "id": "1xhinla",
       "created_utc": 1793176953,
       "title": "What are some truly useful automation tools for business outside Zapier & N8N?",
-      "score": 19,
-      "num_comments": 31,
+      "score": 21,
+      "num_comments": 38,
       "author": "Ok-Macaron2516",
       "url": "https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/",
       "body": "Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the game quiet a bit- specifically for businesses and entrepreneurs. So curious experts here, what are some truly useful automation tools for business outside Zapier & N8N?",
@@ -298,28 +353,6 @@
       "author": "Outrageous_Text5335",
       "url": "https://www.reddit.com/r/automation/comments/1xe5ssm/what_are_you_using_instead_of_zapier_to_keep/",
       "body": "Zapier has been getting pretty expensive for the number of automations I'm running, so I'm looking at alternatives. I still want something reliable and fairly easy to manage, not just the cheapest option available. For anyone who moved away from Zapier, what did you switch to and how has it held up as your workflows grew?",
-      "new": false
-    },
-    {
-      "id": "1xe0c3n",
-      "created_utc": 1792819840,
-      "title": "Best way to learn MCP servers when all your automations are Zapier and cron jobs",
-      "score": 6,
-      "num_comments": 20,
-      "author": "DapperAsi",
-      "url": "https://www.reddit.com/r/automation/comments/1xe0c3n/best_way_to_learn_mcp_servers_when_all_your/",
-      "body": "I run ops automation at a logistics company, about 40 Zapier flows and a pile of Python scripts on cron that move orders between our WMS, the carrier portals and a shared inbox. Leadership wants Claude handling the exceptions like address mismatches and missed pickups, and the plan is to expose our systems as MCP servers so it can read and act on them. IT wants code they can review, not another workflow tool, so Zapier's own MCP option is already out. I can write Python and the free quickstart stuff had a toy server running in an afternoon, but Ive never designed an API anyone else depends on.",
-      "new": false
-    },
-    {
-      "id": "1xdcnxq",
-      "created_utc": 1792758530,
-      "title": "Which AI task in your workflow is still a five node chain you wish was one?",
-      "score": 5,
-      "num_comments": 19,
-      "author": "easybits_ai",
-      "url": "https://www.reddit.com/r/automation/comments/1xdcnxq/which_ai_task_in_your_workflow_is_still_a_five/",
-      "body": "",
       "new": false
     }
   ],
