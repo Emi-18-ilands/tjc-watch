@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T21:44:43.457855+00:00",
+  "checked_at": "2026-10-30T01:52:14.264607+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,12 +7,12 @@
       "id": "1xiwz0z",
       "created_utc": 1793309728,
       "title": "What are some good Zapier alternatives?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 4,
+      "num_comments": 12,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
       "body": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take a more AI focused approach and Power Automate makes sense for teams already using Microsoft products. I'm also looking at WRK as another option for more complex workflows. For those who have moved away from Zapier, what alternatives has worked best for you and why?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xiqfgm",
@@ -23,7 +23,7 @@
       "author": "Nora_Clarke35",
       "url": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
       "body": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating client presentations. I've also tried n8n, Relay and Lindy, but haven't found a workflow with enough ROI yet. What automation has made the biggest difference in your day to day work?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xie4e8",
