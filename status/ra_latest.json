@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-10-30T08:30:33.189093+00:00",
+  "checked_at": "2026-10-30T15:16:19.260660+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xjaza2",
+      "created_utc": 1793353478,
+      "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
+      "score": 5,
+      "num_comments": 11,
+      "author": "mediareticulata",
+      "url": "https://www.reddit.com/r/automation/comments/1xjaza2/our_n8n_setup_now_has_23_api_credentials_and_9/",
+      "body": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptions, and finance keeps getting surprised by renewals for tools nobody remembers buying. Most of them get used a few times a month: one enrichment tool, two scrapers, a SERP checker and a couple of AI APIs. The workflows themselves are fine. It's the pile of accounts behind them that's the problem. What did you cut when you cleaned up? Did agents replace any of your workflows or did that just add mo",
+      "new": true
+    },
+    {
       "id": "1xj44wu",
       "created_utc": 1793328921,
       "title": "Building a Custom AI Business Automation System",
-      "score": 2,
-      "num_comments": 12,
+      "score": 3,
+      "num_comments": 29,
       "author": "Xeriphy",
       "url": "https://www.reddit.com/r/automation/comments/1xj44wu/building_a_custom_ai_business_automation_system/",
       "body": "Hey guys, I'm looking for some help/guidance. I have a friend who owns several businesses and knows I'm into IT and work in the IT field. He's asked me to build him something you might call an \"AI Assistant\" or an AI environment where basically his whole life is automated, including personal and business-related matters. He wants literally everything automated, from emails, flights, scheduling, calendar management, jobs, finances, profit margins, research, content creation and much more. He's currently running several businesses, mainly two building/insurance repair businesses and an events bu",
-      "new": true
+      "new": false
     },
     {
       "id": "1xiwz0z",
@@ -29,8 +40,8 @@
       "id": "1xiqfgm",
       "created_utc": 1793294935,
       "title": "Looking back at 2025 which AI automation saved you the most time?",
-      "score": 8,
-      "num_comments": 14,
+      "score": 11,
+      "num_comments": 18,
       "author": "Nora_Clarke35",
       "url": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
       "body": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating client presentations. I've also tried n8n, Relay and Lindy, but haven't found a workflow with enough ROI yet. What automation has made the biggest difference in your day to day work?",
@@ -95,7 +106,7 @@
       "id": "1xi7u73",
       "created_utc": 1793240311,
       "title": "How should IT set up a citizen developer program with guadrails? Curious how OutSystems handle it",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "EquipmentKnown8691",
       "url": "https://www.reddit.com/r/automation/comments/1xi7u73/how_should_it_set_up_a_citizen_developer_program/",
@@ -352,17 +363,6 @@
       "num_comments": 1,
       "author": "Turhh1r",
       "url": "https://www.reddit.com/r/automation/comments/1xfqsel/i_need_help_seeing_value/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xf6t5l",
-      "created_utc": 1792945707,
-      "title": "Has anyone actually made money selling automation workflows? What worked for you?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "AIMarket24pro",
-      "url": "https://www.reddit.com/r/automation/comments/1xf6t5l/has_anyone_actually_made_money_selling_automation/",
       "body": "[removed]",
       "new": false
     }
