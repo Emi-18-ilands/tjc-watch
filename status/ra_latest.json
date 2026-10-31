@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T16:17:08.433089+00:00",
+  "checked_at": "2026-10-31T20:15:12.945519+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -51,8 +51,8 @@
       "id": "1xiqfgm",
       "created_utc": 1793294935,
       "title": "Looking back at 2025 which AI automation saved you the most time?",
-      "score": 11,
-      "num_comments": 18,
+      "score": 10,
+      "num_comments": 19,
       "author": "Nora_Clarke35",
       "url": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
       "body": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating client presentations. I've also tried n8n, Relay and Lindy, but haven't found a workflow with enough ROI yet. What automation has made the biggest difference in your day to day work?",
@@ -353,17 +353,6 @@
       "author": "marcelorojas56",
       "url": "https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/",
       "body": "I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually give correct answers. I still have a full-time job, and I'm trying to start a small consultancy on the side. The idea: companies that put an AI assistant in front of their customers (fintech, insurance, health) often have no way to know when it's giving wrong answers, because the data underneath is stale or messy. I fix that layer. What I've done so far: * Built a site with a free diagnostic agent, ",
-      "new": false
-    },
-    {
-      "id": "1xfwrio",
-      "created_utc": 1793021171,
-      "title": "Is combining AI generators with traditional editors the future, or just too many subscriptions?",
-      "score": 3,
-      "num_comments": 8,
-      "author": "Hot-Wrangler-3692",
-      "url": "https://www.reddit.com/r/automation/comments/1xfwrio/is_combining_ai_generators_with_traditional/",
-      "body": "Disclosure: This post is part of a Dreamina brand collaboration. Dreamina's $0.29 first-month offer for Seedance 2/2.5 brings up a workflow question for me: generate the footage there, then polish it in a separate editor, or wait for one tool to handle both? does anyone actually prefer mixing two different tools, or does the extra subscription and extra interface mostly get in the way?",
       "new": false
     }
   ],
