@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T05:22:54.606689+00:00",
+  "checked_at": "2026-10-31T11:09:22.802284+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -18,8 +18,8 @@
       "id": "1xjaza2",
       "created_utc": 1793353478,
       "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
-      "score": 8,
-      "num_comments": 19,
+      "score": 9,
+      "num_comments": 21,
       "author": "mediareticulata",
       "url": "https://www.reddit.com/r/automation/comments/1xjaza2/our_n8n_setup_now_has_23_api_credentials_and_9/",
       "body": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptions, and finance keeps getting surprised by renewals for tools nobody remembers buying. Most of them get used a few times a month: one enrichment tool, two scrapers, a SERP checker and a couple of AI APIs. The workflows themselves are fine. It's the pile of accounts behind them that's the problem. What did you cut when you cleaned up? Did agents replace any of your workflows or did that just add mo",
@@ -40,8 +40,8 @@
       "id": "1xiwz0z",
       "created_utc": 1793309728,
       "title": "What are some good Zapier alternatives?",
-      "score": 6,
-      "num_comments": 20,
+      "score": 7,
+      "num_comments": 25,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
       "body": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take a more AI focused approach and Power Automate makes sense for teams already using Microsoft products. I'm also looking at WRK as another option for more complex workflows. For those who have moved away from Zapier, what alternatives has worked best for you and why?",
@@ -364,17 +364,6 @@
       "author": "Hot-Wrangler-3692",
       "url": "https://www.reddit.com/r/automation/comments/1xfwrio/is_combining_ai_generators_with_traditional/",
       "body": "Disclosure: This post is part of a Dreamina brand collaboration. Dreamina's $0.29 first-month offer for Seedance 2/2.5 brings up a workflow question for me: generate the footage there, then polish it in a separate editor, or wait for one tool to handle both? does anyone actually prefer mixing two different tools, or does the extra subscription and extra interface mostly get in the way?",
-      "new": false
-    },
-    {
-      "id": "1xfqsel",
-      "created_utc": 1793002062,
-      "title": "I need help seeing value",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Turhh1r",
-      "url": "https://www.reddit.com/r/automation/comments/1xfqsel/i_need_help_seeing_value/",
-      "body": "[removed]",
       "new": false
     }
   ],
