@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T11:09:22.802284+00:00",
+  "checked_at": "2026-10-31T16:17:08.433089+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,8 +7,8 @@
       "id": "1xjjf8g",
       "created_utc": 1793376302,
       "title": "I\u2019ll build your automation for you, free. What do you want automated?",
-      "score": 7,
-      "num_comments": 15,
+      "score": 8,
+      "num_comments": 16,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
       "body": "Hi all, we\u2019ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in a few areas: * **Business context:** the automation doesn\u2019t capture the context behind it, which is exactly what you need when it\u2019s time to change it. * **Ownership:** it\u2019s often unclear who\u2019s responsible for keeping an automation up to date. * **Knowledge silos:** automations are hard to share with the team, so one person ends up owning everything. * **Documentation:** an automation is just a fl",
@@ -29,8 +29,8 @@
       "id": "1xj44wu",
       "created_utc": 1793328921,
       "title": "Building a Custom AI Business Automation System",
-      "score": 4,
-      "num_comments": 33,
+      "score": 3,
+      "num_comments": 36,
       "author": "Xeriphy",
       "url": "https://www.reddit.com/r/automation/comments/1xj44wu/building_a_custom_ai_business_automation_system/",
       "body": "Hey guys, I'm looking for some help/guidance. I have a friend who owns several businesses and knows I'm into IT and work in the IT field. He's asked me to build him something you might call an \"AI Assistant\" or an AI environment where basically his whole life is automated, including personal and business-related matters. He wants literally everything automated, from emails, flights, scheduling, calendar management, jobs, finances, profit margins, research, content creation and much more. He's currently running several businesses, mainly two building/insurance repair businesses and an events bu",
