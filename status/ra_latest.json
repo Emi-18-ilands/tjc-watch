@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-31T20:15:12.945519+00:00",
+  "checked_at": "2026-10-31T23:39:03.597260+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -18,8 +18,8 @@
       "id": "1xjaza2",
       "created_utc": 1793353478,
       "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
-      "score": 9,
-      "num_comments": 21,
+      "score": 12,
+      "num_comments": 23,
       "author": "mediareticulata",
       "url": "https://www.reddit.com/r/automation/comments/1xjaza2/our_n8n_setup_now_has_23_api_credentials_and_9/",
       "body": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptions, and finance keeps getting surprised by renewals for tools nobody remembers buying. Most of them get used a few times a month: one enrichment tool, two scrapers, a SERP checker and a couple of AI APIs. The workflows themselves are fine. It's the pile of accounts behind them that's the problem. What did you cut when you cleaned up? Did agents replace any of your workflows or did that just add mo",
