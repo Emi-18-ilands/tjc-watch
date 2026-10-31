@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T23:39:42.458220+00:00",
+  "checked_at": "2026-10-31T05:22:54.606689+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,8 +7,8 @@
       "id": "1xjjf8g",
       "created_utc": 1793376302,
       "title": "I\u2019ll build your automation for you, free. What do you want automated?",
-      "score": 6,
-      "num_comments": 11,
+      "score": 7,
+      "num_comments": 15,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
       "body": "Hi all, we\u2019ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in a few areas: * **Business context:** the automation doesn\u2019t capture the context behind it, which is exactly what you need when it\u2019s time to change it. * **Ownership:** it\u2019s often unclear who\u2019s responsible for keeping an automation up to date. * **Knowledge silos:** automations are hard to share with the team, so one person ends up owning everything. * **Documentation:** an automation is just a fl",
