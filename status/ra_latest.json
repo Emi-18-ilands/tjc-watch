@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-01T18:31:02.281639+00:00",
+  "checked_at": "2026-11-01T22:18:40.350474+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xlbppo",
+      "created_utc": 1793560591,
+      "title": "Any advice for building a bot that applies to jobs for me automatically?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Exciting-Topic3902",
+      "url": "https://www.reddit.com/r/automation/comments/1xlbppo/any_advice_for_building_a_bot_that_applies_to/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xkru5d",
       "created_utc": 1793499863,
