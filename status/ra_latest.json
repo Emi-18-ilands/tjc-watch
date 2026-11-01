@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T13:10:25.582883+00:00",
+  "checked_at": "2026-11-01T18:31:02.281639+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -319,39 +319,6 @@
       "num_comments": 1,
       "author": "gramosoft",
       "url": "https://www.reddit.com/r/automation/comments/1xgo5ob/which_business_processes_are_worth_automating/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xg4gbz",
-      "created_utc": 1793038104,
-      "title": "What automation have you wanted to build that the existing tools just couldn\u2019t handle?",
-      "score": 2,
-      "num_comments": 24,
-      "author": "klampzlamps",
-      "url": "https://www.reddit.com/r/automation/comments/1xg4gbz/what_automation_have_you_wanted_to_build_that_the/",
-      "body": "Hi all, I\u2019ve been working on automation stuff for a while and keep going back and forth on where the real bottleneck is. Figured I\u2019d ask the people who actually deal with it instead of guessing. What I keep running into: * **Documenting the process.** Nobody wants to write the SOP, and when someone does it\u2019s a giant 40 step PDF nobody opens again. * **Keeping it up to date.** At my last job we had hundreds, maybe thousands, of SOPs in an internal wiki. Most were out of date, so nobody trusted or read them. * **Actually running them.** AI tools are great at automating what they already know, bu",
-      "new": false
-    },
-    {
-      "id": "1xg1m1y",
-      "created_utc": 1793031932,
-      "title": "Need advice on automating market research data entry for 18,327 Excel rows",
-      "score": 17,
-      "num_comments": 28,
-      "author": "keepinitlowkey7",
-      "url": "https://www.reddit.com/r/automation/comments/1xg1m1y/need_advice_on_automating_market_research_data/",
-      "body": "&#x200B; Hi everyone, I\u2019m working on my first client project, which involves around 18,327 market research report entries in Excel. My task is to research each report using research websites and fill in multiple fields, such as market size, CAGR, forecast period, key trends, regional insights, and major companies. I\u2019ve completed approximately 80% of the work manually, but I\u2019m struggling with the remaining entries because some information is difficult to find, and some AI-generated answers are inaccurate or too generic. I\u2019ve also noticed that a few previously completed cells may contain incorre",
-      "new": false
-    },
-    {
-      "id": "1xfx6dd",
-      "created_utc": 1793022153,
-      "title": "How to automate SEMRush monthly data extraction with Claude?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Hot_Rub_3746",
-      "url": "https://www.reddit.com/r/automation/comments/1xfx6dd/how_to_automate_semrush_monthly_data_extraction/",
       "body": "[removed]",
       "new": false
     }
