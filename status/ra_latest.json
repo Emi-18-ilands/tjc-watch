@@ -1,14 +1,25 @@
 {
-  "checked_at": "2026-10-31T23:39:03.597260+00:00",
+  "checked_at": "2026-11-01T05:49:54.109119+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xkru5d",
+      "created_utc": 1793499863,
+      "title": "Currently learning how to be an AI Automation Specialist.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "StrengthParticular82",
+      "url": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
+      "body": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: **Zapier, Make, n8n, or Power Automate?** Do you have any recommended learning roadmaps, resources, or advice on what skills I should prioritize? I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!",
+      "new": true
+    },
+    {
       "id": "1xjjf8g",
       "created_utc": 1793376302,
       "title": "I\u2019ll build your automation for you, free. What do you want automated?",
-      "score": 8,
-      "num_comments": 16,
+      "score": 11,
+      "num_comments": 17,
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
       "body": "Hi all, we\u2019ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in a few areas: * **Business context:** the automation doesn\u2019t capture the context behind it, which is exactly what you need when it\u2019s time to change it. * **Ownership:** it\u2019s often unclear who\u2019s responsible for keeping an automation up to date. * **Knowledge silos:** automations are hard to share with the team, so one person ends up owning everything. * **Documentation:** an automation is just a fl",
@@ -342,17 +353,6 @@
       "author": "Hot_Rub_3746",
       "url": "https://www.reddit.com/r/automation/comments/1xfx6dd/how_to_automate_semrush_monthly_data_extraction/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xfwsnn",
-      "created_utc": 1793021250,
-      "title": "6 weeks into trying to land my first consulting client. What am I missing?",
-      "score": 20,
-      "num_comments": 24,
-      "author": "marcelorojas56",
-      "url": "https://www.reddit.com/r/automation/comments/1xfwsnn/6_weeks_into_trying_to_land_my_first_consulting/",
-      "body": "I've been a data engineer for about 10 years (pipelines, data quality, warehouses), and for the past few months I've been building an AI side of that: RAG, evals, making sure AI assistants actually give correct answers. I still have a full-time job, and I'm trying to start a small consultancy on the side. The idea: companies that put an AI assistant in front of their customers (fintech, insurance, health) often have no way to know when it's giving wrong answers, because the data underneath is stale or messy. I fix that layer. What I've done so far: * Built a site with a free diagnostic agent, ",
       "new": false
     }
   ],
