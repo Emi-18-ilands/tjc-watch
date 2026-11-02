@@ -1,8 +1,52 @@
 {
-  "checked_at": "2026-11-02T09:19:07.453172+00:00",
+  "checked_at": "2026-11-02T19:43:57.659009+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xm4stj",
+      "created_utc": 1793643228,
+      "title": "How do you catch the small automations that fail silently?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Aromatic_Elk_7122",
+      "url": "https://www.reddit.com/r/automation/comments/1xm4stj/how_do_you_catch_the_small_automations_that_fail/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xm3ip0",
+      "created_utc": 1793640500,
+      "title": "How to create an automation for Facebook groups",
+      "score": 1,
+      "num_comments": 1,
+      "author": "hastalamuerte19",
+      "url": "https://www.reddit.com/r/automation/comments/1xm3ip0/how_to_create_an_automation_for_facebook_groups/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xm2zpj",
+      "created_utc": 1793639405,
+      "title": "vapi alternative; paying per connected minute when 2 out of 3 business calls drop in 5 seconds feels completely backwards, what are you running?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "whowasntright",
+      "url": "https://www.reddit.com/r/automation/comments/1xm2zpj/vapi_alternative_paying_per_connected_minute_when/",
+      "body": "i\u2019ve spent the last month testing outbound voice setups for local business errands for example things like having an agent ring 10 machine shops for turnaround times, checking pharmacy stock, or calling venues for quotes the default advice on reddit is almost always the same: just spin up vapi, retell, or bland ai i started there. the conversational latency is impressive and the prompt playground is great. but the moment you point a developer voice stack at real businesses instead of clean test numbers, the unit economics get weird very fast. in the real world, front desks get hammered by spam",
+      "new": true
+    },
+    {
+      "id": "1xluypo",
+      "created_utc": 1793619755,
+      "title": "How do you monitor automations so failures don\u2019t go unnoticed?",
+      "score": 5,
+      "num_comments": 24,
+      "author": "ibrahim_40",
+      "url": "https://www.reddit.com/r/automation/comments/1xluypo/how_do_you_monitor_automations_so_failures_dont/",
+      "body": "I once had a scheduled report that kept sending after its data source changed, so it emailed blank numbers for weeks before anyone noticed. How do you catch silent failures in your workflows? What checks or alerts have been worth setting up and which ones turned out to be noise?",
+      "new": true
+    },
     {
       "id": "1xlbppo",
       "created_utc": 1793560591,
@@ -18,8 +62,8 @@
       "id": "1xkru5d",
       "created_utc": 1793499863,
       "title": "Currently learning how to be an AI Automation Specialist.",
-      "score": 15,
-      "num_comments": 17,
+      "score": 25,
+      "num_comments": 26,
       "author": "StrengthParticular82",
       "url": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
       "body": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: **Zapier, Make, n8n, or Power Automate?** Do you have any recommended learning roadmaps, resources, or advice on what skills I should prioritize? I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!",
@@ -309,28 +353,6 @@
       "author": "Patient-Tea-922",
       "url": "https://www.reddit.com/r/automation/comments/1xgqmfb/how_can_our_consultancy_keep_clientspecific/",
       "body": "I\u2019m an automation builder at a small agency and I created a problem for myself that I really need to solve. I joined right when we started the agency, and when we were onboarding our first few clients, it was fastest just to duplicate our core lead routing and data sync workflow into a new workspace. Just copy that, plug in the client\u2019s credentials and turn it on. We\u2019ve grown a lot faster than I think any of us were expecting, and it\u2019s become painfully clear to me that this approach was a mistake. I\u2019m now maintaining almost 25 virtually identical versions of the same workflow. I\u2019m sure you see",
-      "new": false
-    },
-    {
-      "id": "1xgo8fl",
-      "created_utc": 1793094681,
-      "title": "Which industries do you think benefit the most from RPA?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "gramosoft",
-      "url": "https://www.reddit.com/r/automation/comments/1xgo8fl/which_industries_do_you_think_benefit_the_most/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xgo5ob",
-      "created_utc": 1793094394,
-      "title": "Which business processes are worth automating with RPA?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "gramosoft",
-      "url": "https://www.reddit.com/r/automation/comments/1xgo5ob/which_business_processes_are_worth_automating/",
-      "body": "[removed]",
       "new": false
     }
   ],
