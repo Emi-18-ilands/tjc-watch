@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01T22:18:40.350474+00:00",
+  "checked_at": "2026-11-02T01:45:22.714288+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -12,14 +12,14 @@
       "author": "Exciting-Topic3902",
       "url": "https://www.reddit.com/r/automation/comments/1xlbppo/any_advice_for_building_a_bot_that_applies_to/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xkru5d",
       "created_utc": 1793499863,
       "title": "Currently learning how to be an AI Automation Specialist.",
-      "score": 10,
-      "num_comments": 13,
+      "score": 15,
+      "num_comments": 17,
       "author": "StrengthParticular82",
       "url": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
       "body": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: **Zapier, Make, n8n, or Power Automate?** Do you have any recommended learning roadmaps, resources, or advice on what skills I should prioritize? I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!",
