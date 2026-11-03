@@ -1,8 +1,41 @@
 {
-  "checked_at": "2026-11-03T17:43:15.880996+00:00",
+  "checked_at": "2026-11-03T23:13:40.546819+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xn7mnx",
+      "created_utc": 1793745809,
+      "title": "how do you control coding agents budget/prompt_attack/budget etc?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Common_Dream9420",
+      "url": "https://www.reddit.com/r/automation/comments/1xn7mnx/how_do_you_control_coding_agents_budgetprompt/",
+      "body": "We are building fetchsandbox, and onboarding to LoopLabs for controlling agents (coding and ops) are super easy!! just wanna share what it looks like frm the control dashboard.. how are you monitoring back office workflows agents as well as coding agents at work? https://i.redd.it/qrifnrdds9zh1.jpeg",
+      "new": true
+    },
+    {
+      "id": "1xn3eoy",
+      "created_utc": 1793735957,
+      "title": "Does anyone use AI as an all-in-one personal assistant to make everyday life easier?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Secure_Beginning_939",
+      "url": "https://www.reddit.com/r/automation/comments/1xn3eoy/does_anyone_use_ai_as_an_allinone_personal/",
+      "body": "I\u2019m interested in people using AI to manage and improve both their personal and professional lives. Things like organising daily life, managing finances, tracking investments and financial news, planning ahead, handling admin, managing work, making better decisions and automating everyday tasks. Have you built a system using ChatGPT, Claude or other AI tools to help you stay on top of everything and reduce stress? What does your setup look like, what\u2019s genuinely working, and has it made a noticeable difference to your life? I\u2019m particularly interested in real experiences, not just tool recomme",
+      "new": true
+    },
+    {
+      "id": "1xn1n00",
+      "created_utc": 1793732105,
+      "title": "How to keep multiple AI agents working with the same information",
+      "score": 3,
+      "num_comments": 3,
+      "author": "FulcraDynamics",
+      "url": "https://www.reddit.com/r/automation/comments/1xn1n00/how_to_keep_multiple_ai_agents_working_with_the/",
+      "body": "One problem with using multiple AI agents is that they can end up working with different versions of the same information. You update something in Claude, but ChatGPT still has the old details. Add a few more agents, and keeping everything consistent becomes surprisingly difficult. A shared data source helps, but it doesn't automatically solve the problem. There are a few things worth considering: **1. A single source of truth** Instead of maintaining separate copies of important information, agents can reference a shared file or database. Even a simple markdown file can work for smaller setup",
+      "new": true
+    },
     {
       "id": "1xm4stj",
       "created_utc": 1793643228,
@@ -286,17 +319,6 @@
       "num_comments": 1,
       "author": "SaiTarunRonanki",
       "url": "https://www.reddit.com/r/automation/comments/1xhgdak/splitting_agent_tools_into_4_permission_buckets/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xh4fck",
-      "created_utc": 1793134294,
-      "title": "Has anyone built a custom project management tool instead of using ClickUp or Airtable?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Zach-Kelly48",
-      "url": "https://www.reddit.com/r/automation/comments/1xh4fck/has_anyone_built_a_custom_project_management_tool/",
       "body": "[removed]",
       "new": false
     }
