@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T09:57:29.168621+00:00",
+  "checked_at": "2026-11-03T17:43:15.880996+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -29,8 +29,8 @@
       "id": "1xm2zpj",
       "created_utc": 1793639405,
       "title": "vapi alternative; paying per connected minute when 2 out of 3 business calls drop in 5 seconds feels completely backwards, what are you running?",
-      "score": 4,
-      "num_comments": 14,
+      "score": 5,
+      "num_comments": 19,
       "author": "whowasntright",
       "url": "https://www.reddit.com/r/automation/comments/1xm2zpj/vapi_alternative_paying_per_connected_minute_when/",
       "body": "i\u2019ve spent the last month testing outbound voice setups for local business errands for example things like having an agent ring 10 machine shops for turnaround times, checking pharmacy stock, or calling venues for quotes the default advice on reddit is almost always the same: just spin up vapi, retell, or bland ai i started there. the conversational latency is impressive and the prompt playground is great. but the moment you point a developer voice stack at real businesses instead of clean test numbers, the unit economics get weird very fast. in the real world, front desks get hammered by spam",
@@ -40,8 +40,8 @@
       "id": "1xluypo",
       "created_utc": 1793619755,
       "title": "How do you monitor automations so failures don\u2019t go unnoticed?",
-      "score": 5,
-      "num_comments": 35,
+      "score": 6,
+      "num_comments": 46,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xluypo/how_do_you_monitor_automations_so_failures_dont/",
       "body": "I once had a scheduled report that kept sending after its data source changed, so it emailed blank numbers for weeks before anyone noticed. How do you catch silent failures in your workflows? What checks or alerts have been worth setting up and which ones turned out to be noise?",
@@ -297,50 +297,6 @@
       "num_comments": 1,
       "author": "Zach-Kelly48",
       "url": "https://www.reddit.com/r/automation/comments/1xh4fck/has_anyone_built_a_custom_project_management_tool/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xh36q3",
-      "created_utc": 1793131519,
-      "title": "For people who freelance with n8n: how do you handle clients and trust before a build?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Mr_Somebodyyyy",
-      "url": "https://www.reddit.com/r/automation/comments/1xh36q3/for_people_who_freelance_with_n8n_how_do_you/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xh34a3",
-      "created_utc": 1793131366,
-      "title": "Whats the best live avatar model now?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "realimposter",
-      "url": "https://www.reddit.com/r/automation/comments/1xh34a3/whats_the_best_live_avatar_model_now/",
-      "body": "I'm looking for a realistic live avatar model that can do custom animations, custom voices, low latency, easy api, any recommendations?",
-      "new": false
-    },
-    {
-      "id": "1xgxnxb",
-      "created_utc": 1793119428,
-      "title": "Anyone testing Seedance inside automated video workflows?",
-      "score": 0,
-      "num_comments": 2,
-      "author": "ArachnidPersonal1742",
-      "url": "https://www.reddit.com/r/automation/comments/1xgxnxb/anyone_testing_seedance_inside_automated_video/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xgt5r8",
-      "created_utc": 1793109231,
-      "title": "\ud83d\ude80 LOOKING FOR AI MODEL OWNERS \u2013 FANVUE CHAT MANAGEMENT",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Several_Ride_7534",
-      "url": "https://www.reddit.com/r/automation/comments/1xgt5r8/looking_for_ai_model_owners_fanvue_chat_management/",
       "body": "[removed]",
       "new": false
     }
