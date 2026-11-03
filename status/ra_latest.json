@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-03T02:11:44.357334+00:00",
+  "checked_at": "2026-11-03T09:57:29.168621+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -30,7 +30,7 @@
       "created_utc": 1793639405,
       "title": "vapi alternative; paying per connected minute when 2 out of 3 business calls drop in 5 seconds feels completely backwards, what are you running?",
       "score": 4,
-      "num_comments": 11,
+      "num_comments": 14,
       "author": "whowasntright",
       "url": "https://www.reddit.com/r/automation/comments/1xm2zpj/vapi_alternative_paying_per_connected_minute_when/",
       "body": "i\u2019ve spent the last month testing outbound voice setups for local business errands for example things like having an agent ring 10 machine shops for turnaround times, checking pharmacy stock, or calling venues for quotes the default advice on reddit is almost always the same: just spin up vapi, retell, or bland ai i started there. the conversational latency is impressive and the prompt playground is great. but the moment you point a developer voice stack at real businesses instead of clean test numbers, the unit economics get weird very fast. in the real world, front desks get hammered by spam",
