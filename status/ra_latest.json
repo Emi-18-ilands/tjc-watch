@@ -1,18 +1,51 @@
 {
-  "checked_at": "2026-11-04T11:29:26.231768+00:00",
+  "checked_at": "2026-11-04T18:49:52.277173+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xnviow",
+      "created_utc": 1793816169,
+      "title": "I\u2019ve spent over a year building two serious projects I truly believe in, but I still can\u2019t find customers. What am I doing wrong?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Radiant_Panda1679",
+      "url": "https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xnv9ea",
+      "created_utc": 1793815574,
+      "title": "How to create an ai agent that works in slack not a new app",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Parking-Presence-366",
+      "url": "https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/",
+      "body": "Running a 35person startup and every AI tool I've looked at wants me to go somewhere new to use it. Another tab, another login, another thing to remember..We already live in Slack and email. I want something that just works there without my team having to change how they operate. Has anyone actually figured out how to create an ai agent that fits into existing tools instead of replacing them? Best and worst experiences welcome.",
+      "new": true
+    },
+    {
+      "id": "1xnmu2v",
+      "created_utc": 1793794938,
+      "title": "How do you automate your end-of-month timesheet reporting?",
+      "score": 7,
+      "num_comments": 13,
+      "author": "hornibunny69",
+      "url": "https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/",
+      "body": "End of the month is always a pain for collecting timesheets from freelancers and remote staff. I want to automate this so I don't have to chase people down for their hours. I\u2019ve been playing around with Zapier integrations to pull time tracking data directly into our accounting software. We use Monitask for the tracking, and setting up the Zap to auto-generate the reports saved me hours of admin work. How do you guys automate your billing workflows?",
+      "new": true
+    },
+    {
       "id": "1xngnn8",
       "created_utc": 1793772209,
       "title": "LinkedIn job posting scrapper which also gets job poster's name",
-      "score": 2,
-      "num_comments": 2,
+      "score": 3,
+      "num_comments": 3,
       "author": "TheTopG___",
       "url": "https://www.reddit.com/r/automation/comments/1xngnn8/linkedin_job_posting_scrapper_which_also_gets_job/",
       "body": "I have tried a few from appify but they dont get me job poster's name in the output. Please let me know if you guys know of any solution which can get me job poster's name as well. Basically, the idea is to form a work email (using some API of course) for job poster and email them directly for the application. If you know any other workaround then please also let me know.",
-      "new": true
+      "new": false
     },
     {
       "id": "1xnfozk",
@@ -23,14 +56,14 @@
       "author": "Admirable-Drive-5511",
       "url": "https://www.reddit.com/r/automation/comments/1xnfozk/how_do_you_hand_off_automations_to_clients_who/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xn7mnx",
       "created_utc": 1793745809,
       "title": "how do you control coding agents budget/prompt_attack/budget etc?",
-      "score": 3,
-      "num_comments": 4,
+      "score": 4,
+      "num_comments": 6,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xn7mnx/how_do_you_control_coding_agents_budgetprompt/",
       "body": "We are building fetchsandbox, and onboarding to LoopLabs for controlling agents (coding and ops) are super easy!! just wanna share what it looks like frm the control dashboard.. how are you monitoring back office workflows agents as well as coding agents at work? https://i.redd.it/qrifnrdds9zh1.jpeg",
@@ -294,7 +327,7 @@
       "created_utc": 1793197705,
       "title": "How to hand onboarding, invoices and CRM updates to an agent without hiring an ops person",
       "score": 6,
-      "num_comments": 15,
+      "num_comments": 18,
       "author": "Similar_Confusion534",
       "url": "https://www.reddit.com/r/automation/comments/1xhplhi/how_to_hand_onboarding_invoices_and_crm_updates/",
       "body": "A question I saw today stuck with me. A small team with about 30 manual processes, like onboarding customers, sending invoices, updating the CRM after calls and syncing data between tools. Each one is small, together they eat hours every week, and engineering is busy with the product. Here's the approach I'd take. It's also what we built Conecto around, so full disclosure, I'm one of the founders. 1. Rank the processes by hours per week and start with the top five. Invoicing, CRM updates after calls and onboarding usually cover most of it. 2. Give one agent access to the actual systems instead",
@@ -320,28 +353,6 @@
       "author": "Ok-Macaron2516",
       "url": "https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/",
       "body": "Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the game quiet a bit- specifically for businesses and entrepreneurs. So curious experts here, what are some truly useful automation tools for business outside Zapier & N8N?",
-      "new": false
-    },
-    {
-      "id": "1xhgn1c",
-      "created_utc": 1793169043,
-      "title": "How can I automate a Canva fashion product catalogue from 500+ numbered folders using Python or PowerPoint?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "ilove_cartoon",
-      "url": "https://www.reddit.com/r/automation/comments/1xhgn1c/how_can_i_automate_a_canva_fashion_product/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xhgdak",
-      "created_utc": 1793168027,
-      "title": "Splitting agent tools into 4 permission buckets instead of trusting the prompt",
-      "score": 1,
-      "num_comments": 1,
-      "author": "SaiTarunRonanki",
-      "url": "https://www.reddit.com/r/automation/comments/1xhgdak/splitting_agent_tools_into_4_permission_buckets/",
-      "body": "[removed]",
       "new": false
     }
   ],
