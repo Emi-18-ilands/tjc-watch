@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-05T00:17:55.601987+00:00",
+  "checked_at": "2026-11-05T07:18:14.510786+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xo6mo1",
+      "created_utc": 1793844078,
+      "title": "Anybody running X on antydetect successfully",
+      "score": 3,
+      "num_comments": 1,
+      "author": "lkhadiriziko",
+      "url": "https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/",
+      "body": "Anytime i try using it it gives me this page, ive tried switching proxies and still have the same problem ",
+      "new": true
+    },
     {
       "id": "1xnxjqr",
       "created_utc": 1793820840,
@@ -12,7 +23,7 @@
       "author": "OkAmount4839",
       "url": "https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xnviow",
@@ -40,8 +51,8 @@
       "id": "1xnmu2v",
       "created_utc": 1793794938,
       "title": "How do you automate your end-of-month timesheet reporting?",
-      "score": 7,
-      "num_comments": 13,
+      "score": 13,
+      "num_comments": 18,
       "author": "hornibunny69",
       "url": "https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/",
       "body": "End of the month is always a pain for collecting timesheets from freelancers and remote staff. I want to automate this so I don't have to chase people down for their hours. I\u2019ve been playing around with Zapier integrations to pull time tracking data directly into our accounting software. We use Monitask for the tracking, and setting up the Zap to auto-generate the reports saved me hours of admin work. How do you guys automate your billing workflows?",
@@ -51,8 +62,8 @@
       "id": "1xngnn8",
       "created_utc": 1793772209,
       "title": "LinkedIn job posting scrapper which also gets job poster's name",
-      "score": 3,
-      "num_comments": 7,
+      "score": 5,
+      "num_comments": 9,
       "author": "TheTopG___",
       "url": "https://www.reddit.com/r/automation/comments/1xngnn8/linkedin_job_posting_scrapper_which_also_gets_job/",
       "body": "I have tried a few from appify but they dont get me job poster's name in the output. Please let me know if you guys know of any solution which can get me job poster's name as well. Basically, the idea is to form a work email (using some API of course) for job poster and email them directly for the application. If you know any other workaround then please also let me know.",
@@ -96,7 +107,7 @@
       "created_utc": 1793732105,
       "title": "How to keep multiple AI agents working with the same information",
       "score": 6,
-      "num_comments": 6,
+      "num_comments": 9,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xn1n00/how_to_keep_multiple_ai_agents_working_with_the/",
       "body": "One problem with using multiple AI agents is that they can end up working with different versions of the same information. You update something in Claude, but ChatGPT still has the old details. Add a few more agents, and keeping everything consistent becomes surprisingly difficult. A shared data source helps, but it doesn't automatically solve the problem. There are a few things worth considering: **1. A single source of truth** Instead of maintaining separate copies of important information, agents can reference a shared file or database. Even a simple markdown file can work for smaller setup",
@@ -271,7 +282,7 @@
       "id": "1xibj02",
       "created_utc": 1793252122,
       "title": "prepaid balance vs card on file vs your own keys: which billing setup fits which automation",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "Usual_Difficulty_126",
       "url": "https://www.reddit.com/r/automation/comments/1xibj02/prepaid_balance_vs_card_on_file_vs_your_own_keys/",
