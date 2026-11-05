@@ -1,40 +1,51 @@
 {
-  "checked_at": "2026-11-05T15:45:31.252780+00:00",
+  "checked_at": "2026-11-05T21:55:10.478725+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xosyx9",
+      "created_utc": 1793909578,
+      "title": "Is anyone here actually using multiple AI agents daily?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "FulcraDynamics",
+      "url": "https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/",
+      "body": "Not talking about demos or experiments, but actually relying on them to get work done. I'm curious how people handle it when two agents are working on the same project. Do you let them figure things out on their own, or do you still have to coordinate everything yourself? I've been looking into different ways to manage this, but I'd rather hear from people who are actually using these setups every day. What's your setup like?",
+      "new": true
+    },
+    {
       "id": "1xol1ao",
       "created_utc": 1793891319,
       "title": "Best way to automate posting to Facebook, Instagram, TikTok and YouTube?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 14,
       "author": "yeah280",
       "url": "https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/",
       "body": "Hey everyone, I\u2019m trying to build my own tool to automatically post videos to Facebook, Instagram, TikTok and YouTube. I\u2019d prefer to build it myself, but I\u2019m also willing to pay for a service if it supports everything I need. Here\u2019s where I\u2019m currently at: \\* Instagram: API posting works, including Trial Reels. \\* YouTube: API posting works. \\* Facebook: I can\u2019t figure out how to publish Trial Reels. \\* TikTok: I applied for API access but haven\u2019t received a response yet. My biggest issue is finding a solution that supports all four platforms, especially Facebook Trial Reels. Does anyone know ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xohdeb",
       "created_utc": 1793881594,
       "title": "How do you share what you've built with coworkers?",
-      "score": 6,
-      "num_comments": 12,
+      "score": 7,
+      "num_comments": 15,
       "author": "sixteenpoundblanket",
       "url": "https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/",
       "body": "Our group has started to produce useful workflows, but all as individuals. Boss wants us to share. There are two obstacles. No one wants to give away what they have built to other people and the details of how you share your skills and other needed things is not clear. How do you do this at work?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xogj5e",
       "created_utc": 1793878928,
       "title": "Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)",
       "score": 1,
-      "num_comments": 11,
+      "num_comments": 12,
       "author": "Significant_Dot5737",
       "url": "https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/",
       "body": "I keep seeing this setup: supplier invoices arrive by email as PDFs, and someone types the date, supplier, amount and invoice number into Google Sheets. Here's a setup that handles most of it: 1. **Collect them in one place.** Add a Gmail filter: has attachment + from known suppliers \u2192 apply label \"invoices\". 2. **Save the PDFs.** A small Apps Script on a time trigger saves attachments under that label to a Drive folder and marks the email as processed (use a second label so nothing gets saved twice). 3. **Pull out the fields.** For text-based PDFs, plain text extraction plus a regex per suppl",
-      "new": true
+      "new": false
     },
     {
       "id": "1xo6mo1",
@@ -249,8 +260,8 @@
       "id": "1xiwz0z",
       "created_utc": 1793309728,
       "title": "What are some good Zapier alternatives?",
-      "score": 7,
-      "num_comments": 25,
+      "score": 14,
+      "num_comments": 38,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
       "body": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take a more AI focused approach and Power Automate makes sense for teams already using Microsoft products. I'm also looking at WRK as another option for more complex workflows. For those who have moved away from Zapier, what alternatives has worked best for you and why?",
@@ -260,8 +271,8 @@
       "id": "1xiqfgm",
       "created_utc": 1793294935,
       "title": "Looking back at 2025 which AI automation saved you the most time?",
-      "score": 10,
-      "num_comments": 19,
+      "score": 12,
+      "num_comments": 23,
       "author": "Nora_Clarke35",
       "url": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
       "body": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating client presentations. I've also tried n8n, Relay and Lindy, but haven't found a workflow with enough ROI yet. What automation has made the biggest difference in your day to day work?",
