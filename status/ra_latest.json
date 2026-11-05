@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-04T18:49:52.277173+00:00",
+  "checked_at": "2026-11-05T00:17:55.601987+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xnxjqr",
+      "created_utc": 1793820840,
+      "title": "[Technical Co-founder / Automation Specialist] Looking for a Marketer to scale pre-built n8n workflows for local businesses",
+      "score": 1,
+      "num_comments": 1,
+      "author": "OkAmount4839",
+      "url": "https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xnviow",
       "created_utc": 1793816169,
@@ -12,7 +23,7 @@
       "author": "Radiant_Panda1679",
       "url": "https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xnv9ea",
@@ -23,7 +34,7 @@
       "author": "Parking-Presence-366",
       "url": "https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/",
       "body": "Running a 35person startup and every AI tool I've looked at wants me to go somewhere new to use it. Another tab, another login, another thing to remember..We already live in Slack and email. I want something that just works there without my team having to change how they operate. Has anyone actually figured out how to create an ai agent that fits into existing tools instead of replacing them? Best and worst experiences welcome.",
-      "new": true
+      "new": false
     },
     {
       "id": "1xnmu2v",
@@ -34,14 +45,14 @@
       "author": "hornibunny69",
       "url": "https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/",
       "body": "End of the month is always a pain for collecting timesheets from freelancers and remote staff. I want to automate this so I don't have to chase people down for their hours. I\u2019ve been playing around with Zapier integrations to pull time tracking data directly into our accounting software. We use Monitask for the tracking, and setting up the Zap to auto-generate the reports saved me hours of admin work. How do you guys automate your billing workflows?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xngnn8",
       "created_utc": 1793772209,
       "title": "LinkedIn job posting scrapper which also gets job poster's name",
       "score": 3,
-      "num_comments": 3,
+      "num_comments": 7,
       "author": "TheTopG___",
       "url": "https://www.reddit.com/r/automation/comments/1xngnn8/linkedin_job_posting_scrapper_which_also_gets_job/",
       "body": "I have tried a few from appify but they dont get me job poster's name in the output. Please let me know if you guys know of any solution which can get me job poster's name as well. Basically, the idea is to form a work email (using some API of course) for job poster and email them directly for the application. If you know any other workaround then please also let me know.",
@@ -62,8 +73,8 @@
       "id": "1xn7mnx",
       "created_utc": 1793745809,
       "title": "how do you control coding agents budget/prompt_attack/budget etc?",
-      "score": 4,
-      "num_comments": 6,
+      "score": 6,
+      "num_comments": 9,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xn7mnx/how_do_you_control_coding_agents_budgetprompt/",
       "body": "We are building fetchsandbox, and onboarding to LoopLabs for controlling agents (coding and ops) are super easy!! just wanna share what it looks like frm the control dashboard.. how are you monitoring back office workflows agents as well as coding agents at work? https://i.redd.it/qrifnrdds9zh1.jpeg",
@@ -84,8 +95,8 @@
       "id": "1xn1n00",
       "created_utc": 1793732105,
       "title": "How to keep multiple AI agents working with the same information",
-      "score": 5,
-      "num_comments": 4,
+      "score": 6,
+      "num_comments": 6,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xn1n00/how_to_keep_multiple_ai_agents_working_with_the/",
       "body": "One problem with using multiple AI agents is that they can end up working with different versions of the same information. You update something in Claude, but ChatGPT still has the old details. Add a few more agents, and keeping everything consistent becomes surprisingly difficult. A shared data source helps, but it doesn't automatically solve the problem. There are a few things worth considering: **1. A single source of truth** Instead of maintaining separate copies of important information, agents can reference a shared file or database. Even a simple markdown file can work for smaller setup",
@@ -304,8 +315,8 @@
       "id": "1xhyuxm",
       "created_utc": 1793217711,
       "title": "What AI tools do you use to turn from data into reports?",
-      "score": 8,
-      "num_comments": 23,
+      "score": 11,
+      "num_comments": 30,
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
       "body": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a template and generate a consistent output without manually processing every form. Has anyone built a workflow like this? What tools or approaches have worked well for you?",
@@ -331,28 +342,6 @@
       "author": "Similar_Confusion534",
       "url": "https://www.reddit.com/r/automation/comments/1xhplhi/how_to_hand_onboarding_invoices_and_crm_updates/",
       "body": "A question I saw today stuck with me. A small team with about 30 manual processes, like onboarding customers, sending invoices, updating the CRM after calls and syncing data between tools. Each one is small, together they eat hours every week, and engineering is busy with the product. Here's the approach I'd take. It's also what we built Conecto around, so full disclosure, I'm one of the founders. 1. Rank the processes by hours per week and start with the top five. Invoicing, CRM updates after calls and onboarding usually cover most of it. 2. Give one agent access to the actual systems instead",
-      "new": false
-    },
-    {
-      "id": "1xhk4al",
-      "created_utc": 1793182451,
-      "title": "Looking for someone experienced with AI and automation to help with a few projects",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Mysterypackmainecoon",
-      "url": "https://www.reddit.com/r/automation/comments/1xhk4al/looking_for_someone_experienced_with_ai_and/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xhinla",
-      "created_utc": 1793176953,
-      "title": "What are some truly useful automation tools for business outside Zapier & N8N?",
-      "score": 31,
-      "num_comments": 59,
-      "author": "Ok-Macaron2516",
-      "url": "https://www.reddit.com/r/automation/comments/1xhinla/what_are_some_truly_useful_automation_tools_for/",
-      "body": "Hi all- Zapier and N8N are obvious the household names when it comes to traditional automation tools. But I am curious if there are any hidden gems out there especially with AI and all changing the game quiet a bit- specifically for businesses and entrepreneurs. So curious experts here, what are some truly useful automation tools for business outside Zapier & N8N?",
       "new": false
     }
   ],
