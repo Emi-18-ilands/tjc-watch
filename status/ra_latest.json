@@ -1,8 +1,41 @@
 {
-  "checked_at": "2026-11-05T07:18:14.510786+00:00",
+  "checked_at": "2026-11-05T15:45:31.252780+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xol1ao",
+      "created_utc": 1793891319,
+      "title": "Best way to automate posting to Facebook, Instagram, TikTok and YouTube?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "yeah280",
+      "url": "https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/",
+      "body": "Hey everyone, I\u2019m trying to build my own tool to automatically post videos to Facebook, Instagram, TikTok and YouTube. I\u2019d prefer to build it myself, but I\u2019m also willing to pay for a service if it supports everything I need. Here\u2019s where I\u2019m currently at: \\* Instagram: API posting works, including Trial Reels. \\* YouTube: API posting works. \\* Facebook: I can\u2019t figure out how to publish Trial Reels. \\* TikTok: I applied for API access but haven\u2019t received a response yet. My biggest issue is finding a solution that supports all four platforms, especially Facebook Trial Reels. Does anyone know ",
+      "new": true
+    },
+    {
+      "id": "1xohdeb",
+      "created_utc": 1793881594,
+      "title": "How do you share what you've built with coworkers?",
+      "score": 6,
+      "num_comments": 12,
+      "author": "sixteenpoundblanket",
+      "url": "https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/",
+      "body": "Our group has started to produce useful workflows, but all as individuals. Boss wants us to share. There are two obstacles. No one wants to give away what they have built to other people and the details of how you share your skills and other needed things is not clear. How do you do this at work?",
+      "new": true
+    },
+    {
+      "id": "1xogj5e",
+      "created_utc": 1793878928,
+      "title": "Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)",
+      "score": 1,
+      "num_comments": 11,
+      "author": "Significant_Dot5737",
+      "url": "https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/",
+      "body": "I keep seeing this setup: supplier invoices arrive by email as PDFs, and someone types the date, supplier, amount and invoice number into Google Sheets. Here's a setup that handles most of it: 1. **Collect them in one place.** Add a Gmail filter: has attachment + from known suppliers \u2192 apply label \"invoices\". 2. **Save the PDFs.** A small Apps Script on a time trigger saves attachments under that label to a Drive folder and marks the email as processed (use a second label so nothing gets saved twice). 3. **Pull out the fields.** For text-based PDFs, plain text extraction plus a regex per suppl",
+      "new": true
+    },
     {
       "id": "1xo6mo1",
       "created_utc": 1793844078,
@@ -12,7 +45,7 @@
       "author": "lkhadiriziko",
       "url": "https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/",
       "body": "Anytime i try using it it gives me this page, ive tried switching proxies and still have the same problem ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xnxjqr",
@@ -51,8 +84,8 @@
       "id": "1xnmu2v",
       "created_utc": 1793794938,
       "title": "How do you automate your end-of-month timesheet reporting?",
-      "score": 13,
-      "num_comments": 18,
+      "score": 14,
+      "num_comments": 21,
       "author": "hornibunny69",
       "url": "https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/",
       "body": "End of the month is always a pain for collecting timesheets from freelancers and remote staff. I want to automate this so I don't have to chase people down for their hours. I\u2019ve been playing around with Zapier integrations to pull time tracking data directly into our accounting software. We use Monitask for the tracking, and setting up the Zap to auto-generate the reports saved me hours of admin work. How do you guys automate your billing workflows?",
@@ -85,7 +118,7 @@
       "created_utc": 1793745809,
       "title": "how do you control coding agents budget/prompt_attack/budget etc?",
       "score": 6,
-      "num_comments": 9,
+      "num_comments": 13,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xn7mnx/how_do_you_control_coding_agents_budgetprompt/",
       "body": "We are building fetchsandbox, and onboarding to LoopLabs for controlling agents (coding and ops) are super easy!! just wanna share what it looks like frm the control dashboard.. how are you monitoring back office workflows agents as well as coding agents at work? https://i.redd.it/qrifnrdds9zh1.jpeg",
@@ -238,7 +271,7 @@
       "id": "1xie4e8",
       "created_utc": 1793261828,
       "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
-      "score": 10,
+      "score": 11,
       "num_comments": 9,
       "author": "Creepy_Effective_598",
       "url": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
@@ -249,8 +282,8 @@
       "id": "1xidym7",
       "created_utc": 1793261215,
       "title": "PowerPoint + Power BI automation",
-      "score": 1,
-      "num_comments": 8,
+      "score": 2,
+      "num_comments": 9,
       "author": "fuckingfrito",
       "url": "https://www.reddit.com/r/automation/comments/1xidym7/powerpoint_power_bi_automation/",
       "body": "Dear community I am building an automation that opens PPTX files which are connected to PowerBI to retrieve data in most of its slides. The loading of each slide is time consuming and Devin created a solution but one slide was exported with the Power BI loading logo + bar. It seems there is no attribute on the slides that can programmatically tell us that they are fully loaded. Can I get some ideas for this mechanism I need to make sure slides are done loading before export?",
@@ -320,39 +353,6 @@
       "author": "Silly_Procedure1870",
       "url": "https://www.reddit.com/r/automation/comments/1xi3evq/what_are_some_simple_automations_youve_built/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xhyuxm",
-      "created_utc": 1793217711,
-      "title": "What AI tools do you use to turn from data into reports?",
-      "score": 11,
-      "num_comments": 30,
-      "author": "Hefty_Camera_6948",
-      "url": "https://www.reddit.com/r/automation/comments/1xhyuxm/what_ai_tools_do_you_use_to_turn_from_data_into/",
-      "body": "I have a large amount of form data that needs to be returned into structured outlines and reports. I'm looking for an automation that can extract relevant context from each submission, map it into a template and generate a consistent output without manually processing every form. Has anyone built a workflow like this? What tools or approaches have worked well for you?",
-      "new": false
-    },
-    {
-      "id": "1xhwes3",
-      "created_utc": 1793212421,
-      "title": "Which productivity habit have you started implementing that has made a difference?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Mike_Economist2864",
-      "url": "https://www.reddit.com/r/automation/comments/1xhwes3/which_productivity_habit_have_you_started/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xhplhi",
-      "created_utc": 1793197705,
-      "title": "How to hand onboarding, invoices and CRM updates to an agent without hiring an ops person",
-      "score": 6,
-      "num_comments": 18,
-      "author": "Similar_Confusion534",
-      "url": "https://www.reddit.com/r/automation/comments/1xhplhi/how_to_hand_onboarding_invoices_and_crm_updates/",
-      "body": "A question I saw today stuck with me. A small team with about 30 manual processes, like onboarding customers, sending invoices, updating the CRM after calls and syncing data between tools. Each one is small, together they eat hours every week, and engineering is busy with the product. Here's the approach I'd take. It's also what we built Conecto around, so full disclosure, I'm one of the founders. 1. Rank the processes by hours per week and start with the top five. Invoicing, CRM updates after calls and onboarding usually cover most of it. 2. Give one agent access to the actual systems instead",
       "new": false
     }
   ],
