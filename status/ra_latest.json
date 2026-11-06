@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T21:55:10.478725+00:00",
+  "checked_at": "2026-11-06T02:15:00.134754+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,12 +7,12 @@
       "id": "1xosyx9",
       "created_utc": 1793909578,
       "title": "Is anyone here actually using multiple AI agents daily?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 10,
+      "num_comments": 10,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/",
       "body": "Not talking about demos or experiments, but actually relying on them to get work done. I'm curious how people handle it when two agents are working on the same project. Do you let them figure things out on their own, or do you still have to coordinate everything yourself? I've been looking into different ways to manage this, but I'd rather hear from people who are actually using these setups every day. What's your setup like?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xol1ao",
@@ -40,8 +40,8 @@
       "id": "1xogj5e",
       "created_utc": 1793878928,
       "title": "Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)",
-      "score": 1,
-      "num_comments": 12,
+      "score": 2,
+      "num_comments": 13,
       "author": "Significant_Dot5737",
       "url": "https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/",
       "body": "I keep seeing this setup: supplier invoices arrive by email as PDFs, and someone types the date, supplier, amount and invoice number into Google Sheets. Here's a setup that handles most of it: 1. **Collect them in one place.** Add a Gmail filter: has attachment + from known suppliers \u2192 apply label \"invoices\". 2. **Save the PDFs.** A small Apps Script on a time trigger saves attachments under that label to a Drive folder and marks the email as processed (use a second label so nothing gets saved twice). 3. **Pull out the fields.** For text-based PDFs, plain text extraction plus a regex per suppl",
@@ -51,7 +51,7 @@
       "id": "1xo6mo1",
       "created_utc": 1793844078,
       "title": "Anybody running X on antydetect successfully",
-      "score": 3,
+      "score": 2,
       "num_comments": 1,
       "author": "lkhadiriziko",
       "url": "https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/",
@@ -95,7 +95,7 @@
       "id": "1xnmu2v",
       "created_utc": 1793794938,
       "title": "How do you automate your end-of-month timesheet reporting?",
-      "score": 14,
+      "score": 15,
       "num_comments": 21,
       "author": "hornibunny69",
       "url": "https://www.reddit.com/r/automation/comments/1xnmu2v/how_do_you_automate_your_endofmonth_timesheet/",
@@ -352,17 +352,6 @@
       "num_comments": 1,
       "author": "CoretampAutomation",
       "url": "https://www.reddit.com/r/automation/comments/1xi78z4/how_to_pack_nuts_efficiently_full_vffs_packaging/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xi3evq",
-      "created_utc": 1793228452,
-      "title": "What are some simple automations you've built?",
-      "score": 1,
-      "num_comments": 2,
-      "author": "Silly_Procedure1870",
-      "url": "https://www.reddit.com/r/automation/comments/1xi3evq/what_are_some_simple_automations_youve_built/",
       "body": "[removed]",
       "new": false
     }
