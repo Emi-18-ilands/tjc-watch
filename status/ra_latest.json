@@ -1,36 +1,69 @@
 {
-  "checked_at": "2026-11-06T17:23:57.733217+00:00",
+  "checked_at": "2026-11-06T22:19:27.238708+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xplcnw",
+      "created_utc": 1793992261,
+      "title": "How to get into a career that revolves around setting up automations?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Funny-Researcher2648",
+      "url": "https://www.reddit.com/r/automation/comments/1xplcnw/how_to_get_into_a_career_that_revolves_around/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xpk746",
+      "created_utc": 1793989567,
+      "title": "Clients' dashboard for linkedin outreach campaigns",
+      "score": 1,
+      "num_comments": 3,
+      "author": "Matika7",
+      "url": "https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/",
+      "body": "Question for anyone running outbound for clients on Linkedin Clients always want to see what's happening, like replies, who got contacted and how campaigns are doing. What I don't want is sharing logins, or a client seeing another client's accounts. For outreach we use Linkedhelper What I need: \\- Each client gets their own workspace \\- Read-only mode \\- diff permissions by role what can you recommend? ",
+      "new": true
+    },
+    {
+      "id": "1xpis1x",
+      "created_utc": 1793986290,
+      "title": "What are you using instead of Zapier to keep automation costs down?",
+      "score": 4,
+      "num_comments": 10,
+      "author": "Tyler-Evans34",
+      "url": "https://www.reddit.com/r/automation/comments/1xpis1x/what_are_you_using_instead_of_zapier_to_keep/",
+      "body": "Zapier has been getting expensive as the number of automations I run has grown so I'm looking at other options. I still want something reliable and reasonably easy to manage, not just the cheapest platform. For anyone who has moved away from Zapier, what did you switch to and how has it held up as your workflows grew? I'm especially interested in the tradeoffs around cost, reliability and ease of use.",
+      "new": true
+    },
+    {
       "id": "1xpcoed",
       "created_utc": 1793971374,
       "title": "Has anyone figured out a way to generate social media graphics in bulk with n8n?",
-      "score": 6,
-      "num_comments": 10,
+      "score": 10,
+      "num_comments": 13,
       "author": "soupsipaficionado",
       "url": "https://www.reddit.com/r/automation/comments/1xpcoed/has_anyone_figured_out_a_way_to_generate_social/",
       "body": "I\u2019ve got 30 posts planned in a spreadsheet. Captions and topics are done and I need a graphic or carousel for each one Canva\u2019s bulk create works for fixed templates, but I want the layouts to change depending on the content. I noticed Gamma has an API and can do social posts, so I was thinking of putting it at the end of an n8n workflow with Google Sheets feeding the content in. Has anyone tried something like this? My main question is how you handle exporting the images and checking quality without opening every design one by one.",
-      "new": true
+      "new": false
     },
     {
       "id": "1xpccg3",
       "created_utc": 1793970407,
       "title": "AI & Automation feature suggestions",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 7,
       "author": "cevatkelle007",
       "url": "https://www.reddit.com/r/automation/comments/1xpccg3/ai_automation_feature_suggestions/",
       "body": "Dear members, we are starting a new venture and before we build feature I wanted to ask you your comments about it. Our main mission is to make companies more competitve and reduce the requirement of manual work in operations. From this perspective, we are starting up a LLM service and would like to build a application developer or automation developer friendly environment. Since you are masters in this niche, can you tell me which problems you experience in this vertical? In other words, what kind of problems you have while automating operations using LLMs? I really appreciate your input in a",
-      "new": true
+      "new": false
     },
     {
       "id": "1xp4wxu",
       "created_utc": 1793943116,
       "title": "No tech or coding background, want to learn AI automation. Is my plan right, and what courses would you recommend?",
-      "score": 2,
-      "num_comments": 14,
+      "score": 1,
+      "num_comments": 21,
       "author": "JuicyVanilla23",
       "url": "https://www.reddit.com/r/automation/comments/1xp4wxu/no_tech_or_coding_background_want_to_learn_ai/",
       "body": "Hi everyone! I have no tech or coding background, but I want to learn AI automation, eventually to help small businesses. Here's the path I've mapped out: 1. Learn one AI assistant deeply (prompting, structured output) 2. Learn one automation tool (leaning toward Make or n8n) 3. Automate my own repetitive tasks (e.g. form \u2192 Google Sheet \u2192 email) 4. Add AI inside workflows (e.g. AI summarizes form entries) 5. Learn APIs, webhooks, JSON and CRM integration Build for real businesses and document results My questions: Is this a realistic path for a complete beginner? Make or n8n for someone who ca",
@@ -40,8 +73,8 @@
       "id": "1xosyx9",
       "created_utc": 1793909578,
       "title": "Is anyone here actually using multiple AI agents daily?",
-      "score": 12,
-      "num_comments": 12,
+      "score": 13,
+      "num_comments": 27,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/",
       "body": "Not talking about demos or experiments, but actually relying on them to get work done. I'm curious how people handle it when two agents are working on the same project. Do you let them figure things out on their own, or do you still have to coordinate everything yourself? I've been looking into different ways to manage this, but I'd rather hear from people who are actually using these setups every day. What's your setup like?",
@@ -298,28 +331,6 @@
       "author": "Hefty_Camera_6948",
       "url": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
       "body": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take a more AI focused approach and Power Automate makes sense for teams already using Microsoft products. I'm also looking at WRK as another option for more complex workflows. For those who have moved away from Zapier, what alternatives has worked best for you and why?",
-      "new": false
-    },
-    {
-      "id": "1xiqfgm",
-      "created_utc": 1793294935,
-      "title": "Looking back at 2025 which AI automation saved you the most time?",
-      "score": 12,
-      "num_comments": 23,
-      "author": "Nora_Clarke35",
-      "url": "https://www.reddit.com/r/automation/comments/1xiqfgm/looking_back_at_2025_which_ai_automation_saved/",
-      "body": "Looking back at 2025 which AI automation actually saved you the most time? My most used workflows are content creation, automatic meeting notes and action items, daily planning, research and creating client presentations. I've also tried n8n, Relay and Lindy, but haven't found a workflow with enough ROI yet. What automation has made the biggest difference in your day to day work?",
-      "new": false
-    },
-    {
-      "id": "1xie4e8",
-      "created_utc": 1793261828,
-      "title": "went through 120 published ai cases from consumer goods companies. the automation that paid off was almost never the flashy stuff",
-      "score": 11,
-      "num_comments": 9,
-      "author": "Creepy_Effective_598",
-      "url": "https://www.reddit.com/r/automation/comments/1xie4e8/went_through_120_published_ai_cases_from_consumer/",
-      "body": "we put together a report at work on AI cases where consumer goods companies actually published results, and I expected it to be mostly ai ads and chatbots, surprisingly not. 54 of the 120 cases are outside marketing, in planning, factories, sales and back office. plus surprisingly (again) that's where the clearest money is. Diageo tracks 10 million casks of maturing spirit across 300 sites and reports $100 million in extra sales in a year from it. Hindustan Unilever's factory in Tinsukia cut changeover time by 85%, and its frozen production plan went from 14 days to 1. Kao forecasts demand for",
       "new": false
     }
   ],
