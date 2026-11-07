@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T20:08:34.371310+00:00",
+  "checked_at": "2026-11-07T23:53:07.740580+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -84,8 +84,8 @@
       "id": "1xosyx9",
       "created_utc": 1793909578,
       "title": "Is anyone here actually using multiple AI agents daily?",
-      "score": 14,
-      "num_comments": 27,
+      "score": 15,
+      "num_comments": 28,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xosyx9/is_anyone_here_actually_using_multiple_ai_agents/",
       "body": "Not talking about demos or experiments, but actually relying on them to get work done. I'm curious how people handle it when two agents are working on the same project. Do you let them figure things out on their own, or do you still have to coordinate everything yourself? I've been looking into different ways to manage this, but I'd rather hear from people who are actually using these setups every day. What's your setup like?",
