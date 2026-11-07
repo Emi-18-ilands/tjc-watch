@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-06T22:19:27.238708+00:00",
+  "checked_at": "2026-11-07T02:18:49.859537+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xptjen",
+      "created_utc": 1794013608,
+      "title": "Looking for 2-3 business owners I can help",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Davoshy",
+      "url": "https://www.reddit.com/r/automation/comments/1xptjen/looking_for_23_business_owners_i_can_help/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1xplcnw",
       "created_utc": 1793992261,
@@ -12,29 +23,29 @@
       "author": "Funny-Researcher2648",
       "url": "https://www.reddit.com/r/automation/comments/1xplcnw/how_to_get_into_a_career_that_revolves_around/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xpk746",
       "created_utc": 1793989567,
       "title": "Clients' dashboard for linkedin outreach campaigns",
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 5,
       "author": "Matika7",
       "url": "https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/",
       "body": "Question for anyone running outbound for clients on Linkedin Clients always want to see what's happening, like replies, who got contacted and how campaigns are doing. What I don't want is sharing logins, or a client seeing another client's accounts. For outreach we use Linkedhelper What I need: \\- Each client gets their own workspace \\- Read-only mode \\- diff permissions by role what can you recommend? ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xpis1x",
       "created_utc": 1793986290,
       "title": "What are you using instead of Zapier to keep automation costs down?",
-      "score": 4,
-      "num_comments": 10,
+      "score": 7,
+      "num_comments": 19,
       "author": "Tyler-Evans34",
       "url": "https://www.reddit.com/r/automation/comments/1xpis1x/what_are_you_using_instead_of_zapier_to_keep/",
       "body": "Zapier has been getting expensive as the number of automations I run has grown so I'm looking at other options. I still want something reliable and reasonably easy to manage, not just the cheapest platform. For anyone who has moved away from Zapier, what did you switch to and how has it held up as your workflows grew? I'm especially interested in the tradeoffs around cost, reliability and ease of use.",
-      "new": true
+      "new": false
     },
     {
       "id": "1xpcoed",
@@ -298,39 +309,6 @@
       "author": "klampzlamps",
       "url": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
       "body": "Hi all, we\u2019ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in a few areas: * **Business context:** the automation doesn\u2019t capture the context behind it, which is exactly what you need when it\u2019s time to change it. * **Ownership:** it\u2019s often unclear who\u2019s responsible for keeping an automation up to date. * **Knowledge silos:** automations are hard to share with the team, so one person ends up owning everything. * **Documentation:** an automation is just a fl",
-      "new": false
-    },
-    {
-      "id": "1xjaza2",
-      "created_utc": 1793353478,
-      "title": "Our n8n setup now has 23 API credentials and 9 paid subscriptions behind it. Has anyone actually consolidated?",
-      "score": 16,
-      "num_comments": 30,
-      "author": "mediareticulata",
-      "url": "https://www.reddit.com/r/automation/comments/1xjaza2/our_n8n_setup_now_has_23_api_credentials_and_9/",
-      "body": "Ops lead at a 40 person company. I inherited an n8n instance that grew one workflow at a time over two years and nobody ever cleaned it up. I finally made a list. 23 credentials and 9 paid subscriptions, and finance keeps getting surprised by renewals for tools nobody remembers buying. Most of them get used a few times a month: one enrichment tool, two scrapers, a SERP checker and a couple of AI APIs. The workflows themselves are fine. It's the pile of accounts behind them that's the problem. What did you cut when you cleaned up? Did agents replace any of your workflows or did that just add mo",
-      "new": false
-    },
-    {
-      "id": "1xj44wu",
-      "created_utc": 1793328921,
-      "title": "Building a Custom AI Business Automation System",
-      "score": 6,
-      "num_comments": 41,
-      "author": "Xeriphy",
-      "url": "https://www.reddit.com/r/automation/comments/1xj44wu/building_a_custom_ai_business_automation_system/",
-      "body": "Hey guys, I'm looking for some help/guidance. I have a friend who owns several businesses and knows I'm into IT and work in the IT field. He's asked me to build him something you might call an \"AI Assistant\" or an AI environment where basically his whole life is automated, including personal and business-related matters. He wants literally everything automated, from emails, flights, scheduling, calendar management, jobs, finances, profit margins, research, content creation and much more. He's currently running several businesses, mainly two building/insurance repair businesses and an events bu",
-      "new": false
-    },
-    {
-      "id": "1xiwz0z",
-      "created_utc": 1793309728,
-      "title": "What are some good Zapier alternatives?",
-      "score": 14,
-      "num_comments": 38,
-      "author": "Hefty_Camera_6948",
-      "url": "https://www.reddit.com/r/automation/comments/1xiwz0z/what_are_some_good_zapier_alternatives/",
-      "body": "I've been looking into alternatives to Zapier for more complex automation workflows and found a few interesting options. Make an Activepieces seem strong for flexible workflows, Relay and Gumloop take a more AI focused approach and Power Automate makes sense for teams already using Microsoft products. I'm also looking at WRK as another option for more complex workflows. For those who have moved away from Zapier, what alternatives has worked best for you and why?",
       "new": false
     }
   ],
