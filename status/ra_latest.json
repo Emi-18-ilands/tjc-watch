@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-07T09:10:28.677832+00:00",
+  "checked_at": "2026-11-07T15:52:59.134863+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -63,7 +63,7 @@
       "created_utc": 1793970407,
       "title": "AI & Automation feature suggestions",
       "score": 3,
-      "num_comments": 11,
+      "num_comments": 14,
       "author": "cevatkelle007",
       "url": "https://www.reddit.com/r/automation/comments/1xpccg3/ai_automation_feature_suggestions/",
       "body": "Dear members, we are starting a new venture and before we build feature I wanted to ask you your comments about it. Our main mission is to make companies more competitve and reduce the requirement of manual work in operations. From this perspective, we are starting up a LLM service and would like to build a application developer or automation developer friendly environment. Since you are masters in this niche, can you tell me which problems you experience in this vertical? In other words, what kind of problems you have while automating operations using LLMs? I really appreciate your input in a",
@@ -298,17 +298,6 @@
       "author": "StrengthParticular82",
       "url": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
       "body": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: **Zapier, Make, n8n, or Power Automate?** Do you have any recommended learning roadmaps, resources, or advice on what skills I should prioritize? I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!",
-      "new": false
-    },
-    {
-      "id": "1xjjf8g",
-      "created_utc": 1793376302,
-      "title": "I\u2019ll build your automation for you, free. What do you want automated?",
-      "score": 9,
-      "num_comments": 21,
-      "author": "klampzlamps",
-      "url": "https://www.reddit.com/r/automation/comments/1xjjf8g/ill_build_your_automation_for_you_free_what_do/",
-      "body": "Hi all, we\u2019ve been building a tool that makes it easy to automate everyday tasks and chores. In my last post, a lot of you said the existing tools (n8n, Zapier, Make, etc.) are great but fall short in a few areas: * **Business context:** the automation doesn\u2019t capture the context behind it, which is exactly what you need when it\u2019s time to change it. * **Ownership:** it\u2019s often unclear who\u2019s responsible for keeping an automation up to date. * **Knowledge silos:** automations are hard to share with the team, so one person ends up owning everything. * **Documentation:** an automation is just a fl",
       "new": false
     }
   ],
