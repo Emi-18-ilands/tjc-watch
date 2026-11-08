@@ -1,18 +1,40 @@
 {
-  "checked_at": "2026-11-08T18:27:50.216881+00:00",
+  "checked_at": "2026-11-08T22:24:58.179333+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xr81dj",
+      "created_utc": 1794169140,
+      "title": "How does using a chatbot affect your experiences with them?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "FinnaGetOutplayed",
+      "url": "https://www.reddit.com/r/automation/comments/1xr81dj/how_does_using_a_chatbot_affect_your_experiences/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xr6ejy",
+      "created_utc": 1794165162,
+      "title": "I don't know. How should I do it?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "XunooL",
+      "url": "https://www.reddit.com/r/automation/comments/1xr6ejy/i_dont_know_how_should_i_do_it/",
+      "body": "I'm using the \"Loom video cold outreach method,\" where I send a connection request to my ICPs, and whoever accepts it, I engage with their content for 3-4 days before I send them the Loom video I have a problem, which is that I don't know what I should say in that Loom video (technically, I know, and I tried & used one, but the video turned out to be 4 minutes long), which I know is wrong (to send a 4-min long video to a stranger (he/she won't waste that much of time)) That's why I'm asking you, as someone who has done Loom videos for cold outreach to sell his/her automation services: which sc",
+      "new": true
+    },
     {
       "id": "1xr16se",
       "created_utc": 1794152204,
       "title": "How r you handling multi player agent workflows ??",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 3,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
       "body": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but because nobody told them when to push back or who to listen to\u2026 Most workflows have more than one stakeholder involved and the agent just... picks one and runs. Product says go, legal says wait, the agent already sent the email. The \"steer when stuck\" problem is real but I think the multi-player coordination problem is the harder one. Curious if anyone's building in this space or hit this in production,",
-      "new": true
+      "new": false
     },
     {
       "id": "1xqv7zf",
@@ -40,8 +62,8 @@
       "id": "1xqr8e1",
       "created_utc": 1794117300,
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "score": 3,
-      "num_comments": 2,
+      "score": 4,
+      "num_comments": 6,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
@@ -85,7 +107,7 @@
       "created_utc": 1793989567,
       "title": "Clients' dashboard for linkedin outreach campaigns",
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 7,
       "author": "Matika7",
       "url": "https://www.reddit.com/r/automation/comments/1xpk746/clients_dashboard_for_linkedin_outreach_campaigns/",
       "body": "Question for anyone running outbound for clients on Linkedin Clients always want to see what's happening, like replies, who got contacted and how campaigns are doing. What I don't want is sharing logins, or a client seeing another client's accounts. For outreach we use Linkedhelper What I need: \\- Each client gets their own workspace \\- Read-only mode \\- diff permissions by role what can you recommend? ",
@@ -287,39 +309,6 @@
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xn1n00/how_to_keep_multiple_ai_agents_working_with_the/",
       "body": "One problem with using multiple AI agents is that they can end up working with different versions of the same information. You update something in Claude, but ChatGPT still has the old details. Add a few more agents, and keeping everything consistent becomes surprisingly difficult. A shared data source helps, but it doesn't automatically solve the problem. There are a few things worth considering: **1. A single source of truth** Instead of maintaining separate copies of important information, agents can reference a shared file or database. Even a simple markdown file can work for smaller setup",
-      "new": false
-    },
-    {
-      "id": "1xm4stj",
-      "created_utc": 1793643228,
-      "title": "How do you catch the small automations that fail silently?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Aromatic_Elk_7122",
-      "url": "https://www.reddit.com/r/automation/comments/1xm4stj/how_do_you_catch_the_small_automations_that_fail/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xm3ip0",
-      "created_utc": 1793640500,
-      "title": "How to create an automation for Facebook groups",
-      "score": 1,
-      "num_comments": 1,
-      "author": "hastalamuerte19",
-      "url": "https://www.reddit.com/r/automation/comments/1xm3ip0/how_to_create_an_automation_for_facebook_groups/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xm2zpj",
-      "created_utc": 1793639405,
-      "title": "vapi alternative; paying per connected minute when 2 out of 3 business calls drop in 5 seconds feels completely backwards, what are you running?",
-      "score": 7,
-      "num_comments": 21,
-      "author": "whowasntright",
-      "url": "https://www.reddit.com/r/automation/comments/1xm2zpj/vapi_alternative_paying_per_connected_minute_when/",
-      "body": "i\u2019ve spent the last month testing outbound voice setups for local business errands for example things like having an agent ring 10 machine shops for turnaround times, checking pharmacy stock, or calling venues for quotes the default advice on reddit is almost always the same: just spin up vapi, retell, or bland ai i started there. the conversational latency is impressive and the prompt playground is great. but the moment you point a developer voice stack at real businesses instead of clean test numbers, the unit economics get weird very fast. in the real world, front desks get hammered by spam",
       "new": false
     }
   ],
