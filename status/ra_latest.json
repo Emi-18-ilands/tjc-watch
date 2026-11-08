@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-08T13:13:03.051136+00:00",
+  "checked_at": "2026-11-08T18:27:50.216881+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xr16se",
+      "created_utc": 1794152204,
+      "title": "How r you handling multi player agent workflows ??",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Common_Dream9420",
+      "url": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
+      "body": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but because nobody told them when to push back or who to listen to\u2026 Most workflows have more than one stakeholder involved and the agent just... picks one and runs. Product says go, legal says wait, the agent already sent the email. The \"steer when stuck\" problem is real but I think the multi-player coordination problem is the harder one. Curious if anyone's building in this space or hit this in production,",
+      "new": true
+    },
+    {
       "id": "1xqv7zf",
       "created_utc": 1794132960,
       "title": "Is anyone actually using autonomous AI agents to run social media marketing campaigns?",
-      "score": 1,
+      "score": 0,
       "num_comments": 1,
       "author": "StowMatePro",
       "url": "https://www.reddit.com/r/automation/comments/1xqv7zf/is_anyone_actually_using_autonomous_ai_agents_to/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xqur39",
@@ -23,7 +34,7 @@
       "author": "No_Cap6322",
       "url": "https://www.reddit.com/r/automation/comments/1xqur39/engineer_who_adds_ai_to_existing_business_systems/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xqr8e1",
@@ -34,14 +45,14 @@
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
-      "new": true
+      "new": false
     },
     {
       "id": "1xql7fz",
       "created_utc": 1794097578,
       "title": "How would you build a Gmail \u2192 Google Drive + Notion workflow for a real estate firm?",
       "score": 2,
-      "num_comments": 4,
+      "num_comments": 5,
       "author": "Appropriate_Tip_8546",
       "url": "https://www.reddit.com/r/automation/comments/1xql7fz/how_would_you_build_a_gmail_google_drive_notion/",
       "body": "",
@@ -309,28 +320,6 @@
       "author": "whowasntright",
       "url": "https://www.reddit.com/r/automation/comments/1xm2zpj/vapi_alternative_paying_per_connected_minute_when/",
       "body": "i\u2019ve spent the last month testing outbound voice setups for local business errands for example things like having an agent ring 10 machine shops for turnaround times, checking pharmacy stock, or calling venues for quotes the default advice on reddit is almost always the same: just spin up vapi, retell, or bland ai i started there. the conversational latency is impressive and the prompt playground is great. but the moment you point a developer voice stack at real businesses instead of clean test numbers, the unit economics get weird very fast. in the real world, front desks get hammered by spam",
-      "new": false
-    },
-    {
-      "id": "1xluypo",
-      "created_utc": 1793619755,
-      "title": "How do you monitor automations so failures don\u2019t go unnoticed?",
-      "score": 9,
-      "num_comments": 51,
-      "author": "ibrahim_40",
-      "url": "https://www.reddit.com/r/automation/comments/1xluypo/how_do_you_monitor_automations_so_failures_dont/",
-      "body": "I once had a scheduled report that kept sending after its data source changed, so it emailed blank numbers for weeks before anyone noticed. How do you catch silent failures in your workflows? What checks or alerts have been worth setting up and which ones turned out to be noise?",
-      "new": false
-    },
-    {
-      "id": "1xlbppo",
-      "created_utc": 1793560591,
-      "title": "Any advice for building a bot that applies to jobs for me automatically?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Exciting-Topic3902",
-      "url": "https://www.reddit.com/r/automation/comments/1xlbppo/any_advice_for_building_a_bot_that_applies_to/",
-      "body": "[removed]",
       "new": false
     }
   ],
