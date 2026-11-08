@@ -1,18 +1,51 @@
 {
-  "checked_at": "2026-11-08T05:50:28.381913+00:00",
+  "checked_at": "2026-11-08T13:13:03.051136+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xqv7zf",
+      "created_utc": 1794132960,
+      "title": "Is anyone actually using autonomous AI agents to run social media marketing campaigns?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "StowMatePro",
+      "url": "https://www.reddit.com/r/automation/comments/1xqv7zf/is_anyone_actually_using_autonomous_ai_agents_to/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xqur39",
+      "created_utc": 1794131107,
+      "title": "Engineer who adds AI to existing business systems: what are you trying to automate?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "No_Cap6322",
+      "url": "https://www.reddit.com/r/automation/comments/1xqur39/engineer_who_adds_ai_to_existing_business_systems/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xqr8e1",
+      "created_utc": 1794117300,
+      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
+      "score": 3,
+      "num_comments": 2,
+      "author": "AmirHammoutene",
+      "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
+      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
+      "new": true
+    },
+    {
       "id": "1xql7fz",
       "created_utc": 1794097578,
       "title": "How would you build a Gmail \u2192 Google Drive + Notion workflow for a real estate firm?",
-      "score": 1,
-      "num_comments": 2,
+      "score": 2,
+      "num_comments": 4,
       "author": "Appropriate_Tip_8546",
       "url": "https://www.reddit.com/r/automation/comments/1xql7fz/how_would_you_build_a_gmail_google_drive_notion/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xptjen",
@@ -298,17 +331,6 @@
       "author": "Exciting-Topic3902",
       "url": "https://www.reddit.com/r/automation/comments/1xlbppo/any_advice_for_building_a_bot_that_applies_to/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xkru5d",
-      "created_utc": 1793499863,
-      "title": "Currently learning how to be an AI Automation Specialist.",
-      "score": 53,
-      "num_comments": 47,
-      "author": "StrengthParticular82",
-      "url": "https://www.reddit.com/r/automation/comments/1xkru5d/currently_learning_how_to_be_an_ai_automation/",
-      "body": "Hi everyone! I'm new to the world of AI automation and would like to start exploring and learning more about it. For someone just starting out, which platform would you recommend focusing on first: **Zapier, Make, n8n, or Power Automate?** Do you have any recommended learning roadmaps, resources, or advice on what skills I should prioritize? I'd appreciate any tips or suggestions from those who are already working in AI automation. Thanks in advance!",
       "new": false
     }
   ],
