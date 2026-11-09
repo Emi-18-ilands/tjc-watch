@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-08T22:24:58.179333+00:00",
+  "checked_at": "2026-11-09T01:54:54.073687+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xrdceg",
+      "created_utc": 1794183352,
+      "title": "Paying ~18\u00a2 per shop for an AI agent to call two APIs. What\u2019s the cheaper way to get the same info?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "qhelspil",
+      "url": "https://www.reddit.com/r/automation/comments/1xrdceg/paying_18_per_shop_for_an_ai_agent_to_call_two/",
+      "body": "I qualify small local shops (groceries, butchers, restaurants) as sales leads. For each shop I need to know what it actually sells and match my products to what they sell. Right now an AI agent (claude opus-5.5 in n8n) does the research step: 1. Calls Google Places Details \u2192 address, type, 5 reviews, website link 2. Fetches the shop\u2019s website \u2192 menu or products text 3. Recommends some of my products I can sell them It works, but it costs \\~$1.85 per 20 shops, almost all of it the agent looping: every tool call resends the whole conversation (281k input tokens for 20 shops). **Questions:** * Wh",
+      "new": true
+    },
+    {
+      "id": "1xrbmjm",
+      "created_utc": 1794178558,
+      "title": "How to find the emails from LLCs?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Dirk4017",
+      "url": "https://www.reddit.com/r/automation/comments/1xrbmjm/how_to_find_the_emails_from_llcs/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xr81dj",
       "created_utc": 1794169140,
@@ -12,7 +34,7 @@
       "author": "FinnaGetOutplayed",
       "url": "https://www.reddit.com/r/automation/comments/1xr81dj/how_does_using_a_chatbot_affect_your_experiences/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xr6ejy",
@@ -23,7 +45,7 @@
       "author": "XunooL",
       "url": "https://www.reddit.com/r/automation/comments/1xr6ejy/i_dont_know_how_should_i_do_it/",
       "body": "I'm using the \"Loom video cold outreach method,\" where I send a connection request to my ICPs, and whoever accepts it, I engage with their content for 3-4 days before I send them the Loom video I have a problem, which is that I don't know what I should say in that Loom video (technically, I know, and I tried & used one, but the video turned out to be 4 minutes long), which I know is wrong (to send a 4-min long video to a stranger (he/she won't waste that much of time)) That's why I'm asking you, as someone who has done Loom videos for cold outreach to sell his/her automation services: which sc",
-      "new": true
+      "new": false
     },
     {
       "id": "1xr16se",
@@ -74,7 +96,7 @@
       "created_utc": 1794097578,
       "title": "How would you build a Gmail \u2192 Google Drive + Notion workflow for a real estate firm?",
       "score": 2,
-      "num_comments": 5,
+      "num_comments": 8,
       "author": "Appropriate_Tip_8546",
       "url": "https://www.reddit.com/r/automation/comments/1xql7fz/how_would_you_build_a_gmail_google_drive_notion/",
       "body": "",
