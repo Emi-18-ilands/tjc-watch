@@ -1,18 +1,51 @@
 {
-  "checked_at": "2026-11-09T01:54:54.073687+00:00",
+  "checked_at": "2026-11-09T09:37:59.792504+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xrlzx8",
+      "created_utc": 1794211450,
+      "title": "WhatsApp template messages: how do you avoid sending the wrong one?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Pimenta_Atshico",
+      "url": "https://www.reddit.com/r/automation/comments/1xrlzx8/whatsapp_template_messages_how_do_you_avoid/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xrlgfh",
+      "created_utc": 1794209410,
+      "title": "Help me \ud83d\ude2d",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Aniket486",
+      "url": "https://www.reddit.com/r/automation/comments/1xrlgfh/help_me/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xrlax7",
+      "created_utc": 1794208819,
+      "title": "How can I run Claude Pro sessions autonomously on a schedule with browser access? Chromebook user, no Claude Desktop, Linux or VPS",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Top-Abrocoma-4228",
+      "url": "https://www.reddit.com/r/automation/comments/1xrlax7/how_can_i_run_claude_pro_sessions_autonomously_on/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1xrdceg",
       "created_utc": 1794183352,
       "title": "Paying ~18\u00a2 per shop for an AI agent to call two APIs. What\u2019s the cheaper way to get the same info?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 3,
+      "num_comments": 10,
       "author": "qhelspil",
       "url": "https://www.reddit.com/r/automation/comments/1xrdceg/paying_18_per_shop_for_an_ai_agent_to_call_two/",
       "body": "I qualify small local shops (groceries, butchers, restaurants) as sales leads. For each shop I need to know what it actually sells and match my products to what they sell. Right now an AI agent (claude opus-5.5 in n8n) does the research step: 1. Calls Google Places Details \u2192 address, type, 5 reviews, website link 2. Fetches the shop\u2019s website \u2192 menu or products text 3. Recommends some of my products I can sell them It works, but it costs \\~$1.85 per 20 shops, almost all of it the agent looping: every tool call resends the whole conversation (281k input tokens for 20 shops). **Questions:** * Wh",
-      "new": true
+      "new": false
     },
     {
       "id": "1xrbmjm",
@@ -23,7 +56,7 @@
       "author": "Dirk4017",
       "url": "https://www.reddit.com/r/automation/comments/1xrbmjm/how_to_find_the_emails_from_llcs/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xr81dj",
@@ -52,7 +85,7 @@
       "created_utc": 1794152204,
       "title": "How r you handling multi player agent workflows ??",
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 6,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
       "body": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but because nobody told them when to push back or who to listen to\u2026 Most workflows have more than one stakeholder involved and the agent just... picks one and runs. Product says go, legal says wait, the agent already sent the email. The \"steer when stuck\" problem is real but I think the multi-player coordination problem is the harder one. Curious if anyone's building in this space or hit this in production,",
@@ -84,8 +117,8 @@
       "id": "1xqr8e1",
       "created_utc": 1794117300,
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "score": 4,
-      "num_comments": 6,
+      "score": 6,
+      "num_comments": 10,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
       "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
