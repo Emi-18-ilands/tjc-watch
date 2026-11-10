@@ -1,29 +1,40 @@
 {
-  "checked_at": "2026-11-10T03:25:43.052015+00:00",
+  "checked_at": "2026-11-10T11:40:19.439354+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xsdpsj",
+      "created_utc": 1794285231,
+      "title": "Adding one message edge per query, and keeping it only when the trace shows it helped, lifted a fixed agent workflow 8% on ToolBench: notes on \"SPLICE\" (USTC + Alibaba Qwen + NUS)",
+      "score": 2,
+      "num_comments": 1,
+      "author": "WrongTechnician",
+      "url": "https://www.reddit.com/r/automation/comments/1xsdpsj/adding_one_message_edge_per_query_and_keeping_it/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1xs9hda",
       "created_utc": 1794272611,
       "title": "Ai agent",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 14,
       "author": "curiousalwaze",
       "url": "https://www.reddit.com/r/automation/comments/1xs9hda/ai_agent/",
       "body": "Im looking to have an ai agent call insurance companies and do verification of benefits. Its basically the same 15 questions asked every time and put onto a sheet. Is there a way to do this somehow thats hippa compliant and also keeps cost per minute super low? Some calls last a few minutes but some can be up to 2 hours on hold. Ive seen companies that do this but dont know how they are doing it and also bypassing hippa. To be clear I dont want to violate hippa. Im looking to do it correctly. ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xs5dun",
       "created_utc": 1794262172,
       "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 8,
+      "num_comments": 7,
       "author": "Background_Plate1164",
       "url": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
       "body": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I\u2019m in SF trying to turn that into an agency. Honestly the last month has been the same day on repeat at my desk, which I know is the wrong way round. Where I\u2019m at: * comfortable with process work, much less with selling * interested in manufacturing, small business and e-commerce * no US clients yet, no local network For people who started without a network in the US: * what got you the first client? * did com",
-      "new": true
+      "new": false
     },
     {
       "id": "1xs0bbb",
@@ -140,7 +151,7 @@
       "created_utc": 1794165162,
       "title": "I don't know. How should I do it?",
       "score": 1,
-      "num_comments": 7,
+      "num_comments": 8,
       "author": "XunooL",
       "url": "https://www.reddit.com/r/automation/comments/1xr6ejy/i_dont_know_how_should_i_do_it/",
       "body": "I'm using the \"Loom video cold outreach method,\" where I send a connection request to my ICPs, and whoever accepts it, I engage with their content for 3-4 days before I send them the Loom video I have a problem, which is that I don't know what I should say in that Loom video (technically, I know, and I tried & used one, but the video turned out to be 4 minutes long), which I know is wrong (to send a 4-min long video to a stranger (he/she won't waste that much of time)) That's why I'm asking you, as someone who has done Loom videos for cold outreach to sell his/her automation services: which sc",
@@ -151,7 +162,7 @@
       "created_utc": 1794152204,
       "title": "How r you handling multi player agent workflows ??",
       "score": 2,
-      "num_comments": 7,
+      "num_comments": 11,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
       "body": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but because nobody told them when to push back or who to listen to\u2026 Most workflows have more than one stakeholder involved and the agent just... picks one and runs. Product says go, legal says wait, the agent already sent the email. The \"steer when stuck\" problem is real but I think the multi-player coordination problem is the harder one. Curious if anyone's building in this space or hit this in production,",
@@ -183,7 +194,7 @@
       "id": "1xqr8e1",
       "created_utc": 1794117300,
       "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "score": 6,
+      "score": 5,
       "num_comments": 10,
       "author": "AmirHammoutene",
       "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
@@ -331,17 +342,6 @@
       "author": "lkhadiriziko",
       "url": "https://www.reddit.com/r/automation/comments/1xo6mo1/anybody_running_x_on_antydetect_successfully/",
       "body": "Anytime i try using it it gives me this page, ive tried switching proxies and still have the same problem ",
-      "new": false
-    },
-    {
-      "id": "1xnxjqr",
-      "created_utc": 1793820840,
-      "title": "[Technical Co-founder / Automation Specialist] Looking for a Marketer to scale pre-built n8n workflows for local businesses",
-      "score": 1,
-      "num_comments": 1,
-      "author": "OkAmount4839",
-      "url": "https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/",
-      "body": "[removed]",
       "new": false
     }
   ],
