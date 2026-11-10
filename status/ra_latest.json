@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-09T20:38:32.525945+00:00",
+  "checked_at": "2026-11-10T03:25:43.052015+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xs9hda",
+      "created_utc": 1794272611,
+      "title": "Ai agent",
+      "score": 1,
+      "num_comments": 1,
+      "author": "curiousalwaze",
+      "url": "https://www.reddit.com/r/automation/comments/1xs9hda/ai_agent/",
+      "body": "Im looking to have an ai agent call insurance companies and do verification of benefits. Its basically the same 15 questions asked every time and put onto a sheet. Is there a way to do this somehow thats hippa compliant and also keeps cost per minute super low? Some calls last a few minutes but some can be up to 2 hours on hold. Ive seen companies that do this but dont know how they are doing it and also bypassing hippa. To be clear I dont want to violate hippa. Im looking to do it correctly. ",
+      "new": true
+    },
+    {
+      "id": "1xs5dun",
+      "created_utc": 1794262172,
+      "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Background_Plate1164",
+      "url": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
+      "body": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I\u2019m in SF trying to turn that into an agency. Honestly the last month has been the same day on repeat at my desk, which I know is the wrong way round. Where I\u2019m at: * comfortable with process work, much less with selling * interested in manufacturing, small business and e-commerce * no US clients yet, no local network For people who started without a network in the US: * what got you the first client? * did com",
+      "new": true
+    },
     {
       "id": "1xs0bbb",
       "created_utc": 1794250663,
@@ -12,7 +34,7 @@
       "author": "Ok_pettech",
       "url": "https://www.reddit.com/r/automation/comments/1xs0bbb/how_to_build_custom_ai_workflows_without_writing/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xrz3m7",
@@ -23,7 +45,7 @@
       "author": "Appropriate_Case2976",
       "url": "https://www.reddit.com/r/automation/comments/1xrz3m7/what_are_the_main_problems_in_your_workflows/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xrvu5o",
@@ -34,7 +56,7 @@
       "author": "csforgeai",
       "url": "https://www.reddit.com/r/automation/comments/1xrvu5o/how_do_you_keep_a_workers_control_path_from/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xrp2vl",
@@ -45,7 +67,7 @@
       "author": "Verdict-Systems-NS",
       "url": "https://www.reddit.com/r/automation/comments/1xrp2vl/which_of_these_reds_costs_your_team_the_most_time/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xrlzx8",
@@ -84,8 +106,8 @@
       "id": "1xrdceg",
       "created_utc": 1794183352,
       "title": "Paying ~18\u00a2 per shop for an AI agent to call two APIs. What\u2019s the cheaper way to get the same info?",
-      "score": 11,
-      "num_comments": 17,
+      "score": 13,
+      "num_comments": 24,
       "author": "qhelspil",
       "url": "https://www.reddit.com/r/automation/comments/1xrdceg/paying_18_per_shop_for_an_ai_agent_to_call_two/",
       "body": "I qualify small local shops (groceries, butchers, restaurants) as sales leads. For each shop I need to know what it actually sells and match my products to what they sell. Right now an AI agent (claude opus-5.5 in n8n) does the research step: 1. Calls Google Places Details \u2192 address, type, 5 reviews, website link 2. Fetches the shop\u2019s website \u2192 menu or products text 3. Recommends some of my products I can sell them It works, but it costs \\~$1.85 per 20 shops, almost all of it the agent looping: every tool call resends the whole conversation (281k input tokens for 20 shops). **Questions:** * Wh",
@@ -320,28 +342,6 @@
       "author": "OkAmount4839",
       "url": "https://www.reddit.com/r/automation/comments/1xnxjqr/technical_cofounder_automation_specialist_looking/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xnviow",
-      "created_utc": 1793816169,
-      "title": "I\u2019ve spent over a year building two serious projects I truly believe in, but I still can\u2019t find customers. What am I doing wrong?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Radiant_Panda1679",
-      "url": "https://www.reddit.com/r/automation/comments/1xnviow/ive_spent_over_a_year_building_two_serious/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xnv9ea",
-      "created_utc": 1793815574,
-      "title": "How to create an ai agent that works in slack not a new app",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Parking-Presence-366",
-      "url": "https://www.reddit.com/r/automation/comments/1xnv9ea/how_to_create_an_ai_agent_that_works_in_slack_not/",
-      "body": "Running a 35person startup and every AI tool I've looked at wants me to go somewhere new to use it. Another tab, another login, another thing to remember..We already live in Slack and email. I want something that just works there without my team having to change how they operate. Has anyone actually figured out how to create an ai agent that fits into existing tools instead of replacing them? Best and worst experiences welcome.",
       "new": false
     }
   ],
