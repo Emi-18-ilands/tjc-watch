@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-10T19:37:56.594870+00:00",
+  "checked_at": "2026-11-11T00:34:37.937369+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xt39zs",
+      "created_utc": 1794356294,
+      "title": "Starting to test an AI browser that works inside logged-in sites. What should I throw at it?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Separate-Might3082",
+      "url": "https://www.reddit.com/r/automation/comments/1xt39zs/starting_to_test_an_ai_browser_that_works_inside/",
+      "body": "Everyone talks about AI browser agents clicking around for generic tasks. But looking at tools like Aside that operate directly inside active, logged-in browser sessions, where is the actual utility? Which repetitive web chores would you trust an agent with day-to-day? Copying data across internal tabs? Filling out multi-step operational forms? Pulling data from authenticated dashboards every morning? I\u2019m running a few local tests on my setup this week. Drop your best use cases or weird edge cases in the comments, and I\u2019ll test them out and report back on what actually works versus what breaks",
+      "new": true
+    },
     {
       "id": "1xsqpzg",
       "created_utc": 1794326634,
       "title": "Ways to automate context syncing from Slack / Linear to your AI agents?",
       "score": 2,
-      "num_comments": 6,
+      "num_comments": 12,
       "author": "sprogged",
       "url": "https://www.reddit.com/r/automation/comments/1xsqpzg/ways_to_automate_context_syncing_from_slack/",
       "body": "Hey everyone, I'm trying to get my AI agents to constantly sync with context on Slack and Linear. I've been manually copy-pasting thread links and notes back and forth just to stop it from hallucinating. Obviously that gets tedious, so I looked at some options I'm thinking of trying and I could use some advice. I thought of using Zapier to look for specific Slack thread tags, pushing that into a vector database or Notion DB, and having our custom bot fetch from that before running the prompt. Another thing I thought was using external AI workspace setups like Ramp Glass, which handles the Slac",
-      "new": true
+      "new": false
     },
     {
       "id": "1xsluew",
@@ -23,7 +34,7 @@
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1xsluew/building_reporting_dashboards_how_do_you_draw_the/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xskqfe",
@@ -34,7 +45,7 @@
       "author": "CalypsosCableCo",
       "url": "https://www.reddit.com/r/automation/comments/1xskqfe/our_ai_drafted_a_kickoff_date_the_customer_had/",
       "body": "We used to have our AI notetaker write straight into Salesforce after each sales call, but it never looked at any of the other calls only the one it was recording so our deals filled up with steps that contradicted each other. Since then we have every update start as a draft and get approved by a person. For the first month we didn't have any dedicated approver, just whoever got to the draft first. Then we had a customer float a kickoff date on a call, which got picked up by the draft and then approved by someone who wasn't on the call. So now we have who approves what depend on the field that",
-      "new": true
+      "new": false
     },
     {
       "id": "1xsdpsj",
@@ -62,8 +73,8 @@
       "id": "1xs5dun",
       "created_utc": 1794262172,
       "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
-      "score": 12,
-      "num_comments": 10,
+      "score": 14,
+      "num_comments": 13,
       "author": "Background_Plate1164",
       "url": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
       "body": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I\u2019m in SF trying to turn that into an agency. Honestly the last month has been the same day on repeat at my desk, which I know is the wrong way round. Where I\u2019m at: * comfortable with process work, much less with selling * interested in manufacturing, small business and e-commerce * no US clients yet, no local network For people who started without a network in the US: * what got you the first client? * did com",
@@ -342,28 +353,6 @@
       "author": "yeah280",
       "url": "https://www.reddit.com/r/automation/comments/1xol1ao/best_way_to_automate_posting_to_facebook/",
       "body": "Hey everyone, I\u2019m trying to build my own tool to automatically post videos to Facebook, Instagram, TikTok and YouTube. I\u2019d prefer to build it myself, but I\u2019m also willing to pay for a service if it supports everything I need. Here\u2019s where I\u2019m currently at: \\* Instagram: API posting works, including Trial Reels. \\* YouTube: API posting works. \\* Facebook: I can\u2019t figure out how to publish Trial Reels. \\* TikTok: I applied for API access but haven\u2019t received a response yet. My biggest issue is finding a solution that supports all four platforms, especially Facebook Trial Reels. Does anyone know ",
-      "new": false
-    },
-    {
-      "id": "1xohdeb",
-      "created_utc": 1793881594,
-      "title": "How do you share what you've built with coworkers?",
-      "score": 9,
-      "num_comments": 18,
-      "author": "sixteenpoundblanket",
-      "url": "https://www.reddit.com/r/automation/comments/1xohdeb/how_do_you_share_what_youve_built_with_coworkers/",
-      "body": "Our group has started to produce useful workflows, but all as individuals. Boss wants us to share. There are two obstacles. No one wants to give away what they have built to other people and the details of how you share your skills and other needed things is not clear. How do you do this at work?",
-      "new": false
-    },
-    {
-      "id": "1xogj5e",
-      "created_utc": 1793878928,
-      "title": "Mini guide: stop retyping PDF invoices into a spreadsheet (works with free tools)",
-      "score": 2,
-      "num_comments": 15,
-      "author": "Significant_Dot5737",
-      "url": "https://www.reddit.com/r/automation/comments/1xogj5e/mini_guide_stop_retyping_pdf_invoices_into_a/",
-      "body": "I keep seeing this setup: supplier invoices arrive by email as PDFs, and someone types the date, supplier, amount and invoice number into Google Sheets. Here's a setup that handles most of it: 1. **Collect them in one place.** Add a Gmail filter: has attachment + from known suppliers \u2192 apply label \"invoices\". 2. **Save the PDFs.** A small Apps Script on a time trigger saves attachments under that label to a Drive folder and marks the email as processed (use a second label so nothing gets saved twice). 3. **Pull out the fields.** For text-based PDFs, plain text extraction plus a regex per suppl",
       "new": false
     }
   ],
