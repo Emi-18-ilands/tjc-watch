@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-13T00:08:44.786143+00:00",
+  "checked_at": "2026-11-13T07:09:29.117253+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xuuj3d",
+      "created_utc": 1794532569,
+      "title": "Anyone managed to get an AI agent to actually complete a purchase?",
+      "score": 28,
+      "num_comments": 9,
+      "author": "Mundane-Asparagus850",
+      "url": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
+      "body": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The payment part is where I'm stuck. I'm not exactly comfortable giving an AI my regular card details. I already use Oobit and saw they now have this one called Agent Pay, which apparently lets an agent use a one time virtual card funded from your Oobit balance. Sounds pretty useful for one off purchases but has anyone actually tried this yet even with others?",
+      "new": true
+    },
+    {
       "id": "1xu9u34",
       "created_utc": 1794480978,
       "title": "Anyone else feel like AI automation needs more babysitting than expected?",
-      "score": 7,
-      "num_comments": 21,
+      "score": 14,
+      "num_comments": 26,
       "author": "Cloudy_Day912",
       "url": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
       "body": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive tasks sounds great until something unexpected happens and the whole workflow starts acting weird.I was looking through some AI discussions earlier, came across geekyants, and ended up going down a rabbit hole about how much human involvement these automated systems still need. The part that gets me is when you spend more time fixing an automation than you would've spent doing the task manually. Ha",
-      "new": true
+      "new": false
     },
     {
       "id": "1xu7i4p",
@@ -30,7 +41,7 @@
       "created_utc": 1794422261,
       "title": "How do you decide whether a task is worth automating?",
       "score": 12,
-      "num_comments": 21,
+      "num_comments": 24,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xtprzy/how_do_you_decide_whether_a_task_is_worth/",
       "body": "My rule of thumb is that it has to happen at least weekly, take more than ten minutes by hand and be boring enough that I\u2019d never miss doing it. Anything that needs judgment each time usually costs me more to automate than it saves. What\u2019s your test and what\u2019s something you automated that turned out to be a mistake?",
