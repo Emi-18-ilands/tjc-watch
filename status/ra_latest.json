@@ -1,8 +1,41 @@
 {
-  "checked_at": "2026-11-13T15:39:09.327515+00:00",
+  "checked_at": "2026-11-13T21:54:51.151883+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xvibii",
+      "created_utc": 1794600615,
+      "title": "which AI testing tools give auditable step by step run reports with screenshots and failure analysis?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Nonononikkii",
+      "url": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
+      "body": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal audit wants, for any given run, which steps executed, what the screen looked like at each one, what the expected result was, and why a step got marked as passed. with Playwright plus Allure I can produce most of that for the web systems, and Selenium with the same reporting layer is the same story. desktop is where it thins out. Tosca and Ranorex both produce proper run documentation and that is ",
+      "new": true
+    },
+    {
+      "id": "1xvcqlu",
+      "created_utc": 1794588117,
+      "title": "I mapped 5 \"AI employee\" roles for a small construction firm, each with a setup interview instead of a long prompt",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Brave_Struggle_9727",
+      "url": "https://www.reddit.com/r/automation/comments/1xvcqlu/i_mapped_5_ai_employee_roles_for_a_small/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1xvbwi9",
+      "created_utc": 1794586202,
+      "title": "The automation that works 95% of the time can be the most annoying one",
+      "score": 4,
+      "num_comments": 7,
+      "author": "FulcraDynamics",
+      "url": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
+      "body": "**The most annoying automations are the ones that almost always work** If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that work fine for weeks, until one day they don't. Maybe an API changes, a field gets renamed, or something times out halfway through. And sometimes the workflow still shows up as successful, so you don't even realize anything went wrong. By the time you notice, you might have days of missing data or actions that never happened. I think we focus too much on how often automations succeed and not eno",
+      "new": true
+    },
     {
       "id": "1xv9cvr",
       "created_utc": 1794580209,
@@ -12,7 +45,7 @@
       "author": "TruthUnique425",
       "url": "https://www.reddit.com/r/automation/comments/1xv9cvr/the_nobs_ai_agent_guide_isnt_about_hype_or/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xv3xd3",
@@ -23,7 +56,7 @@
       "author": "RealSirJoe",
       "url": "https://www.reddit.com/r/automation/comments/1xv3xd3/i_used_my_browser_automation_tool_to_find_a_name/",
       "body": "I've been building an open-source programmable browser for automating websites and extracting structured data. For a while, I was calling it **Phoenix**, but eventually realized I needed a better, more distinctive name. Finding one turned out to be surprisingly annoying. I'd come up with a name, discover it was taken, and start all over again. I tried using Namelix to generate ideas, but checking names and domains manually was becoming another repetitive task. Then it occurred to me that I'd been building a browser automation tool this entire time and wasn't even using it to solve my own probl",
-      "new": true
+      "new": false
     },
     {
       "id": "1xuuj3d",
@@ -51,8 +84,8 @@
       "id": "1xu7i4p",
       "created_utc": 1794472249,
       "title": "How can I build a Claude workflow to read and analyze comments on posts?",
-      "score": 8,
-      "num_comments": 15,
+      "score": 10,
+      "num_comments": 21,
       "author": "denedeh",
       "url": "https://www.reddit.com/r/automation/comments/1xu7i4p/how_can_i_build_a_claude_workflow_to_read_and/",
       "body": "i run marketplace accounts at an agency, mostly Amazon but also walmart and some DTC brands. Part of my job is keeping track of a list of people who post about whats happening on amazon. sellers and people who work with brands that sell there. most of the useful stuff is in the comments. when amazon launched a new type of ad service, the posts mostly said what it was. The replies were where people said if they liked it or not and what they were seeing on there end. thats what my team actually wants to know. Right now its about 2 hours a week between me and the team going through it by hand. so",
@@ -331,28 +364,6 @@
       "author": "No_Cap6322",
       "url": "https://www.reddit.com/r/automation/comments/1xqur39/engineer_who_adds_ai_to_existing_business_systems/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xqr8e1",
-      "created_utc": 1794117300,
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "score": 5,
-      "num_comments": 10,
-      "author": "AmirHammoutene",
-      "url": "https://www.reddit.com/r/automation/comments/1xqr8e1/tasket_simulate_your_windows_actions/",
-      "body": "**Tasket++** lets you define your own clicks, keystrokes, cursor positions and system operations, then replay them exactly when you want. It\u2019s a simple Windows tool that handles repetitive workflows for you: auto\u2011send messages, paste text anywhere, take silent screenshots, launch or close apps, adjust volume or run your end\u2011of\u2011day shutdown sequence. Everything runs **locally**, with **no telemetry**, no cloud, and no complexity. What it can do: \\- Replay user\u2011defined cursor positions and keystrokes \\- Paste predefined text anywhere \\- Perform system actions: open files/programs, change volume,",
-      "new": false
-    },
-    {
-      "id": "1xql7fz",
-      "created_utc": 1794097578,
-      "title": "How would you build a Gmail \u2192 Google Drive + Notion workflow for a real estate firm?",
-      "score": 2,
-      "num_comments": 9,
-      "author": "Appropriate_Tip_8546",
-      "url": "https://www.reddit.com/r/automation/comments/1xql7fz/how_would_you_build_a_gmail_google_drive_notion/",
-      "body": "",
       "new": false
     }
   ],
