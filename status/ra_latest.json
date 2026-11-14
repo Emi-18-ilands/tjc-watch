@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-14T02:14:44.197461+00:00",
+  "checked_at": "2026-11-14T09:20:29.179049+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xvuwrd",
+      "created_utc": 1794636196,
+      "title": "What do you do when an important automation fails and you're not around?",
+      "score": 0,
+      "num_comments": 1,
+      "author": "no_semicolonn",
+      "url": "https://www.reddit.com/r/automation/comments/1xvuwrd/what_do_you_do_when_an_important_automation_fails/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1xvibii",
       "created_utc": 1794600615,
@@ -29,8 +40,8 @@
       "id": "1xvbwi9",
       "created_utc": 1794586202,
       "title": "The automation that works 95% of the time can be the most annoying one",
-      "score": 6,
-      "num_comments": 8,
+      "score": 10,
+      "num_comments": 9,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
       "body": "**The most annoying automations are the ones that almost always work** If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that work fine for weeks, until one day they don't. Maybe an API changes, a field gets renamed, or something times out halfway through. And sometimes the workflow still shows up as successful, so you don't even realize anything went wrong. By the time you notice, you might have days of missing data or actions that never happened. I think we focus too much on how often automations succeed and not eno",
@@ -342,17 +353,6 @@
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xr16se/how_r_you_handling_multi_player_agent_workflows/",
       "body": "Been doing a bunch of customer calls lately trying to understand where AI agents actually break down in real workflows. The pattern I keep hearing: agents fail not because the task is hard, but because nobody told them when to push back or who to listen to\u2026 Most workflows have more than one stakeholder involved and the agent just... picks one and runs. Product says go, legal says wait, the agent already sent the email. The \"steer when stuck\" problem is real but I think the multi-player coordination problem is the harder one. Curious if anyone's building in this space or hit this in production,",
-      "new": false
-    },
-    {
-      "id": "1xqv7zf",
-      "created_utc": 1794132960,
-      "title": "Is anyone actually using autonomous AI agents to run social media marketing campaigns?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "StowMatePro",
-      "url": "https://www.reddit.com/r/automation/comments/1xqv7zf/is_anyone_actually_using_autonomous_ai_agents_to/",
-      "body": "[removed]",
       "new": false
     }
   ],
