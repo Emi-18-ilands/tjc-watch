@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-13T21:54:51.151883+00:00",
+  "checked_at": "2026-11-14T02:14:44.197461+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,11 +8,11 @@
       "created_utc": 1794600615,
       "title": "which AI testing tools give auditable step by step run reports with screenshots and failure analysis?",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 5,
       "author": "Nonononikkii",
       "url": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
       "body": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal audit wants, for any given run, which steps executed, what the screen looked like at each one, what the expected result was, and why a step got marked as passed. with Playwright plus Allure I can produce most of that for the web systems, and Selenium with the same reporting layer is the same story. desktop is where it thins out. Tosca and Ranorex both produce proper run documentation and that is ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xvcqlu",
@@ -23,18 +23,18 @@
       "author": "Brave_Struggle_9727",
       "url": "https://www.reddit.com/r/automation/comments/1xvcqlu/i_mapped_5_ai_employee_roles_for_a_small/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xvbwi9",
       "created_utc": 1794586202,
       "title": "The automation that works 95% of the time can be the most annoying one",
-      "score": 4,
-      "num_comments": 7,
+      "score": 6,
+      "num_comments": 8,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
       "body": "**The most annoying automations are the ones that almost always work** If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that work fine for weeks, until one day they don't. Maybe an API changes, a field gets renamed, or something times out halfway through. And sometimes the workflow still shows up as successful, so you don't even realize anything went wrong. By the time you notice, you might have days of missing data or actions that never happened. I think we focus too much on how often automations succeed and not eno",
-      "new": true
+      "new": false
     },
     {
       "id": "1xv9cvr",
@@ -62,8 +62,8 @@
       "id": "1xuuj3d",
       "created_utc": 1794532569,
       "title": "Anyone managed to get an AI agent to actually complete a purchase?",
-      "score": 34,
-      "num_comments": 20,
+      "score": 36,
+      "num_comments": 25,
       "author": "Mundane-Asparagus850",
       "url": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
       "body": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The payment part is where I'm stuck. I'm not exactly comfortable giving an AI my regular card details. I already use Oobit and saw they now have this one called Agent Pay, which apparently lets an agent use a one time virtual card funded from your Oobit balance. Sounds pretty useful for one off purchases but has anyone actually tried this yet even with others?",
@@ -73,8 +73,8 @@
       "id": "1xu9u34",
       "created_utc": 1794480978,
       "title": "Anyone else feel like AI automation needs more babysitting than expected?",
-      "score": 17,
-      "num_comments": 29,
+      "score": 19,
+      "num_comments": 33,
       "author": "Cloudy_Day912",
       "url": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
       "body": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive tasks sounds great until something unexpected happens and the whole workflow starts acting weird.I was looking through some AI discussions earlier, came across geekyants, and ended up going down a rabbit hole about how much human involvement these automated systems still need. The part that gets me is when you spend more time fixing an automation than you would've spent doing the task manually. Ha",
@@ -352,17 +352,6 @@
       "num_comments": 1,
       "author": "StowMatePro",
       "url": "https://www.reddit.com/r/automation/comments/1xqv7zf/is_anyone_actually_using_autonomous_ai_agents_to/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xqur39",
-      "created_utc": 1794131107,
-      "title": "Engineer who adds AI to existing business systems: what are you trying to automate?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "No_Cap6322",
-      "url": "https://www.reddit.com/r/automation/comments/1xqur39/engineer_who_adds_ai_to_existing_business_systems/",
       "body": "[removed]",
       "new": false
     }
