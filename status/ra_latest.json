@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-14T09:20:29.179049+00:00",
+  "checked_at": "2026-11-14T16:01:49.923232+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xw53g3",
+      "created_utc": 1794670072,
+      "title": "How to create an ai agent that actually does stuff for my team?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "flaresomewhere",
+      "url": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
+      "body": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me having to babysit it or build some complicated setup. What have people actually used for this? Specifically curious what worked for small teams and what was a total waste of time.",
+      "new": true
+    },
     {
       "id": "1xvuwrd",
       "created_utc": 1794636196,
@@ -12,14 +23,14 @@
       "author": "no_semicolonn",
       "url": "https://www.reddit.com/r/automation/comments/1xvuwrd/what_do_you_do_when_an_important_automation_fails/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1xvibii",
       "created_utc": 1794600615,
       "title": "which AI testing tools give auditable step by step run reports with screenshots and failure analysis?",
-      "score": 1,
-      "num_comments": 5,
+      "score": 4,
+      "num_comments": 9,
       "author": "Nonononikkii",
       "url": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
       "body": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal audit wants, for any given run, which steps executed, what the screen looked like at each one, what the expected result was, and why a step got marked as passed. with Playwright plus Allure I can produce most of that for the web systems, and Selenium with the same reporting layer is the same story. desktop is where it thins out. Tosca and Ranorex both produce proper run documentation and that is ",
@@ -73,8 +84,8 @@
       "id": "1xuuj3d",
       "created_utc": 1794532569,
       "title": "Anyone managed to get an AI agent to actually complete a purchase?",
-      "score": 36,
-      "num_comments": 25,
+      "score": 37,
+      "num_comments": 26,
       "author": "Mundane-Asparagus850",
       "url": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
       "body": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The payment part is where I'm stuck. I'm not exactly comfortable giving an AI my regular card details. I already use Oobit and saw they now have this one called Agent Pay, which apparently lets an agent use a one time virtual card funded from your Oobit balance. Sounds pretty useful for one off purchases but has anyone actually tried this yet even with others?",
