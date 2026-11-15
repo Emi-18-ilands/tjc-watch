@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-14T20:37:25.909736+00:00",
+  "checked_at": "2026-11-15T00:57:56.296814+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,8 +7,8 @@
       "id": "1xw53g3",
       "created_utc": 1794670072,
       "title": "How to create an ai agent that actually does stuff for my team?",
-      "score": 4,
-      "num_comments": 13,
+      "score": 11,
+      "num_comments": 25,
       "author": "flaresomewhere",
       "url": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
       "body": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me having to babysit it or build some complicated setup. What have people actually used for this? Specifically curious what worked for small teams and what was a total waste of time.",
