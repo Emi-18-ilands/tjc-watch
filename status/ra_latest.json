@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-15T00:57:56.296814+00:00",
+  "checked_at": "2026-11-15T07:45:40.554406+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,8 +7,8 @@
       "id": "1xw53g3",
       "created_utc": 1794670072,
       "title": "How to create an ai agent that actually does stuff for my team?",
-      "score": 11,
-      "num_comments": 25,
+      "score": 15,
+      "num_comments": 35,
       "author": "flaresomewhere",
       "url": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
       "body": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me having to babysit it or build some complicated setup. What have people actually used for this? Specifically curious what worked for small teams and what was a total waste of time.",
@@ -51,8 +51,8 @@
       "id": "1xvbwi9",
       "created_utc": 1794586202,
       "title": "The automation that works 95% of the time can be the most annoying one",
-      "score": 16,
-      "num_comments": 12,
+      "score": 17,
+      "num_comments": 14,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
       "body": "**The most annoying automations are the ones that almost always work** If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that work fine for weeks, until one day they don't. Maybe an API changes, a field gets renamed, or something times out halfway through. And sometimes the workflow still shows up as successful, so you don't even realize anything went wrong. By the time you notice, you might have days of missing data or actions that never happened. I think we focus too much on how often automations succeed and not eno",
