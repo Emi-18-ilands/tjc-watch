@@ -1,18 +1,84 @@
 {
-  "checked_at": "2026-11-16T07:11:03.499045+00:00",
+  "checked_at": "2026-11-16T17:22:24.590383+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xxv0i1",
+      "created_utc": 1794849119,
+      "title": "Indian real estate brokers: How do you currently manage incoming leads and follow-ups?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "beastanox",
+      "url": "https://www.reddit.com/r/automation/comments/1xxv0i1/indian_real_estate_brokers_how_do_you_currently/",
+      "body": "Hi everyone, I'm exploring a problem in the Indian real estate industry and wanted to get some honest feedback from people working in this space. I'm particularly interested in how brokers and small builders manage incoming enquiries from platforms like 99acres, MagicBricks, Facebook Ads and their websites. A few things I'm trying to understand: 1. How do you currently manage incoming leads? CRM, Excel, Google Sheets, WhatsApp or something else? 2. How quickly do you usually respond when a new enquiry comes in? 3. Do leads sometimes get forgotten because of delayed follow-ups or a lack of remi",
+      "new": true
+    },
+    {
+      "id": "1xxrhu6",
+      "created_utc": 1794841155,
+      "title": "if you are buidling with hubspot, how do u validate auth-failures?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Common_Dream9420",
+      "url": "https://www.reddit.com/r/automation/comments/1xxrhu6/if_you_are_buidling_with_hubspot_how_do_u/",
+      "body": "https://i.redd.it/ci9b1ltqnz1i1.png How do u valdiate above use-case today if you are building workflows that involves CRM services like?",
+      "new": true
+    },
+    {
+      "id": "1xxqxcd",
+      "created_utc": 1794839775,
+      "title": "What AI workflows actually help your daily work, the ones you can't live without?",
+      "score": 0,
+      "num_comments": 7,
+      "author": "g3Mo",
+      "url": "https://www.reddit.com/r/automation/comments/1xxqxcd/what_ai_workflows_actually_help_your_daily_work/",
+      "body": "This question was asked one year back in this sub, asking again. Lot has changed. ",
+      "new": true
+    },
+    {
+      "id": "1xxqlz6",
+      "created_utc": 1794839000,
+      "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
+      "score": 2,
+      "num_comments": 3,
+      "author": "AshishKulkarni1411",
+      "url": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
+      "body": "I'm the founder of this project, so take it with that in mind. I want opinions from people who automate for a living. Since May 2026 we've used an AI employee at our company that works with the whole team: it picks up repetitive tasks, follows up with people, writes to the apps (mail, calendar, GitHub, books) after asking approval for anything that sends, changes or deletes, and keeps notes in git. It's now open source and can be self-hosted. We find it extremely useful. What I can't work out is what to point it at as a product. We've used Claude Duet, OpenAI Dots, Grok Bot and ChatGPT, and th",
+      "new": true
+    },
+    {
+      "id": "1xxn2c2",
+      "created_utc": 1794828607,
+      "title": "How do you see UI test automation evolving over the next few years?",
+      "score": 2,
+      "num_comments": 1,
+      "author": "Pretty_Teaching_6351",
+      "url": "https://www.reddit.com/r/automation/comments/1xxn2c2/how_do_you_see_ui_test_automation_evolving_over/",
+      "body": "",
+      "new": true
+    },
+    {
+      "id": "1xxlfng",
+      "created_utc": 1794822647,
+      "title": "How do you make RPA faster when there is no API?  \ud83e\udd14",
+      "score": 3,
+      "num_comments": 10,
+      "author": "ApprehensiveEmploy92",
+      "url": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
+      "body": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots to bridge the gap, but when a single process involves navigating several platforms, extracting information and entering it elsewhere, execution time can increase significantly. Context: partner portals with login gates. Currently, I am using Viktor for this, but the transparency is limited, even though the speed is great. Recreating from scratch in N8N with Claude and Playwright takes much more ti",
+      "new": true
+    },
+    {
       "id": "1xximwz",
       "created_utc": 1794811925,
       "title": "Whats a good Exa alternative for people data?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 10,
+      "num_comments": 13,
       "author": "Breoganhackett",
       "url": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
       "body": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go into the query text, so the agent writes something like \"senior backend engineers who used to work at Stripe\" and we get a mix of current Stripe people, people who wrote about Stripe and a few random ones. The work history fields exist but theyre often empty, and the contact info is prety weak, so every run ends with someone going through the list manually. What i need is structured, filter on curr",
-      "new": true
+      "new": false
     },
     {
       "id": "1xw53g3",
@@ -309,61 +375,6 @@
       "author": "Aniket486",
       "url": "https://www.reddit.com/r/automation/comments/1xrlgfh/help_me/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xrlax7",
-      "created_utc": 1794208819,
-      "title": "How can I run Claude Pro sessions autonomously on a schedule with browser access? Chromebook user, no Claude Desktop, Linux or VPS",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Top-Abrocoma-4228",
-      "url": "https://www.reddit.com/r/automation/comments/1xrlax7/how_can_i_run_claude_pro_sessions_autonomously_on/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xrdceg",
-      "created_utc": 1794183352,
-      "title": "Paying ~18\u00a2 per shop for an AI agent to call two APIs. What\u2019s the cheaper way to get the same info?",
-      "score": 14,
-      "num_comments": 34,
-      "author": "qhelspil",
-      "url": "https://www.reddit.com/r/automation/comments/1xrdceg/paying_18_per_shop_for_an_ai_agent_to_call_two/",
-      "body": "I qualify small local shops (groceries, butchers, restaurants) as sales leads. For each shop I need to know what it actually sells and match my products to what they sell. Right now an AI agent (claude opus-5.5 in n8n) does the research step: 1. Calls Google Places Details \u2192 address, type, 5 reviews, website link 2. Fetches the shop\u2019s website \u2192 menu or products text 3. Recommends some of my products I can sell them It works, but it costs \\~$1.85 per 20 shops, almost all of it the agent looping: every tool call resends the whole conversation (281k input tokens for 20 shops). **Questions:** * Wh",
-      "new": false
-    },
-    {
-      "id": "1xrbmjm",
-      "created_utc": 1794178558,
-      "title": "How to find the emails from LLCs?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Dirk4017",
-      "url": "https://www.reddit.com/r/automation/comments/1xrbmjm/how_to_find_the_emails_from_llcs/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xr81dj",
-      "created_utc": 1794169140,
-      "title": "How does using a chatbot affect your experiences with them?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "FinnaGetOutplayed",
-      "url": "https://www.reddit.com/r/automation/comments/1xr81dj/how_does_using_a_chatbot_affect_your_experiences/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xr6ejy",
-      "created_utc": 1794165162,
-      "title": "I don't know. How should I do it?",
-      "score": 1,
-      "num_comments": 13,
-      "author": "XunooL",
-      "url": "https://www.reddit.com/r/automation/comments/1xr6ejy/i_dont_know_how_should_i_do_it/",
-      "body": "I'm using the \"Loom video cold outreach method,\" where I send a connection request to my ICPs, and whoever accepts it, I engage with their content for 3-4 days before I send them the Loom video I have a problem, which is that I don't know what I should say in that Loom video (technically, I know, and I tried & used one, but the video turned out to be 4 minutes long), which I know is wrong (to send a 4-min long video to a stranger (he/she won't waste that much of time)) That's why I'm asking you, as someone who has done Loom videos for cold outreach to sell his/her automation services: which sc",
       "new": false
     }
   ],
