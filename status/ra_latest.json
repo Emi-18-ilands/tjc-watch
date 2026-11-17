@@ -1,51 +1,73 @@
 {
-  "checked_at": "2026-11-16T17:22:24.590383+00:00",
+  "checked_at": "2026-11-17T01:01:32.007559+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xy0buz",
+      "created_utc": 1794861007,
+      "title": "Agents on different platforms and owned by different people: how do you get them to share updates?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "FulcraDynamics",
+      "url": "https://www.reddit.com/r/automation/comments/1xy0buz/agents_on_different_platforms_and_owned_by/",
+      "body": "I work at Fulcra, so keep that in mind. We\u2019re building agent-to-agent communication, and the case we keep coming back to is two people on the same project, each with their own agents on different platforms. Right now, the only way one agent finds out what the other did is if one of you pastes it across. Agent-to-agent connections already work in what we have, but it\u2019s early and some parts are rough. \\[One concrete detail: how the connection works, or a real limitation.\\] What are you using today to connect agents? MCP, a shared database, your own glue code, or just copy-paste? Link in case it\u2019",
+      "new": true
+    },
+    {
+      "id": "1xxvmnu",
+      "created_utc": 1794850500,
+      "title": "Zero runs isn\u2019t an error How do you catch an automation that just stops getting triggered?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Beau-Whitaker",
+      "url": "https://www.reddit.com/r/automation/comments/1xxvmnu/zero_runs_isnt_an_error_how_do_you_catch_an/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1xxv0i1",
       "created_utc": 1794849119,
       "title": "Indian real estate brokers: How do you currently manage incoming leads and follow-ups?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 3,
       "author": "beastanox",
       "url": "https://www.reddit.com/r/automation/comments/1xxv0i1/indian_real_estate_brokers_how_do_you_currently/",
       "body": "Hi everyone, I'm exploring a problem in the Indian real estate industry and wanted to get some honest feedback from people working in this space. I'm particularly interested in how brokers and small builders manage incoming enquiries from platforms like 99acres, MagicBricks, Facebook Ads and their websites. A few things I'm trying to understand: 1. How do you currently manage incoming leads? CRM, Excel, Google Sheets, WhatsApp or something else? 2. How quickly do you usually respond when a new enquiry comes in? 3. Do leads sometimes get forgotten because of delayed follow-ups or a lack of remi",
-      "new": true
+      "new": false
     },
     {
       "id": "1xxrhu6",
       "created_utc": 1794841155,
       "title": "if you are buidling with hubspot, how do u validate auth-failures?",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 5,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xxrhu6/if_you_are_buidling_with_hubspot_how_do_u/",
       "body": "https://i.redd.it/ci9b1ltqnz1i1.png How do u valdiate above use-case today if you are building workflows that involves CRM services like?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xxqxcd",
       "created_utc": 1794839775,
       "title": "What AI workflows actually help your daily work, the ones you can't live without?",
-      "score": 0,
-      "num_comments": 7,
+      "score": 8,
+      "num_comments": 15,
       "author": "g3Mo",
       "url": "https://www.reddit.com/r/automation/comments/1xxqxcd/what_ai_workflows_actually_help_your_daily_work/",
       "body": "This question was asked one year back in this sub, asking again. Lot has changed. ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xxqlz6",
       "created_utc": 1794839000,
       "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
-      "score": 2,
-      "num_comments": 3,
+      "score": 4,
+      "num_comments": 6,
       "author": "AshishKulkarni1411",
       "url": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
       "body": "I'm the founder of this project, so take it with that in mind. I want opinions from people who automate for a living. Since May 2026 we've used an AI employee at our company that works with the whole team: it picks up repetitive tasks, follows up with people, writes to the apps (mail, calendar, GitHub, books) after asking approval for anything that sends, changes or deletes, and keeps notes in git. It's now open source and can be self-hosted. We find it extremely useful. What I can't work out is what to point it at as a product. We've used Claude Duet, OpenAI Dots, Grok Bot and ChatGPT, and th",
-      "new": true
+      "new": false
     },
     {
       "id": "1xxn2c2",
@@ -56,25 +78,25 @@
       "author": "Pretty_Teaching_6351",
       "url": "https://www.reddit.com/r/automation/comments/1xxn2c2/how_do_you_see_ui_test_automation_evolving_over/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xxlfng",
       "created_utc": 1794822647,
       "title": "How do you make RPA faster when there is no API?  \ud83e\udd14",
-      "score": 3,
-      "num_comments": 10,
+      "score": 4,
+      "num_comments": 14,
       "author": "ApprehensiveEmploy92",
       "url": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
       "body": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots to bridge the gap, but when a single process involves navigating several platforms, extracting information and entering it elsewhere, execution time can increase significantly. Context: partner portals with login gates. Currently, I am using Viktor for this, but the transparency is limited, even though the speed is great. Recreating from scratch in N8N with Claude and Playwright takes much more ti",
-      "new": true
+      "new": false
     },
     {
       "id": "1xximwz",
       "created_utc": 1794811925,
       "title": "Whats a good Exa alternative for people data?",
-      "score": 10,
-      "num_comments": 13,
+      "score": 15,
+      "num_comments": 16,
       "author": "Breoganhackett",
       "url": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
       "body": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go into the query text, so the agent writes something like \"senior backend engineers who used to work at Stripe\" and we get a mix of current Stripe people, people who wrote about Stripe and a few random ones. The work history fields exist but theyre often empty, and the contact info is prety weak, so every run ends with someone going through the list manually. What i need is structured, filter on curr",
@@ -304,8 +326,8 @@
       "id": "1xs5dun",
       "created_utc": 1794262172,
       "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
-      "score": 14,
-      "num_comments": 14,
+      "score": 15,
+      "num_comments": 15,
       "author": "Background_Plate1164",
       "url": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
       "body": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I\u2019m in SF trying to turn that into an agency. Honestly the last month has been the same day on repeat at my desk, which I know is the wrong way round. Where I\u2019m at: * comfortable with process work, much less with selling * interested in manufacturing, small business and e-commerce * no US clients yet, no local network For people who started without a network in the US: * what got you the first client? * did com",
@@ -352,28 +374,6 @@
       "num_comments": 1,
       "author": "Verdict-Systems-NS",
       "url": "https://www.reddit.com/r/automation/comments/1xrp2vl/which_of_these_reds_costs_your_team_the_most_time/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xrlzx8",
-      "created_utc": 1794211450,
-      "title": "WhatsApp template messages: how do you avoid sending the wrong one?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Pimenta_Atshico",
-      "url": "https://www.reddit.com/r/automation/comments/1xrlzx8/whatsapp_template_messages_how_do_you_avoid/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xrlgfh",
-      "created_utc": 1794209410,
-      "title": "Help me \ud83d\ude2d",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Aniket486",
-      "url": "https://www.reddit.com/r/automation/comments/1xrlgfh/help_me/",
       "body": "[removed]",
       "new": false
     }
