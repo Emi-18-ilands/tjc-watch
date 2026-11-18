@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-18T01:14:08.577116+00:00",
+  "checked_at": "2026-11-18T09:01:39.222726+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xzaeql",
+      "created_utc": 1794991924,
+      "title": "What should a handoff note for a workflow include?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "ibrahim_40",
+      "url": "https://www.reddit.com/r/automation/comments/1xzaeql/what_should_a_handoff_note_for_a_workflow_include/",
+      "body": "I built a few small workflows for my team and I realized no one else knows how they work. I started a short note for each one covering what starts it. What do you put in yours and what turned out to be unnecessary?",
+      "new": true
+    },
+    {
+      "id": "1xz8l29",
+      "created_utc": 1794984799,
+      "title": "$900 a month on slideshow images cut to $135 by generating 1 slide instead of 7",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Academic-Tailor8716",
+      "url": "https://www.reddit.com/r/automation/comments/1xz8l29/900_a_month_on_slideshow_images_cut_to_135_by/",
+      "body": "Ai images get expensive fast once you post every day. this is the cleanest fix for it i've come across. alex nguyen ran the numbers in a post on x. a 7 slide deck with chatgpt images 2.0 at high quality is about $0.70-1.00. at 30 slideshows a day that's $600-900 a month, just on images. so he gave each slide a job: slide 1, the hook, gets a custom ai image because it has to match the topic exactly slides 2-6 use photos from a pinterest library, matched by mood and tags, with text added locally using sharp the last slide reuses a template background one ai image instead of seven. about $0.15 pe",
+      "new": true
+    },
     {
       "id": "1xyvmsg",
       "created_utc": 1794948109,
@@ -12,24 +34,24 @@
       "author": "stretchmid",
       "url": "https://www.reddit.com/r/automation/comments/1xyvmsg/is_anyone_else_tired_of_maintaining_css_selectors/",
       "body": "I've been maintaining a pipeline that extracts company information from different websites. The output needs to be fairly consistent: Company name, industry, headquarters, employee count, pricing model, product categories and a few other fields. The original implementation used CSS selectors and some custom parsing logic. It worked well enough until websites started changing their layouts. A selector that worked perfectly last month suddenly returns null, and then someone has to investigate whether the site changed, the data moved or the parser broke. I started looking into schema-based extrac",
-      "new": true
+      "new": false
     },
     {
       "id": "1xyup5u",
       "created_utc": 1794945893,
       "title": "Where to Start?",
-      "score": 1,
-      "num_comments": 9,
+      "score": 3,
+      "num_comments": 12,
       "author": "240221",
       "url": "https://www.reddit.com/r/automation/comments/1xyup5u/where_to_start/",
       "body": "As the title says, I need help figuring out where to start with something. Generally, I want to automate the process my clients can use when completing an important form. More specifically: There is a form that financial institutions have to submit periodically to regulators. It's not hard-hard, but it's not easy. It requires the person completing it to make certain choices (about which pages in the form need to be completed) and then to fill in certain information. About 25% of it includes math calculations. I have created a fillable PDF for them to use and have given them instructions. Howev",
-      "new": true
+      "new": false
     },
     {
       "id": "1xyos4u",
       "created_utc": 1794932543,
       "title": "How do you automate Text based on its content ?",
-      "score": 3,
+      "score": 4,
       "num_comments": 19,
       "author": "livingthe20s",
       "url": "https://www.reddit.com/r/automation/comments/1xyos4u/how_do_you_automate_text_based_on_its_content/",
@@ -62,7 +84,7 @@
       "id": "1xy0buz",
       "created_utc": 1794861007,
       "title": "Agents on different platforms and owned by different people: how do you get them to share updates?",
-      "score": 4,
+      "score": 5,
       "num_comments": 8,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xy0buz/agents_on_different_platforms_and_owned_by/",
@@ -96,7 +118,7 @@
       "created_utc": 1794841155,
       "title": "if you are buidling with hubspot, how do u validate auth-failures?",
       "score": 3,
-      "num_comments": 9,
+      "num_comments": 10,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1xxrhu6/if_you_are_buidling_with_hubspot_how_do_u/",
       "body": "https://i.redd.it/ci9b1ltqnz1i1.png How do u valdiate above use-case today if you are building workflows that involves CRM services like?",
@@ -106,8 +128,8 @@
       "id": "1xxqxcd",
       "created_utc": 1794839775,
       "title": "What AI workflows actually help your daily work, the ones you can't live without?",
-      "score": 19,
-      "num_comments": 29,
+      "score": 21,
+      "num_comments": 31,
       "author": "g3Mo",
       "url": "https://www.reddit.com/r/automation/comments/1xxqxcd/what_ai_workflows_actually_help_your_daily_work/",
       "body": "This question was asked one year back in this sub, asking again. Lot has changed. ",
@@ -117,7 +139,7 @@
       "id": "1xxqlz6",
       "created_utc": 1794839000,
       "title": "Our AI employee runs follow-ups and routine work for a whole team. What would you automate first?",
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "author": "AshishKulkarni1411",
       "url": "https://www.reddit.com/r/automation/comments/1xxqlz6/our_ai_employee_runs_followups_and_routine_work/",
@@ -305,7 +327,7 @@
       "created_utc": 1794376991,
       "title": "Best way to set up multiple agents",
       "score": 3,
-      "num_comments": 8,
+      "num_comments": 9,
       "author": "sappy02",
       "url": "https://www.reddit.com/r/automation/comments/1xta56x/best_way_to_set_up_multiple_agents/",
       "body": "",
@@ -375,28 +397,6 @@
       "author": "curiousalwaze",
       "url": "https://www.reddit.com/r/automation/comments/1xs9hda/ai_agent/",
       "body": "Im looking to have an ai agent call insurance companies and do verification of benefits. Its basically the same 15 questions asked every time and put onto a sheet. Is there a way to do this somehow thats hippa compliant and also keeps cost per minute super low? Some calls last a few minutes but some can be up to 2 hours on hold. Ive seen companies that do this but dont know how they are doing it and also bypassing hippa. To be clear I dont want to violate hippa. Im looking to do it correctly. ",
-      "new": false
-    },
-    {
-      "id": "1xs5dun",
-      "created_utc": 1794262172,
-      "title": "Moved from factory CI in Poland to SF, trying to start an automation agency from zero. How did you get your first clients?",
-      "score": 15,
-      "num_comments": 15,
-      "author": "Background_Plate1164",
-      "url": "https://www.reddit.com/r/automation/comments/1xs5dun/moved_from_factory_ci_in_poland_to_sf_trying_to/",
-      "body": "Back in Poland I ran continuous improvement at a factory. Most of my automation experience comes from there: finding where production lost time and fixing it, more and more with AI. Now I\u2019m in SF trying to turn that into an agency. Honestly the last month has been the same day on repeat at my desk, which I know is the wrong way round. Where I\u2019m at: * comfortable with process work, much less with selling * interested in manufacturing, small business and e-commerce * no US clients yet, no local network For people who started without a network in the US: * what got you the first client? * did com",
-      "new": false
-    },
-    {
-      "id": "1xs0bbb",
-      "created_utc": 1794250663,
-      "title": "How to Build Custom AI Workflows Without Writing Code",
-      "score": 2,
-      "num_comments": 2,
-      "author": "Ok_pettech",
-      "url": "https://www.reddit.com/r/automation/comments/1xs0bbb/how_to_build_custom_ai_workflows_without_writing/",
-      "body": "",
       "new": false
     }
   ],
