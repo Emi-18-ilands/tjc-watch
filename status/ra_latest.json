@@ -1,29 +1,51 @@
 {
-  "checked_at": "2026-11-17T18:27:57.048224+00:00",
+  "checked_at": "2026-11-18T01:14:08.577116+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1xyvmsg",
+      "created_utc": 1794948109,
+      "title": "Is anyone else tired of maintaining CSS selectors for structured web extraction?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "stretchmid",
+      "url": "https://www.reddit.com/r/automation/comments/1xyvmsg/is_anyone_else_tired_of_maintaining_css_selectors/",
+      "body": "I've been maintaining a pipeline that extracts company information from different websites. The output needs to be fairly consistent: Company name, industry, headquarters, employee count, pricing model, product categories and a few other fields. The original implementation used CSS selectors and some custom parsing logic. It worked well enough until websites started changing their layouts. A selector that worked perfectly last month suddenly returns null, and then someone has to investigate whether the site changed, the data moved or the parser broke. I started looking into schema-based extrac",
+      "new": true
+    },
+    {
+      "id": "1xyup5u",
+      "created_utc": 1794945893,
+      "title": "Where to Start?",
+      "score": 1,
+      "num_comments": 9,
+      "author": "240221",
+      "url": "https://www.reddit.com/r/automation/comments/1xyup5u/where_to_start/",
+      "body": "As the title says, I need help figuring out where to start with something. Generally, I want to automate the process my clients can use when completing an important form. More specifically: There is a form that financial institutions have to submit periodically to regulators. It's not hard-hard, but it's not easy. It requires the person completing it to make certain choices (about which pages in the form need to be completed) and then to fill in certain information. About 25% of it includes math calculations. I have created a fillable PDF for them to use and have given them instructions. Howev",
+      "new": true
+    },
+    {
       "id": "1xyos4u",
       "created_utc": 1794932543,
       "title": "How do you automate Text based on its content ?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 3,
+      "num_comments": 19,
       "author": "livingthe20s",
       "url": "https://www.reddit.com/r/automation/comments/1xyos4u/how_do_you_automate_text_based_on_its_content/",
       "body": "Hi I got hired in a company and they want me to solve this issue : They receive various and enormous amount of receipts in database , they contain different types of description, they want me to build something that can classify the description based on certain universal classification (can\u2019t mention it) For instance, Classify is it candy or medicine ? or whatever kind of product. If anyone has any useful ideas or even slightly similar experiences, useful websites or anything, I would appreciate it. ",
-      "new": true
+      "new": false
     },
     {
       "id": "1xyh006",
       "created_utc": 1794911112,
       "title": "Which approach to ai agents in slack actually works for ops?",
-      "score": 16,
-      "num_comments": 18,
+      "score": 20,
+      "num_comments": 20,
       "author": "flaresomewhere",
       "url": "https://www.reddit.com/r/automation/comments/1xyh006/which_approach_to_ai_agents_in_slack_actually/",
       "body": "We're a 31 person startup now and recurring ops stuff keeps landing in Slackanyway, so i've been trying to figure out if there's a smarter way to handle it there instead of bouncing between tabs. Looking at a couple different options but can't tell if some are built more for developers than for operators who just need things done. Anyone compared approaches and found one that actually fit a small team without a lot of setup overhead?",
-      "new": true
+      "new": false
     },
     {
       "id": "1xyausl",
@@ -40,8 +62,8 @@
       "id": "1xy0buz",
       "created_utc": 1794861007,
       "title": "Agents on different platforms and owned by different people: how do you get them to share updates?",
-      "score": 1,
-      "num_comments": 7,
+      "score": 4,
+      "num_comments": 8,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1xy0buz/agents_on_different_platforms_and_owned_by/",
       "body": "I work at Fulcra, so keep that in mind. We\u2019re building agent-to-agent communication, and the case we keep coming back to is two people on the same project, each with their own agents on different platforms. Right now, the only way one agent finds out what the other did is if one of you pastes it across. Agent-to-agent connections already work in what we have, but it\u2019s early and some parts are rough. \\[One concrete detail: how the connection works, or a real limitation.\\] What are you using today to connect agents? MCP, a shared database, your own glue code, or just copy-paste? Link in case it\u2019",
@@ -118,7 +140,7 @@
       "created_utc": 1794822647,
       "title": "How do you make RPA faster when there is no API?  \ud83e\udd14",
       "score": 5,
-      "num_comments": 17,
+      "num_comments": 21,
       "author": "ApprehensiveEmploy92",
       "url": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
       "body": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots to bridge the gap, but when a single process involves navigating several platforms, extracting information and entering it elsewhere, execution time can increase significantly. Context: partner portals with login gates. Currently, I am using Viktor for this, but the transparency is limited, even though the speed is great. Recreating from scratch in N8N with Claude and Playwright takes much more ti",
@@ -129,7 +151,7 @@
       "created_utc": 1794811925,
       "title": "Whats a good Exa alternative for people data?",
       "score": 15,
-      "num_comments": 17,
+      "num_comments": 18,
       "author": "Breoganhackett",
       "url": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
       "body": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go into the query text, so the agent writes something like \"senior backend engineers who used to work at Stripe\" and we get a mix of current Stripe people, people who wrote about Stripe and a few random ones. The work history fields exist but theyre often empty, and the contact info is prety weak, so every run ends with someone going through the list manually. What i need is structured, filter on curr",
@@ -293,7 +315,7 @@
       "id": "1xt39zs",
       "created_utc": 1794356294,
       "title": "Starting to test an AI browser that works inside logged-in sites. What should I throw at it?",
-      "score": 12,
+      "score": 10,
       "num_comments": 14,
       "author": "Separate-Might3082",
       "url": "https://www.reddit.com/r/automation/comments/1xt39zs/starting_to_test_an_ai_browser_that_works_inside/",
@@ -375,17 +397,6 @@
       "author": "Ok_pettech",
       "url": "https://www.reddit.com/r/automation/comments/1xs0bbb/how_to_build_custom_ai_workflows_without_writing/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1xrz3m7",
-      "created_utc": 1794247986,
-      "title": "What are the main problems in your workflows?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Appropriate_Case2976",
-      "url": "https://www.reddit.com/r/automation/comments/1xrz3m7/what_are_the_main_problems_in_your_workflows/",
-      "body": "[removed]",
       "new": false
     }
   ],
