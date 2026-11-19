@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-19T17:17:25.027991+00:00",
+  "checked_at": "2026-11-19T23:45:16.047098+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1y0ga0o",
+      "created_utc": 1795111478,
+      "title": "What do you guys use for outbound B2B cold calling? Gemini + Openclaw?",
+      "score": 1,
+      "num_comments": 2,
+      "author": "ProbablyDoesntLikeU",
+      "url": "https://www.reddit.com/r/automation/comments/1y0ga0o/what_do_you_guys_use_for_outbound_b2b_cold/",
+      "body": "",
+      "new": true
+    },
+    {
       "id": "1y0ban8",
       "created_utc": 1795099986,
       "title": "Power Automate/PowerBi Help",
-      "score": 1,
-      "num_comments": 1,
+      "score": 4,
+      "num_comments": 13,
       "author": "bwattstl",
       "url": "https://www.reddit.com/r/automation/comments/1y0ban8/power_automatepowerbi_help/",
       "body": "Hello, I am trying to automate sending weekly emails for past due invoices to our clients. The portfolio consists of about 90 clients who have invoices past due. Our aging and invoice data is kept in PowerBi. I only have a free version. I have ZERO knowledge of automating and am looking for help on how to create a flow in Power Automate that triggers on a set day each week to pull excel aging documents from PowerBi for clients that have invoices over 90 days old. Once it has found that data, I\u2019d like it to create a separate excel document for each unique client name, attach that to an email wi",
-      "new": true
+      "new": false
     },
     {
       "id": "1xzvnun",
@@ -63,7 +74,7 @@
       "created_utc": 1794991924,
       "title": "What should a handoff note for a workflow include?",
       "score": 19,
-      "num_comments": 24,
+      "num_comments": 25,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xzaeql/what_should_a_handoff_note_for_a_workflow_include/",
       "body": "I built a few small workflows for my team and I realized no one else knows how they work. I started a short note for each one covering what starts it. What do you put in yours and what turned out to be unnecessary?",
@@ -73,8 +84,8 @@
       "id": "1xz8l29",
       "created_utc": 1794984799,
       "title": "$900 a month on slideshow images cut to $135 by generating 1 slide instead of 7",
-      "score": 4,
-      "num_comments": 8,
+      "score": 5,
+      "num_comments": 9,
       "author": "Academic-Tailor8716",
       "url": "https://www.reddit.com/r/automation/comments/1xz8l29/900_a_month_on_slideshow_images_cut_to_135_by/",
       "body": "Ai images get expensive fast once you post every day. this is the cleanest fix for it i've come across. alex nguyen ran the numbers in a post on x. a 7 slide deck with chatgpt images 2.0 at high quality is about $0.70-1.00. at 30 slideshows a day that's $600-900 a month, just on images. so he gave each slide a job: slide 1, the hook, gets a custom ai image because it has to match the topic exactly slides 2-6 use photos from a pinterest library, matched by mood and tags, with text added locally using sharp the last slide reuses a template background one ai image instead of seven. about $0.15 pe",
@@ -96,7 +107,7 @@
       "created_utc": 1794945893,
       "title": "Where to Start?",
       "score": 4,
-      "num_comments": 26,
+      "num_comments": 29,
       "author": "240221",
       "url": "https://www.reddit.com/r/automation/comments/1xyup5u/where_to_start/",
       "body": "As the title says, I need help figuring out where to start with something. Generally, I want to automate the process my clients can use when completing an important form. More specifically: There is a form that financial institutions have to submit periodically to regulators. It's not hard-hard, but it's not easy. It requires the person completing it to make certain choices (about which pages in the form need to be completed) and then to fill in certain information. About 25% of it includes math calculations. I have created a fillable PDF for them to use and have given them instructions. Howev",
@@ -353,17 +364,6 @@
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xtprzy/how_do_you_decide_whether_a_task_is_worth/",
       "body": "My rule of thumb is that it has to happen at least weekly, take more than ten minutes by hand and be boring enough that I\u2019d never miss doing it. Anything that needs judgment each time usually costs me more to automate than it saves. What\u2019s your test and what\u2019s something you automated that turned out to be a mistake?",
-      "new": false
-    },
-    {
-      "id": "1xtkszq",
-      "created_utc": 1794411265,
-      "title": "Updated my reconciliation workflow: it takes PDFs now, and outputs Excel instead of a report page",
-      "score": 2,
-      "num_comments": 2,
-      "author": "easybits_ai",
-      "url": "https://www.reddit.com/r/automation/comments/1xtkszq/updated_my_reconciliation_workflow_it_takes_pdfs/",
-      "body": "",
       "new": false
     }
   ],
