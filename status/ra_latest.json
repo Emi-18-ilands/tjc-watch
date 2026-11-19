@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-19T00:14:42.065487+00:00",
+  "checked_at": "2026-11-19T07:50:26.304819+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1xzvnun",
+      "created_utc": 1795048396,
+      "title": "What is really happening in America: Cyber Attacks, delays, and overall instability? Can anybody figure it out?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "MondoInDenver",
+      "url": "https://www.reddit.com/r/automation/comments/1xzvnun/what_is_really_happening_in_america_cyber_attacks/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1xzln3i",
       "created_utc": 1795023979,
@@ -29,8 +40,8 @@
       "id": "1xzihxo",
       "created_utc": 1795016834,
       "title": "What tasks do you want handled by AI and which tasks do you not want to babysit AI on?",
-      "score": 12,
-      "num_comments": 13,
+      "score": 14,
+      "num_comments": 14,
       "author": "OverAgentRoger",
       "url": "https://www.reddit.com/r/automation/comments/1xzihxo/what_tasks_do_you_want_handled_by_ai_and_which/",
       "body": "",
@@ -84,8 +95,8 @@
       "id": "1xyos4u",
       "created_utc": 1794932543,
       "title": "How do you automate Text based on its content ?",
-      "score": 5,
-      "num_comments": 22,
+      "score": 6,
+      "num_comments": 24,
       "author": "livingthe20s",
       "url": "https://www.reddit.com/r/automation/comments/1xyos4u/how_do_you_automate_text_based_on_its_content/",
       "body": "Hi I got hired in a company and they want me to solve this issue : They receive various and enormous amount of receipts in database , they contain different types of description, they want me to build something that can classify the description based on certain universal classification (can\u2019t mention it) For instance, Classify is it candy or medicine ? or whatever kind of product. If anyone has any useful ideas or even slightly similar experiences, useful websites or anything, I would appreciate it. ",
@@ -364,17 +375,6 @@
       "author": "sappy02",
       "url": "https://www.reddit.com/r/automation/comments/1xta56x/best_way_to_set_up_multiple_agents/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1xt39zs",
-      "created_utc": 1794356294,
-      "title": "Starting to test an AI browser that works inside logged-in sites. What should I throw at it?",
-      "score": 10,
-      "num_comments": 14,
-      "author": "Separate-Might3082",
-      "url": "https://www.reddit.com/r/automation/comments/1xt39zs/starting_to_test_an_ai_browser_that_works_inside/",
-      "body": "Everyone talks about AI browser agents clicking around for generic tasks. But looking at tools like Aside that operate directly inside active, logged-in browser sessions, where is the actual utility? Which repetitive web chores would you trust an agent with day-to-day? Copying data across internal tabs? Filling out multi-step operational forms? Pulling data from authenticated dashboards every morning? I\u2019m running a few local tests on my setup this week. Drop your best use cases or weird edge cases in the comments, and I\u2019ll test them out and report back on what actually works versus what breaks",
       "new": false
     }
   ],
