@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-19T07:50:26.304819+00:00",
+  "checked_at": "2026-11-19T17:17:25.027991+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y0ban8",
+      "created_utc": 1795099986,
+      "title": "Power Automate/PowerBi Help",
+      "score": 1,
+      "num_comments": 1,
+      "author": "bwattstl",
+      "url": "https://www.reddit.com/r/automation/comments/1y0ban8/power_automatepowerbi_help/",
+      "body": "Hello, I am trying to automate sending weekly emails for past due invoices to our clients. The portfolio consists of about 90 clients who have invoices past due. Our aging and invoice data is kept in PowerBi. I only have a free version. I have ZERO knowledge of automating and am looking for help on how to create a flow in Power Automate that triggers on a set day each week to pull excel aging documents from PowerBi for clients that have invoices over 90 days old. Once it has found that data, I\u2019d like it to create a separate excel document for each unique client name, attach that to an email wi",
+      "new": true
+    },
     {
       "id": "1xzvnun",
       "created_utc": 1795048396,
@@ -12,7 +23,7 @@
       "author": "MondoInDenver",
       "url": "https://www.reddit.com/r/automation/comments/1xzvnun/what_is_really_happening_in_america_cyber_attacks/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1xzln3i",
@@ -30,7 +41,7 @@
       "created_utc": 1795017677,
       "title": "Full mouse and keyboard automation All in 1",
       "score": 2,
-      "num_comments": 4,
+      "num_comments": 5,
       "author": "Spaccamazza1",
       "url": "https://www.reddit.com/r/automation/comments/1xziuyg/full_mouse_and_keyboard_automation_all_in_1/",
       "body": "I'm trying to find a free software that can replicate this one: \"Automatic mouse and keyboard by RoboSoft\" (not free!) Does anyone want to take the challenge and make a github repo? I don't have access to a good paid AI model, but i think it would take only some days, even using AHK could be a solution",
@@ -40,8 +51,8 @@
       "id": "1xzihxo",
       "created_utc": 1795016834,
       "title": "What tasks do you want handled by AI and which tasks do you not want to babysit AI on?",
-      "score": 14,
-      "num_comments": 14,
+      "score": 21,
+      "num_comments": 19,
       "author": "OverAgentRoger",
       "url": "https://www.reddit.com/r/automation/comments/1xzihxo/what_tasks_do_you_want_handled_by_ai_and_which/",
       "body": "",
@@ -51,7 +62,7 @@
       "id": "1xzaeql",
       "created_utc": 1794991924,
       "title": "What should a handoff note for a workflow include?",
-      "score": 17,
+      "score": 19,
       "num_comments": 24,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xzaeql/what_should_a_handoff_note_for_a_workflow_include/",
@@ -315,8 +326,8 @@
       "id": "1xu9u34",
       "created_utc": 1794480978,
       "title": "Anyone else feel like AI automation needs more babysitting than expected?",
-      "score": 19,
-      "num_comments": 33,
+      "score": 28,
+      "num_comments": 40,
       "author": "Cloudy_Day912",
       "url": "https://www.reddit.com/r/automation/comments/1xu9u34/anyone_else_feel_like_ai_automation_needs_more/",
       "body": "I keep seeing people talk about automating everything with AI, but I'm starting to wonder how much of it actually runs smoothly without someone constantly checking things. Like, automating repetitive tasks sounds great until something unexpected happens and the whole workflow starts acting weird.I was looking through some AI discussions earlier, came across geekyants, and ended up going down a rabbit hole about how much human involvement these automated systems still need. The part that gets me is when you spend more time fixing an automation than you would've spent doing the task manually. Ha",
@@ -352,28 +363,6 @@
       "num_comments": 2,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1xtkszq/updated_my_reconciliation_workflow_it_takes_pdfs/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1xtjdhj",
-      "created_utc": 1794407879,
-      "title": "Anyone else feel like AI automation needs more babysitting than expected?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "Far-Environment-478",
-      "url": "https://www.reddit.com/r/automation/comments/1xtjdhj/anyone_else_feel_like_ai_automation_needs_more/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xta56x",
-      "created_utc": 1794376991,
-      "title": "Best way to set up multiple agents",
-      "score": 3,
-      "num_comments": 9,
-      "author": "sappy02",
-      "url": "https://www.reddit.com/r/automation/comments/1xta56x/best_way_to_set_up_multiple_agents/",
       "body": "",
       "new": false
     }
