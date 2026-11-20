@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T23:45:16.047098+00:00",
+  "checked_at": "2026-11-20T06:59:41.358522+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,11 +8,11 @@
       "created_utc": 1795111478,
       "title": "What do you guys use for outbound B2B cold calling? Gemini + Openclaw?",
       "score": 1,
-      "num_comments": 2,
+      "num_comments": 6,
       "author": "ProbablyDoesntLikeU",
       "url": "https://www.reddit.com/r/automation/comments/1y0ga0o/what_do_you_guys_use_for_outbound_b2b_cold/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1y0ban8",
@@ -52,7 +52,7 @@
       "created_utc": 1795017677,
       "title": "Full mouse and keyboard automation All in 1",
       "score": 2,
-      "num_comments": 5,
+      "num_comments": 10,
       "author": "Spaccamazza1",
       "url": "https://www.reddit.com/r/automation/comments/1xziuyg/full_mouse_and_keyboard_automation_all_in_1/",
       "body": "I'm trying to find a free software that can replicate this one: \"Automatic mouse and keyboard by RoboSoft\" (not free!) Does anyone want to take the challenge and make a github repo? I don't have access to a good paid AI model, but i think it would take only some days, even using AHK could be a solution",
@@ -62,8 +62,8 @@
       "id": "1xzihxo",
       "created_utc": 1795016834,
       "title": "What tasks do you want handled by AI and which tasks do you not want to babysit AI on?",
-      "score": 21,
-      "num_comments": 19,
+      "score": 24,
+      "num_comments": 21,
       "author": "OverAgentRoger",
       "url": "https://www.reddit.com/r/automation/comments/1xzihxo/what_tasks_do_you_want_handled_by_ai_and_which/",
       "body": "",
@@ -326,8 +326,8 @@
       "id": "1xuuj3d",
       "created_utc": 1794532569,
       "title": "Anyone managed to get an AI agent to actually complete a purchase?",
-      "score": 37,
-      "num_comments": 26,
+      "score": 35,
+      "num_comments": 25,
       "author": "Mundane-Asparagus850",
       "url": "https://www.reddit.com/r/automation/comments/1xuuj3d/anyone_managed_to_get_an_ai_agent_to_actually/",
       "body": "Trying to get into automating some smaller purchases, mostly stuff like software credits or replacement equipment. Getting an agent to find what I need and reach checkout seems easy enough. The payment part is where I'm stuck. I'm not exactly comfortable giving an AI my regular card details. I already use Oobit and saw they now have this one called Agent Pay, which apparently lets an agent use a one time virtual card funded from your Oobit balance. Sounds pretty useful for one off purchases but has anyone actually tried this yet even with others?",
@@ -353,17 +353,6 @@
       "author": "denedeh",
       "url": "https://www.reddit.com/r/automation/comments/1xu7i4p/how_can_i_build_a_claude_workflow_to_read_and/",
       "body": "i run marketplace accounts at an agency, mostly Amazon but also walmart and some DTC brands. Part of my job is keeping track of a list of people who post about whats happening on amazon. sellers and people who work with brands that sell there. most of the useful stuff is in the comments. when amazon launched a new type of ad service, the posts mostly said what it was. The replies were where people said if they liked it or not and what they were seeing on there end. thats what my team actually wants to know. Right now its about 2 hours a week between me and the team going through it by hand. so",
-      "new": false
-    },
-    {
-      "id": "1xtprzy",
-      "created_utc": 1794422261,
-      "title": "How do you decide whether a task is worth automating?",
-      "score": 19,
-      "num_comments": 34,
-      "author": "ibrahim_40",
-      "url": "https://www.reddit.com/r/automation/comments/1xtprzy/how_do_you_decide_whether_a_task_is_worth/",
-      "body": "My rule of thumb is that it has to happen at least weekly, take more than ten minutes by hand and be boring enough that I\u2019d never miss doing it. Anything that needs judgment each time usually costs me more to automate than it saves. What\u2019s your test and what\u2019s something you automated that turned out to be a mistake?",
       "new": false
     }
   ],
