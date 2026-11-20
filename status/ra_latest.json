@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-20T06:59:41.358522+00:00",
+  "checked_at": "2026-11-20T16:01:55.041073+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,7 +8,7 @@
       "created_utc": 1795111478,
       "title": "What do you guys use for outbound B2B cold calling? Gemini + Openclaw?",
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 7,
       "author": "ProbablyDoesntLikeU",
       "url": "https://www.reddit.com/r/automation/comments/1y0ga0o/what_do_you_guys_use_for_outbound_b2b_cold/",
       "body": "",
@@ -315,7 +315,7 @@
       "id": "1xv3xd3",
       "created_utc": 1794563948,
       "title": "I used my browser automation tool to find a name for itself",
-      "score": 2,
+      "score": 3,
       "num_comments": 3,
       "author": "RealSirJoe",
       "url": "https://www.reddit.com/r/automation/comments/1xv3xd3/i_used_my_browser_automation_tool_to_find_a_name/",
