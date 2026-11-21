@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-21T19:04:59.642968+00:00",
+  "checked_at": "2026-11-21T23:46:04.124908+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y29nfr",
+      "created_utc": 1795301004,
+      "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
+      "score": 1,
+      "num_comments": 1,
+      "author": "jesseweimer",
+      "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
+      "body": "",
+      "new": true
+    },
+    {
+      "id": "1y28r16",
+      "created_utc": 1795298448,
+      "title": "A photoshoot gets rescheduled twice\u2014how do you prevent the wrong reminder?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Far-Mammoth-1593",
+      "url": "https://www.reddit.com/r/automation/comments/1y28r16/a_photoshoot_gets_rescheduled_twicehow_do_you/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1y1yq08",
       "created_utc": 1795272396,
@@ -12,18 +34,18 @@
       "author": "Expensive-Sir-8818",
       "url": "https://www.reddit.com/r/automation/comments/1y1yq08/is_there_anyway_which_we_can_validate_emails_send/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y1y8ok",
       "created_utc": 1795271057,
       "title": "Anyone else built an MCP server into their own tool? Curious what you ran into",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1y1y8ok/anyone_else_built_an_mcp_server_into_their_own/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1y1k735",
@@ -62,8 +84,8 @@
       "id": "1y1dc2e",
       "created_utc": 1795204990,
       "title": "Could AI help with the boring parts of living together?",
-      "score": 0,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 2,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y1dc2e/could_ai_help_with_the_boring_parts_of_living/",
       "body": "iving with someone means keeping track of a lot of small things. Who paid the electricity bill? Are we out of groceries? Did someone book the vet appointment? None of it is hard. It\u2019s just a lot of remembering and double-checking, and it tends to turn into \u201cwait, did you already do that?\u201d more often than anyone would like. Now imagine you each have your own AI assistant. Yours knows the electricity bill is paid. Your partner\u2019s knows the vet appointment still isn\u2019t booked. Instead of adding one more shared app to keep updated, the two could sort out who has done what, sharing only what the othe",
@@ -342,39 +364,6 @@
       "author": "Nonononikkii",
       "url": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
       "body": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal audit wants, for any given run, which steps executed, what the screen looked like at each one, what the expected result was, and why a step got marked as passed. with Playwright plus Allure I can produce most of that for the web systems, and Selenium with the same reporting layer is the same story. desktop is where it thins out. Tosca and Ranorex both produce proper run documentation and that is ",
-      "new": false
-    },
-    {
-      "id": "1xvcqlu",
-      "created_utc": 1794588117,
-      "title": "I mapped 5 \"AI employee\" roles for a small construction firm, each with a setup interview instead of a long prompt",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Brave_Struggle_9727",
-      "url": "https://www.reddit.com/r/automation/comments/1xvcqlu/i_mapped_5_ai_employee_roles_for_a_small/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xvbwi9",
-      "created_utc": 1794586202,
-      "title": "The automation that works 95% of the time can be the most annoying one",
-      "score": 21,
-      "num_comments": 20,
-      "author": "FulcraDynamics",
-      "url": "https://www.reddit.com/r/automation/comments/1xvbwi9/the_automation_that_works_95_of_the_time_can_be/",
-      "body": "**The most annoying automations are the ones that almost always work** If an automation breaks every time, you notice pretty quickly. You either fix it or stop using it. The annoying ones are those that work fine for weeks, until one day they don't. Maybe an API changes, a field gets renamed, or something times out halfway through. And sometimes the workflow still shows up as successful, so you don't even realize anything went wrong. By the time you notice, you might have days of missing data or actions that never happened. I think we focus too much on how often automations succeed and not eno",
-      "new": false
-    },
-    {
-      "id": "1xv9cvr",
-      "created_utc": 1794580209,
-      "title": "The No-BS AI Agent Guide isn't about hype or possibility \u2014 it's about the 3 agents most small businesses actually need and how to set them up so they don't break",
-      "score": 1,
-      "num_comments": 1,
-      "author": "TruthUnique425",
-      "url": "https://www.reddit.com/r/automation/comments/1xv9cvr/the_nobs_ai_agent_guide_isnt_about_hype_or/",
-      "body": "[removed]",
       "new": false
     }
   ],
