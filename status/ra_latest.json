@@ -1,18 +1,40 @@
 {
-  "checked_at": "2026-11-20T22:37:07.396936+00:00",
+  "checked_at": "2026-11-21T03:27:04.417051+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1y1k735",
+      "created_utc": 1795223265,
+      "title": "What's one tedious but valuable task you wish you could automate? I'll help 20 people for free.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "aivanelabs",
+      "url": "https://www.reddit.com/r/automation/comments/1y1k735/whats_one_tedious_but_valuable_task_you_wish_you/",
+      "body": "I've become a little obsessed with automation. Everything from renewing certificates and testing my software to monitoring competitors and finding potential customers. Some are tiny time-savers. Others run in the background every day and handle things I used to spend hours on. The biggest difference? I spend much less time on repetitive work and more time on things that actually matter. I'm getting more done now with a smaller team than I had before. At this point, figuring out how to automate things has almost become a hobby. So I've been thinking: what if I turn this into my next project? Bu",
+      "new": true
+    },
+    {
+      "id": "1y1imfi",
+      "created_utc": 1795218832,
+      "title": "Title: Looking for an aspiring automation builder to co-build a workflow (Free portfolio case study!)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Ordinary-Economy3039",
+      "url": "https://www.reddit.com/r/automation/comments/1y1imfi/title_looking_for_an_aspiring_automation_builder/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1y1g0jm",
       "created_utc": 1795211788,
       "title": "What are some good Fyxer alternatives for automating emails and follow-ups?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 7,
       "author": "Tyler-Evans34",
       "url": "https://www.reddit.com/r/automation/comments/1y1g0jm/what_are_some_good_fyxer_alternatives_for/",
       "body": "I've been looking into AI tools to help manage emails and turn them into actual tasks, but I'm realizing a lot of them into actual tasks, but I'm realizing a lot of them still need quiet a bit of manual work Fyxer seems useful for inbox management, but I'm curious about alternatives that can handle more of the workflow. I've come across tools like Shortwave, Superhuman , and Lindy. From what I understand, some focus more on organizing emails, while others are geared toward automating follow-ups and repetitive tasks. Ideally, I'm looking for something that can: Sort and prioritize important ema",
-      "new": true
+      "new": false
     },
     {
       "id": "1y1dc2e",
@@ -23,7 +45,7 @@
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y1dc2e/could_ai_help_with_the_boring_parts_of_living/",
       "body": "iving with someone means keeping track of a lot of small things. Who paid the electricity bill? Are we out of groceries? Did someone book the vet appointment? None of it is hard. It\u2019s just a lot of remembering and double-checking, and it tends to turn into \u201cwait, did you already do that?\u201d more often than anyone would like. Now imagine you each have your own AI assistant. Yours knows the electricity bill is paid. Your partner\u2019s knows the vet appointment still isn\u2019t booked. Instead of adding one more shared app to keep updated, the two could sort out who has done what, sharing only what the othe",
-      "new": true
+      "new": false
     },
     {
       "id": "1y0ga0o",
@@ -40,8 +62,8 @@
       "id": "1y0ban8",
       "created_utc": 1795099986,
       "title": "Power Automate/PowerBi Help",
-      "score": 7,
-      "num_comments": 18,
+      "score": 6,
+      "num_comments": 19,
       "author": "bwattstl",
       "url": "https://www.reddit.com/r/automation/comments/1y0ban8/power_automatepowerbi_help/",
       "body": "Hello, I am trying to automate sending weekly emails for past due invoices to our clients. The portfolio consists of about 90 clients who have invoices past due. Our aging and invoice data is kept in PowerBi. I only have a free version. I have ZERO knowledge of automating and am looking for help on how to create a flow in Power Automate that triggers on a set day each week to pull excel aging documents from PowerBi for clients that have invoices over 90 days old. Once it has found that data, I\u2019d like it to create a separate excel document for each unique client name, attach that to an email wi",
