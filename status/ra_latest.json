@@ -1,18 +1,40 @@
 {
-  "checked_at": "2026-11-22T14:50:42.348734+00:00",
+  "checked_at": "2026-11-22T20:59:42.302816+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y2tjnv",
+      "created_utc": 1795365470,
+      "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
+      "score": 3,
+      "num_comments": 6,
+      "author": "Downtown_Pudding9728",
+      "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
+      "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
+      "new": true
+    },
+    {
+      "id": "1y2sat3",
+      "created_utc": 1795362300,
+      "title": "RAMbrandt, or: how much memory do I actually need to run models locally?",
+      "score": 0,
+      "num_comments": 3,
+      "author": "easybits_ai",
+      "url": "https://www.reddit.com/r/automation/comments/1y2sat3/rambrandt_or_how_much_memory_do_i_actually_need/",
+      "body": "\ud83d\udc4b Hey automation Community, RAM has somehow become the only laptop spec anyone talks about. Every thread about buying a machine turns into the same debate within three comments, especially once running models locally comes up. Someone in the office caught me deep in another one of those threads and started calling me RAMbrandt, so here we are. Anyway, I am actually buying one. Mostly normal work, but I also want to experiment with running smaller models locally rather than always hitting an API. 32 GB feels like the sensible answer. But I keep reading that 64 is where it stops being annoying, ",
+      "new": true
+    },
     {
       "id": "1y2irgu",
       "created_utc": 1795329868,
       "title": "How do you test an automation before trusting it with real data?",
       "score": 2,
-      "num_comments": 10,
+      "num_comments": 19,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1y2irgu/how_do_you_test_an_automation_before_trusting_it/",
       "body": "My process ensures that no unwanted updates have been made to customer records. After one initial run which accidentally updated some fields in error, I now ensure that everything runs on a copy of the data. Describe the testing procedures within your process. What caused you to introduce testing into your process?",
-      "new": true
+      "new": false
     },
     {
       "id": "1y29nfr",
@@ -331,17 +353,6 @@
       "author": "ApprehensiveEmploy92",
       "url": "https://www.reddit.com/r/automation/comments/1xxlfng/how_do_you_make_rpa_faster_when_there_is_no_api/",
       "body": "I'm facing an interesting challenge with automation: what happens when you need to collect data from multiple platforms and feed it into another system that doesn't offer an API? You can use RPA bots to bridge the gap, but when a single process involves navigating several platforms, extracting information and entering it elsewhere, execution time can increase significantly. Context: partner portals with login gates. Currently, I am using Viktor for this, but the transparency is limited, even though the speed is great. Recreating from scratch in N8N with Claude and Playwright takes much more ti",
-      "new": false
-    },
-    {
-      "id": "1xximwz",
-      "created_utc": 1794811925,
-      "title": "Whats a good Exa alternative for people data?",
-      "score": 15,
-      "num_comments": 18,
-      "author": "Breoganhackett",
-      "url": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
-      "body": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go into the query text, so the agent writes something like \"senior backend engineers who used to work at Stripe\" and we get a mix of current Stripe people, people who wrote about Stripe and a few random ones. The work history fields exist but theyre often empty, and the contact info is prety weak, so every run ends with someone going through the list manually. What i need is structured, filter on curr",
       "new": false
     }
   ],
