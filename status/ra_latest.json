@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-21T23:46:04.124908+00:00",
+  "checked_at": "2026-11-22T06:31:35.440322+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,11 +8,11 @@
       "created_utc": 1795301004,
       "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 5,
       "author": "jesseweimer",
       "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1y28r16",
@@ -23,7 +23,7 @@
       "author": "Far-Mammoth-1593",
       "url": "https://www.reddit.com/r/automation/comments/1y28r16/a_photoshoot_gets_rescheduled_twicehow_do_you/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y1yq08",
@@ -41,7 +41,7 @@
       "created_utc": 1795271057,
       "title": "Anyone else built an MCP server into their own tool? Curious what you ran into",
       "score": 1,
-      "num_comments": 2,
+      "num_comments": 3,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1y1y8ok/anyone_else_built_an_mcp_server_into_their_own/",
       "body": "",
@@ -51,8 +51,8 @@
       "id": "1y1k735",
       "created_utc": 1795223265,
       "title": "What's one tedious but valuable task you wish you could automate? I'll help 20 people for free.",
-      "score": 1,
-      "num_comments": 4,
+      "score": 3,
+      "num_comments": 8,
       "author": "aivanelabs",
       "url": "https://www.reddit.com/r/automation/comments/1y1k735/whats_one_tedious_but_valuable_task_you_wish_you/",
       "body": "I've become a little obsessed with automation. Everything from renewing certificates and testing my software to monitoring competitors and finding potential customers. Some are tiny time-savers. Others run in the background every day and handle things I used to spend hours on. The biggest difference? I spend much less time on repetitive work and more time on things that actually matter. I'm getting more done now with a smaller team than I had before. At this point, figuring out how to automate things has almost become a hobby. So I've been thinking: what if I turn this into my next project? Bu",
