@@ -1,14 +1,25 @@
 {
-  "checked_at": "2026-11-22T06:31:35.440322+00:00",
+  "checked_at": "2026-11-22T14:50:42.348734+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y2irgu",
+      "created_utc": 1795329868,
+      "title": "How do you test an automation before trusting it with real data?",
+      "score": 2,
+      "num_comments": 10,
+      "author": "ibrahim_40",
+      "url": "https://www.reddit.com/r/automation/comments/1y2irgu/how_do_you_test_an_automation_before_trusting_it/",
+      "body": "My process ensures that no unwanted updates have been made to customer records. After one initial run which accidentally updated some fields in error, I now ensure that everything runs on a copy of the data. Describe the testing procedures within your process. What caused you to introduce testing into your process?",
+      "new": true
+    },
     {
       "id": "1y29nfr",
       "created_utc": 1795301004,
       "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
       "score": 1,
-      "num_comments": 5,
+      "num_comments": 6,
       "author": "jesseweimer",
       "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
       "body": "",
@@ -84,7 +95,7 @@
       "id": "1y1dc2e",
       "created_utc": 1795204990,
       "title": "Could AI help with the boring parts of living together?",
-      "score": 2,
+      "score": 1,
       "num_comments": 2,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y1dc2e/could_ai_help_with_the_boring_parts_of_living/",
@@ -331,39 +342,6 @@
       "author": "Breoganhackett",
       "url": "https://www.reddit.com/r/automation/comments/1xximwz/whats_a_good_exa_alternative_for_people_data/",
       "body": "Im building a sourcing agent for our recruiting team. Exa has been the people layer so far, we thought its semantic search was good. the problem is filters like seniority or past employer have to go into the query text, so the agent writes something like \"senior backend engineers who used to work at Stripe\" and we get a mix of current Stripe people, people who wrote about Stripe and a few random ones. The work history fields exist but theyre often empty, and the contact info is prety weak, so every run ends with someone going through the list manually. What i need is structured, filter on curr",
-      "new": false
-    },
-    {
-      "id": "1xw53g3",
-      "created_utc": 1794670072,
-      "title": "How to create an ai agent that actually does stuff for my team?",
-      "score": 64,
-      "num_comments": 80,
-      "author": "flaresomewhere",
-      "url": "https://www.reddit.com/r/automation/comments/1xw53g3/how_to_create_an_ai_agent_that_actually_does/",
-      "body": "We're a 17-person startup and I've been down this rabbit hole for weeks. Every guide I find is written for developers or solo people. I just want something that handles recurring ops stuff without me having to babysit it or build some complicated setup. What have people actually used for this? Specifically curious what worked for small teams and what was a total waste of time.",
-      "new": false
-    },
-    {
-      "id": "1xvuwrd",
-      "created_utc": 1794636196,
-      "title": "What do you do when an important automation fails and you're not around?",
-      "score": 0,
-      "num_comments": 1,
-      "author": "no_semicolonn",
-      "url": "https://www.reddit.com/r/automation/comments/1xvuwrd/what_do_you_do_when_an_important_automation_fails/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1xvibii",
-      "created_utc": 1794600615,
-      "title": "which AI testing tools give auditable step by step run reports with screenshots and failure analysis?",
-      "score": 3,
-      "num_comments": 17,
-      "author": "Nonononikkii",
-      "url": "https://www.reddit.com/r/automation/comments/1xvibii/which_ai_testing_tools_give_auditable_step_by/",
-      "body": "I run test and monitoring automation for a few internal systems at an insurer. getting the tests to run was the easy part. the problem now is what I can hand over when someone asks for proof. Internal audit wants, for any given run, which steps executed, what the screen looked like at each one, what the expected result was, and why a step got marked as passed. with Playwright plus Allure I can produce most of that for the web systems, and Selenium with the same reporting layer is the same story. desktop is where it thins out. Tosca and Ranorex both produce proper run documentation and that is ",
       "new": false
     }
   ],
