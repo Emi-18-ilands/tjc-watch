@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-22T20:59:42.302816+00:00",
+  "checked_at": "2026-11-23T01:33:39.939486+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -8,22 +8,22 @@
       "created_utc": 1795365470,
       "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
       "score": 3,
-      "num_comments": 6,
+      "num_comments": 7,
       "author": "Downtown_Pudding9728",
       "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
       "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
-      "new": true
+      "new": false
     },
     {
       "id": "1y2sat3",
       "created_utc": 1795362300,
       "title": "RAMbrandt, or: how much memory do I actually need to run models locally?",
       "score": 0,
-      "num_comments": 3,
+      "num_comments": 5,
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1y2sat3/rambrandt_or_how_much_memory_do_i_actually_need/",
       "body": "\ud83d\udc4b Hey automation Community, RAM has somehow become the only laptop spec anyone talks about. Every thread about buying a machine turns into the same debate within three comments, especially once running models locally comes up. Someone in the office caught me deep in another one of those threads and started calling me RAMbrandt, so here we are. Anyway, I am actually buying one. Mostly normal work, but I also want to experiment with running smaller models locally rather than always hitting an API. 32 GB feels like the sensible answer. But I keep reading that 64 is where it stops being annoying, ",
-      "new": true
+      "new": false
     },
     {
       "id": "1y2irgu",
@@ -40,8 +40,8 @@
       "id": "1y29nfr",
       "created_utc": 1795301004,
       "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
-      "score": 1,
-      "num_comments": 6,
+      "score": 2,
+      "num_comments": 7,
       "author": "jesseweimer",
       "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
       "body": "",
@@ -84,8 +84,8 @@
       "id": "1y1k735",
       "created_utc": 1795223265,
       "title": "What's one tedious but valuable task you wish you could automate? I'll help 20 people for free.",
-      "score": 3,
-      "num_comments": 8,
+      "score": 5,
+      "num_comments": 9,
       "author": "aivanelabs",
       "url": "https://www.reddit.com/r/automation/comments/1y1k735/whats_one_tedious_but_valuable_task_you_wish_you/",
       "body": "I've become a little obsessed with automation. Everything from renewing certificates and testing my software to monitoring competitors and finding potential customers. Some are tiny time-savers. Others run in the background every day and handle things I used to spend hours on. The biggest difference? I spend much less time on repetitive work and more time on things that actually matter. I'm getting more done now with a smaller team than I had before. At this point, figuring out how to automate things has almost become a hobby. So I've been thinking: what if I turn this into my next project? Bu",
