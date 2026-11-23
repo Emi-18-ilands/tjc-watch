@@ -1,29 +1,40 @@
 {
-  "checked_at": "2026-11-23T09:43:07.103860+00:00",
+  "checked_at": "2026-11-23T21:59:17.570781+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1y3s4lz",
+      "created_utc": 1795463237,
+      "title": "Does anybody know what stack these channels use to make content?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Grouchy-Complaint246",
+      "url": "https://www.reddit.com/r/automation/comments/1y3s4lz/does_anybody_know_what_stack_these_channels_use/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1y3ceo8",
       "created_utc": 1795419947,
       "title": "Which API gateway is best for pulling life social media and company data into automated work flows?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 7,
+      "num_comments": 12,
       "author": "Secure-Specialist-62",
       "url": "https://www.reddit.com/r/automation/comments/1y3ceo8/which_api_gateway_is_best_for_pulling_life_social/",
       "body": "Tired of waking up on Monday to broken headless browser notes every time a platform to eggs its layout or throws upper captcha.I want to replace those British creeping steps in our schedule workflows with structured API calls for public social post and basic domain info.Game across Monet while looking for a single API layer so I doyhabe to maintain four different providers, though I'm not sure how consistent the data is on smaller sites.What are you guys using in your automations that actually stays up week after week?",
-      "new": true
+      "new": false
     },
     {
       "id": "1y3a8dw",
       "created_utc": 1795412068,
       "title": "The webhook that fired twice: how do you make an automation safe to run again?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 3,
+      "num_comments": 22,
       "author": "tariqosmani",
       "url": "https://www.reddit.com/r/automation/comments/1y3a8dw/the_webhook_that_fired_twice_how_do_you_make_an/",
       "body": "One webhook fired twice, and one event sent two invoices. Senders retry all the time, so a duplicate isn't a bug. It's a certainty. Now I build every automation to survive it. Three rules: 1. A unique key per event. Take the event ID from the payload and store it with a unique constraint. If there's no ID, build one from the fields that identify the event. 2. Claim the row before you process it. Insert it with a status of \"processing\" first, do the work, then flip it to \"done\". The second delivery finds the row already claimed and stops. 3. Cheap actions run alone. Anything that changes money ",
-      "new": true
+      "new": false
     },
     {
       "id": "1y39oxt",
@@ -34,7 +45,7 @@
       "author": "beeai_ops2026",
       "url": "https://www.reddit.com/r/automation/comments/1y39oxt/how_do_you_stop_writing_fragile_oneoff_scripts/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y36bl0",
@@ -45,14 +56,14 @@
       "author": "Careful_Hedgehog_502",
       "url": "https://www.reddit.com/r/automation/comments/1y36bl0/my_n8n_flow_breaks_at_the_voice_step_so_how_do_i/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y2tjnv",
       "created_utc": 1795365470,
       "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
-      "score": 6,
-      "num_comments": 10,
+      "score": 5,
+      "num_comments": 11,
       "author": "Downtown_Pudding9728",
       "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
       "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
@@ -73,8 +84,8 @@
       "id": "1y2irgu",
       "created_utc": 1795329868,
       "title": "How do you test an automation before trusting it with real data?",
-      "score": 4,
-      "num_comments": 26,
+      "score": 6,
+      "num_comments": 33,
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1y2irgu/how_do_you_test_an_automation_before_trusting_it/",
       "body": "My process ensures that no unwanted updates have been made to customer records. After one initial run which accidentally updated some fields in error, I now ensure that everything runs on a copy of the data. Describe the testing procedures within your process. What caused you to introduce testing into your process?",
@@ -84,7 +95,7 @@
       "id": "1y29nfr",
       "created_utc": 1795301004,
       "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
-      "score": 2,
+      "score": 1,
       "num_comments": 7,
       "author": "jesseweimer",
       "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
@@ -254,72 +265,6 @@
       "author": "Academic-Tailor8716",
       "url": "https://www.reddit.com/r/automation/comments/1xz8l29/900_a_month_on_slideshow_images_cut_to_135_by/",
       "body": "Ai images get expensive fast once you post every day. this is the cleanest fix for it i've come across. alex nguyen ran the numbers in a post on x. a 7 slide deck with chatgpt images 2.0 at high quality is about $0.70-1.00. at 30 slideshows a day that's $600-900 a month, just on images. so he gave each slide a job: slide 1, the hook, gets a custom ai image because it has to match the topic exactly slides 2-6 use photos from a pinterest library, matched by mood and tags, with text added locally using sharp the last slide reuses a template background one ai image instead of seven. about $0.15 pe",
-      "new": false
-    },
-    {
-      "id": "1xyvmsg",
-      "created_utc": 1794948109,
-      "title": "Is anyone else tired of maintaining CSS selectors for structured web extraction?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "stretchmid",
-      "url": "https://www.reddit.com/r/automation/comments/1xyvmsg/is_anyone_else_tired_of_maintaining_css_selectors/",
-      "body": "I've been maintaining a pipeline that extracts company information from different websites. The output needs to be fairly consistent: Company name, industry, headquarters, employee count, pricing model, product categories and a few other fields. The original implementation used CSS selectors and some custom parsing logic. It worked well enough until websites started changing their layouts. A selector that worked perfectly last month suddenly returns null, and then someone has to investigate whether the site changed, the data moved or the parser broke. I started looking into schema-based extrac",
-      "new": false
-    },
-    {
-      "id": "1xyup5u",
-      "created_utc": 1794945893,
-      "title": "Where to Start?",
-      "score": 4,
-      "num_comments": 29,
-      "author": "240221",
-      "url": "https://www.reddit.com/r/automation/comments/1xyup5u/where_to_start/",
-      "body": "As the title says, I need help figuring out where to start with something. Generally, I want to automate the process my clients can use when completing an important form. More specifically: There is a form that financial institutions have to submit periodically to regulators. It's not hard-hard, but it's not easy. It requires the person completing it to make certain choices (about which pages in the form need to be completed) and then to fill in certain information. About 25% of it includes math calculations. I have created a fillable PDF for them to use and have given them instructions. Howev",
-      "new": false
-    },
-    {
-      "id": "1xyos4u",
-      "created_utc": 1794932543,
-      "title": "How do you automate Text based on its content ?",
-      "score": 6,
-      "num_comments": 24,
-      "author": "livingthe20s",
-      "url": "https://www.reddit.com/r/automation/comments/1xyos4u/how_do_you_automate_text_based_on_its_content/",
-      "body": "Hi I got hired in a company and they want me to solve this issue : They receive various and enormous amount of receipts in database , they contain different types of description, they want me to build something that can classify the description based on certain universal classification (can\u2019t mention it) For instance, Classify is it candy or medicine ? or whatever kind of product. If anyone has any useful ideas or even slightly similar experiences, useful websites or anything, I would appreciate it. ",
-      "new": false
-    },
-    {
-      "id": "1xyh006",
-      "created_utc": 1794911112,
-      "title": "Which approach to ai agents in slack actually works for ops?",
-      "score": 17,
-      "num_comments": 24,
-      "author": "flaresomewhere",
-      "url": "https://www.reddit.com/r/automation/comments/1xyh006/which_approach_to_ai_agents_in_slack_actually/",
-      "body": "We're a 31 person startup now and recurring ops stuff keeps landing in Slackanyway, so i've been trying to figure out if there's a smarter way to handle it there instead of bouncing between tabs. Looking at a couple different options but can't tell if some are built more for developers than for operators who just need things done. Anyone compared approaches and found one that actually fit a small team without a lot of setup overhead?",
-      "new": false
-    },
-    {
-      "id": "1xyausl",
-      "created_utc": 1794889000,
-      "title": "My Monday team briefing took one text to set up. Here\u2019s the text and what it sends me",
-      "score": 1,
-      "num_comments": 7,
-      "author": "David-Davey",
-      "url": "https://www.reddit.com/r/automation/comments/1xyausl/my_monday_team_briefing_took_one_text_to_set_up/",
-      "body": "Hi everyone, I\u2019m David. I work at Autonomous. Every Monday I need the same three things: what the team got done, what went wrong, and what\u2019s waiting on me. We\u2019ve tried the usual ways like, a Monday status meeting, async updates in Slack, me scrolling GitHub before coffee. They all work fine, but each one costs something. Meetings take everyone\u2019s time, written updates get thinner after a few weeks, and doing it myself eats the morning. To solve it, we built the Autonomous Intern, a small AI agent box we make that sits on the desk and runs tasks in the background. The setup was one text: *\u201cEvery",
-      "new": false
-    },
-    {
-      "id": "1xy0buz",
-      "created_utc": 1794861007,
-      "title": "Agents on different platforms and owned by different people: how do you get them to share updates?",
-      "score": 6,
-      "num_comments": 10,
-      "author": "FulcraDynamics",
-      "url": "https://www.reddit.com/r/automation/comments/1xy0buz/agents_on_different_platforms_and_owned_by/",
-      "body": "I work at Fulcra, so keep that in mind. We\u2019re building agent-to-agent communication, and the case we keep coming back to is two people on the same project, each with their own agents on different platforms. Right now, the only way one agent finds out what the other did is if one of you pastes it across. Agent-to-agent connections already work in what we have, but it\u2019s early and some parts are rough. \\[One concrete detail: how the connection works, or a real limitation.\\] What are you using today to connect agents? MCP, a shared database, your own glue code, or just copy-paste? Link in case it\u2019",
       "new": false
     }
   ],
