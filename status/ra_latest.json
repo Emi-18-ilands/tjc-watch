@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-23T21:59:17.570781+00:00",
+  "checked_at": "2026-11-24T05:54:42.468726+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y40edc",
+      "created_utc": 1795484023,
+      "title": "How would you organize and semi-automate client replies in a partner portal? (Law firm \u2194\ufe0f consulting company, ~90 unread messages)",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Special_Donkey_1244",
+      "url": "https://www.reddit.com/r/automation/comments/1y40edc/how_would_you_organize_and_semiautomate_client/",
+      "body": "",
+      "new": true
+    },
+    {
+      "id": "1y40bj3",
+      "created_utc": 1795483793,
+      "title": "Anyone here using Ramp Inspect for bug reproduction?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Plastic_Shine5068",
+      "url": "https://www.reddit.com/r/automation/comments/1y40bj3/anyone_here_using_ramp_inspect_for_bug/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1y3s4lz",
       "created_utc": 1795463237,
@@ -12,7 +34,7 @@
       "author": "Grouchy-Complaint246",
       "url": "https://www.reddit.com/r/automation/comments/1y3s4lz/does_anybody_know_what_stack_these_channels_use/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y3ceo8",
@@ -62,8 +84,8 @@
       "id": "1y2tjnv",
       "created_utc": 1795365470,
       "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
-      "score": 5,
-      "num_comments": 11,
+      "score": 6,
+      "num_comments": 12,
       "author": "Downtown_Pudding9728",
       "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
       "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
@@ -254,17 +276,6 @@
       "author": "ibrahim_40",
       "url": "https://www.reddit.com/r/automation/comments/1xzaeql/what_should_a_handoff_note_for_a_workflow_include/",
       "body": "I built a few small workflows for my team and I realized no one else knows how they work. I started a short note for each one covering what starts it. What do you put in yours and what turned out to be unnecessary?",
-      "new": false
-    },
-    {
-      "id": "1xz8l29",
-      "created_utc": 1794984799,
-      "title": "$900 a month on slideshow images cut to $135 by generating 1 slide instead of 7",
-      "score": 5,
-      "num_comments": 9,
-      "author": "Academic-Tailor8716",
-      "url": "https://www.reddit.com/r/automation/comments/1xz8l29/900_a_month_on_slideshow_images_cut_to_135_by/",
-      "body": "Ai images get expensive fast once you post every day. this is the cleanest fix for it i've come across. alex nguyen ran the numbers in a post on x. a 7 slide deck with chatgpt images 2.0 at high quality is about $0.70-1.00. at 30 slideshows a day that's $600-900 a month, just on images. so he gave each slide a job: slide 1, the hook, gets a custom ai image because it has to match the topic exactly slides 2-6 use photos from a pinterest library, matched by mood and tags, with text added locally using sharp the last slide reuses a template background one ai image instead of seven. about $0.15 pe",
       "new": false
     }
   ],
