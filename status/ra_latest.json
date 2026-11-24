@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-24T05:54:42.468726+00:00",
+  "checked_at": "2026-11-24T17:29:44.370242+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1y4h5fb",
+      "created_utc": 1795536489,
+      "title": "Future-proofing GTM Engineering: What are you adding to your stack right now?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "falgun_jadhav",
+      "url": "https://www.reddit.com/r/automation/comments/1y4h5fb/futureproofing_gtm_engineering_what_are_you/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1y40edc",
       "created_utc": 1795484023,
       "title": "How would you organize and semi-automate client replies in a partner portal? (Law firm \u2194\ufe0f consulting company, ~90 unread messages)",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 19,
       "author": "Special_Donkey_1244",
       "url": "https://www.reddit.com/r/automation/comments/1y40edc/how_would_you_organize_and_semiautomate_client/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1y40bj3",
@@ -23,7 +34,7 @@
       "author": "Plastic_Shine5068",
       "url": "https://www.reddit.com/r/automation/comments/1y40bj3/anyone_here_using_ramp_inspect_for_bug/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y3s4lz",
@@ -41,7 +52,7 @@
       "created_utc": 1795419947,
       "title": "Which API gateway is best for pulling life social media and company data into automated work flows?",
       "score": 7,
-      "num_comments": 12,
+      "num_comments": 13,
       "author": "Secure-Specialist-62",
       "url": "https://www.reddit.com/r/automation/comments/1y3ceo8/which_api_gateway_is_best_for_pulling_life_social/",
       "body": "Tired of waking up on Monday to broken headless browser notes every time a platform to eggs its layout or throws upper captcha.I want to replace those British creeping steps in our schedule workflows with structured API calls for public social post and basic domain info.Game across Monet while looking for a single API layer so I doyhabe to maintain four different providers, though I'm not sure how consistent the data is on smaller sites.What are you guys using in your automations that actually stays up week after week?",
@@ -232,50 +243,6 @@
       "author": "MondoInDenver",
       "url": "https://www.reddit.com/r/automation/comments/1xzvnun/what_is_really_happening_in_america_cyber_attacks/",
       "body": "",
-      "new": false
-    },
-    {
-      "id": "1xzln3i",
-      "created_utc": 1795023979,
-      "title": "Free API for OpenClaw Automations",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Any_Establishment293",
-      "url": "https://www.reddit.com/r/automation/comments/1xzln3i/free_api_for_openclaw_automations/",
-      "body": "Hey guys! I hope u are doing great. If you could give me some help that would be awesome. I am trying to integrate OpenClaw for the first time and I am looking for 100% free APIs. I tries through Google API by just creating a regular API key but for some reason now it's not letting me create any API key for free... I tried with a different Google account and the result is the same; in both cases I need to create the billing account and after that add some funds into the account to use it, so can you please confirm if Google does not offer free APIs anymore? Because it's not working to me tbh. ",
-      "new": false
-    },
-    {
-      "id": "1xziuyg",
-      "created_utc": 1795017677,
-      "title": "Full mouse and keyboard automation All in 1",
-      "score": 2,
-      "num_comments": 10,
-      "author": "Spaccamazza1",
-      "url": "https://www.reddit.com/r/automation/comments/1xziuyg/full_mouse_and_keyboard_automation_all_in_1/",
-      "body": "I'm trying to find a free software that can replicate this one: \"Automatic mouse and keyboard by RoboSoft\" (not free!) Does anyone want to take the challenge and make a github repo? I don't have access to a good paid AI model, but i think it would take only some days, even using AHK could be a solution",
-      "new": false
-    },
-    {
-      "id": "1xzihxo",
-      "created_utc": 1795016834,
-      "title": "What tasks do you want handled by AI and which tasks do you not want to babysit AI on?",
-      "score": 24,
-      "num_comments": 21,
-      "author": "OverAgentRoger",
-      "url": "https://www.reddit.com/r/automation/comments/1xzihxo/what_tasks_do_you_want_handled_by_ai_and_which/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1xzaeql",
-      "created_utc": 1794991924,
-      "title": "What should a handoff note for a workflow include?",
-      "score": 19,
-      "num_comments": 25,
-      "author": "ibrahim_40",
-      "url": "https://www.reddit.com/r/automation/comments/1xzaeql/what_should_a_handoff_note_for_a_workflow_include/",
-      "body": "I built a few small workflows for my team and I realized no one else knows how they work. I started a short note for each one covering what starts it. What do you put in yours and what turned out to be unnecessary?",
       "new": false
     }
   ],
