@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-25T10:23:51.331015+00:00",
+  "checked_at": "2026-11-25T20:07:21.197543+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y5b44d",
+      "created_utc": 1795622704,
+      "title": "An API request times out. Retrying might duplicate it. Not retrying might lose it. What do you do?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "LookResponsible1457",
+      "url": "https://www.reddit.com/r/automation/comments/1y5b44d/an_api_request_times_out_retrying_might_duplicate/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1y531ya",
       "created_utc": 1795598619,
@@ -12,7 +23,7 @@
       "author": "wybombisko",
       "url": "https://www.reddit.com/r/automation/comments/1y531ya/help_how_to_download_logosoft_web_editor/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4yp0f",
@@ -23,7 +34,7 @@
       "author": "HanuxHemant",
       "url": "https://www.reddit.com/r/automation/comments/1y4yp0f/starting_from_zero_in_ai_automation_looking_for/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4rfno",
@@ -51,8 +62,8 @@
       "id": "1y4n0cp",
       "created_utc": 1795550070,
       "title": "We're looking for 10 automation agencies to pilot RelayPane.",
-      "score": 3,
-      "num_comments": 3,
+      "score": 5,
+      "num_comments": 6,
       "author": "Cylon_Model-6",
       "url": "https://www.reddit.com/r/automation/comments/1y4n0cp/were_looking_for_10_automation_agencies_to_pilot/",
       "body": " If you build automations for clients in n8n, Make, Activepieces or Windmill, you know the problem: clients only hear from you when something breaks. When the retainer comes up for renewal, there's nothing to show for the quiet months. RelayPane pulls run history from every client's platform into one dashboard. It flags failed or missed workflows by email, Slack, Teams or webhook. Each month it produces a report in your logo and colors that shows clients the work. Anything that can send a web request, like Zapier or GoHighLevel, can report in too. The pilot is free for 90 days, for up to 15 cl",
@@ -62,8 +73,8 @@
       "id": "1y4jnq2",
       "created_utc": 1795542263,
       "title": "When another person's agent asks yours for something, what should yours be allowed to answer on its own?",
-      "score": 3,
-      "num_comments": 9,
+      "score": 5,
+      "num_comments": 12,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y4jnq2/when_another_persons_agent_asks_yours_for/",
       "body": "Most of the talk about agent permissions is about what your agent can do for you: send, buy, delete, ask your approval first. Imagine the other direction. Someone else's agent contacts yours: a coworker's, a client's, a partner's. Something like \"are you free Thursday?\", \"what's the status of that invoice?\" or \"can you send me the latest draft?\" Some of those look harmless to answer automatically. Some clearly shouldn't be. The line probably isn't in the same place for everyone, and I don't have a settled view on where it goes. I'm curious how people think about it, especially anyone already l",
@@ -85,7 +96,7 @@
       "created_utc": 1795484023,
       "title": "How would you organize and semi-automate client replies in a partner portal? (Law firm \u2194\ufe0f consulting company, ~90 unread messages)",
       "score": 2,
-      "num_comments": 26,
+      "num_comments": 29,
       "author": "Special_Donkey_1244",
       "url": "https://www.reddit.com/r/automation/comments/1y40edc/how_would_you_organize_and_semiautomate_client/",
       "body": "",
@@ -243,39 +254,6 @@
       "author": "aivanelabs",
       "url": "https://www.reddit.com/r/automation/comments/1y1k735/whats_one_tedious_but_valuable_task_you_wish_you/",
       "body": "I've become a little obsessed with automation. Everything from renewing certificates and testing my software to monitoring competitors and finding potential customers. Some are tiny time-savers. Others run in the background every day and handle things I used to spend hours on. The biggest difference? I spend much less time on repetitive work and more time on things that actually matter. I'm getting more done now with a smaller team than I had before. At this point, figuring out how to automate things has almost become a hobby. So I've been thinking: what if I turn this into my next project? Bu",
-      "new": false
-    },
-    {
-      "id": "1y1imfi",
-      "created_utc": 1795218832,
-      "title": "Title: Looking for an aspiring automation builder to co-build a workflow (Free portfolio case study!)",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Ordinary-Economy3039",
-      "url": "https://www.reddit.com/r/automation/comments/1y1imfi/title_looking_for_an_aspiring_automation_builder/",
-      "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1y1g0jm",
-      "created_utc": 1795211788,
-      "title": "What are some good Fyxer alternatives for automating emails and follow-ups?",
-      "score": 3,
-      "num_comments": 8,
-      "author": "Tyler-Evans34",
-      "url": "https://www.reddit.com/r/automation/comments/1y1g0jm/what_are_some_good_fyxer_alternatives_for/",
-      "body": "I've been looking into AI tools to help manage emails and turn them into actual tasks, but I'm realizing a lot of them into actual tasks, but I'm realizing a lot of them still need quiet a bit of manual work Fyxer seems useful for inbox management, but I'm curious about alternatives that can handle more of the workflow. I've come across tools like Shortwave, Superhuman , and Lindy. From what I understand, some focus more on organizing emails, while others are geared toward automating follow-ups and repetitive tasks. Ideally, I'm looking for something that can: Sort and prioritize important ema",
-      "new": false
-    },
-    {
-      "id": "1y1dc2e",
-      "created_utc": 1795204990,
-      "title": "Could AI help with the boring parts of living together?",
-      "score": 1,
-      "num_comments": 2,
-      "author": "FulcraDynamics",
-      "url": "https://www.reddit.com/r/automation/comments/1y1dc2e/could_ai_help_with_the_boring_parts_of_living/",
-      "body": "iving with someone means keeping track of a lot of small things. Who paid the electricity bill? Are we out of groceries? Did someone book the vet appointment? None of it is hard. It\u2019s just a lot of remembering and double-checking, and it tends to turn into \u201cwait, did you already do that?\u201d more often than anyone would like. Now imagine you each have your own AI assistant. Yours knows the electricity bill is paid. Your partner\u2019s knows the vet appointment still isn\u2019t booked. Instead of adding one more shared app to keep updated, the two could sort out who has done what, sharing only what the othe",
       "new": false
     }
   ],
