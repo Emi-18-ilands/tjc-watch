@@ -1,8 +1,52 @@
 {
-  "checked_at": "2026-11-24T17:29:44.370242+00:00",
+  "checked_at": "2026-11-25T01:33:13.559431+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y4rfno",
+      "created_utc": 1795560883,
+      "title": "Hello everyone asking for advice",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Stock-Aide1807",
+      "url": "https://www.reddit.com/r/automation/comments/1y4rfno/hello_everyone_asking_for_advice/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1y4o3w0",
+      "created_utc": 1795552619,
+      "title": "Which AI workflow builders are actually reliable without constant debugging?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Spiritual_War3334",
+      "url": "https://www.reddit.com/r/automation/comments/1y4o3w0/which_ai_workflow_builders_are_actually_reliable/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1y4n0cp",
+      "created_utc": 1795550070,
+      "title": "We're looking for 10 automation agencies to pilot RelayPane.",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Cylon_Model-6",
+      "url": "https://www.reddit.com/r/automation/comments/1y4n0cp/were_looking_for_10_automation_agencies_to_pilot/",
+      "body": " If you build automations for clients in n8n, Make, Activepieces or Windmill, you know the problem: clients only hear from you when something breaks. When the retainer comes up for renewal, there's nothing to show for the quiet months. RelayPane pulls run history from every client's platform into one dashboard. It flags failed or missed workflows by email, Slack, Teams or webhook. Each month it produces a report in your logo and colors that shows clients the work. Anything that can send a web request, like Zapier or GoHighLevel, can report in too. The pilot is free for 90 days, for up to 15 cl",
+      "new": true
+    },
+    {
+      "id": "1y4jnq2",
+      "created_utc": 1795542263,
+      "title": "When another person's agent asks yours for something, what should yours be allowed to answer on its own?",
+      "score": 1,
+      "num_comments": 6,
+      "author": "FulcraDynamics",
+      "url": "https://www.reddit.com/r/automation/comments/1y4jnq2/when_another_persons_agent_asks_yours_for/",
+      "body": "Most of the talk about agent permissions is about what your agent can do for you: send, buy, delete, ask your approval first. Imagine the other direction. Someone else's agent contacts yours: a coworker's, a client's, a partner's. Something like \"are you free Thursday?\", \"what's the status of that invoice?\" or \"can you send me the latest draft?\" Some of those look harmless to answer automatically. Some clearly shouldn't be. The line probably isn't in the same place for everyone, and I don't have a settled view on where it goes. I'm curious how people think about it, especially anyone already l",
+      "new": true
+    },
     {
       "id": "1y4h5fb",
       "created_utc": 1795536489,
@@ -12,7 +56,7 @@
       "author": "falgun_jadhav",
       "url": "https://www.reddit.com/r/automation/comments/1y4h5fb/futureproofing_gtm_engineering_what_are_you/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y40edc",
@@ -52,7 +96,7 @@
       "created_utc": 1795419947,
       "title": "Which API gateway is best for pulling life social media and company data into automated work flows?",
       "score": 7,
-      "num_comments": 13,
+      "num_comments": 15,
       "author": "Secure-Specialist-62",
       "url": "https://www.reddit.com/r/automation/comments/1y3ceo8/which_api_gateway_is_best_for_pulling_life_social/",
       "body": "Tired of waking up on Monday to broken headless browser notes every time a platform to eggs its layout or throws upper captcha.I want to replace those British creeping steps in our schedule workflows with structured API calls for public social post and basic domain info.Game across Monet while looking for a single API layer so I doyhabe to maintain four different providers, though I'm not sure how consistent the data is on smaller sites.What are you guys using in your automations that actually stays up week after week?",
@@ -62,8 +106,8 @@
       "id": "1y3a8dw",
       "created_utc": 1795412068,
       "title": "The webhook that fired twice: how do you make an automation safe to run again?",
-      "score": 3,
-      "num_comments": 22,
+      "score": 4,
+      "num_comments": 42,
       "author": "tariqosmani",
       "url": "https://www.reddit.com/r/automation/comments/1y3a8dw/the_webhook_that_fired_twice_how_do_you_make_an/",
       "body": "One webhook fired twice, and one event sent two invoices. Senders retry all the time, so a duplicate isn't a bug. It's a certainty. Now I build every automation to survive it. Three rules: 1. A unique key per event. Take the event ID from the payload and store it with a unique constraint. If there's no ID, build one from the fields that identify the event. 2. Claim the row before you process it. Insert it with a status of \"processing\" first, do the work, then flip it to \"done\". The second delivery finds the row already claimed and stops. 3. Cheap actions run alone. Anything that changes money ",
@@ -220,28 +264,6 @@
       "num_comments": 7,
       "author": "ProbablyDoesntLikeU",
       "url": "https://www.reddit.com/r/automation/comments/1y0ga0o/what_do_you_guys_use_for_outbound_b2b_cold/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1y0ban8",
-      "created_utc": 1795099986,
-      "title": "Power Automate/PowerBi Help",
-      "score": 6,
-      "num_comments": 19,
-      "author": "bwattstl",
-      "url": "https://www.reddit.com/r/automation/comments/1y0ban8/power_automatepowerbi_help/",
-      "body": "Hello, I am trying to automate sending weekly emails for past due invoices to our clients. The portfolio consists of about 90 clients who have invoices past due. Our aging and invoice data is kept in PowerBi. I only have a free version. I have ZERO knowledge of automating and am looking for help on how to create a flow in Power Automate that triggers on a set day each week to pull excel aging documents from PowerBi for clients that have invoices over 90 days old. Once it has found that data, I\u2019d like it to create a separate excel document for each unique client name, attach that to an email wi",
-      "new": false
-    },
-    {
-      "id": "1xzvnun",
-      "created_utc": 1795048396,
-      "title": "What is really happening in America: Cyber Attacks, delays, and overall instability? Can anybody figure it out?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "MondoInDenver",
-      "url": "https://www.reddit.com/r/automation/comments/1xzvnun/what_is_really_happening_in_america_cyber_attacks/",
       "body": "",
       "new": false
     }
