@@ -1,8 +1,30 @@
 {
-  "checked_at": "2026-11-25T01:33:13.559431+00:00",
+  "checked_at": "2026-11-25T10:23:51.331015+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y531ya",
+      "created_utc": 1795598619,
+      "title": "Help! How to download logo!soft web editor",
+      "score": 1,
+      "num_comments": 1,
+      "author": "wybombisko",
+      "url": "https://www.reddit.com/r/automation/comments/1y531ya/help_how_to_download_logosoft_web_editor/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
+      "id": "1y4yp0f",
+      "created_utc": 1795582566,
+      "title": "Starting from zero in AI automation \u2014 looking for practical guidance from people who have already put in the time",
+      "score": 1,
+      "num_comments": 1,
+      "author": "HanuxHemant",
+      "url": "https://www.reddit.com/r/automation/comments/1y4yp0f/starting_from_zero_in_ai_automation_looking_for/",
+      "body": "[removed]",
+      "new": true
+    },
     {
       "id": "1y4rfno",
       "created_utc": 1795560883,
@@ -12,7 +34,7 @@
       "author": "Stock-Aide1807",
       "url": "https://www.reddit.com/r/automation/comments/1y4rfno/hello_everyone_asking_for_advice/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4o3w0",
@@ -23,29 +45,29 @@
       "author": "Spiritual_War3334",
       "url": "https://www.reddit.com/r/automation/comments/1y4o3w0/which_ai_workflow_builders_are_actually_reliable/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4n0cp",
       "created_utc": 1795550070,
       "title": "We're looking for 10 automation agencies to pilot RelayPane.",
-      "score": 1,
-      "num_comments": 1,
+      "score": 3,
+      "num_comments": 3,
       "author": "Cylon_Model-6",
       "url": "https://www.reddit.com/r/automation/comments/1y4n0cp/were_looking_for_10_automation_agencies_to_pilot/",
       "body": " If you build automations for clients in n8n, Make, Activepieces or Windmill, you know the problem: clients only hear from you when something breaks. When the retainer comes up for renewal, there's nothing to show for the quiet months. RelayPane pulls run history from every client's platform into one dashboard. It flags failed or missed workflows by email, Slack, Teams or webhook. Each month it produces a report in your logo and colors that shows clients the work. Anything that can send a web request, like Zapier or GoHighLevel, can report in too. The pilot is free for 90 days, for up to 15 cl",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4jnq2",
       "created_utc": 1795542263,
       "title": "When another person's agent asks yours for something, what should yours be allowed to answer on its own?",
-      "score": 1,
-      "num_comments": 6,
+      "score": 3,
+      "num_comments": 9,
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y4jnq2/when_another_persons_agent_asks_yours_for/",
       "body": "Most of the talk about agent permissions is about what your agent can do for you: send, buy, delete, ask your approval first. Imagine the other direction. Someone else's agent contacts yours: a coworker's, a client's, a partner's. Something like \"are you free Thursday?\", \"what's the status of that invoice?\" or \"can you send me the latest draft?\" Some of those look harmless to answer automatically. Some clearly shouldn't be. The line probably isn't in the same place for everyone, and I don't have a settled view on where it goes. I'm curious how people think about it, especially anyone already l",
-      "new": true
+      "new": false
     },
     {
       "id": "1y4h5fb",
@@ -63,7 +85,7 @@
       "created_utc": 1795484023,
       "title": "How would you organize and semi-automate client replies in a partner portal? (Law firm \u2194\ufe0f consulting company, ~90 unread messages)",
       "score": 2,
-      "num_comments": 19,
+      "num_comments": 26,
       "author": "Special_Donkey_1244",
       "url": "https://www.reddit.com/r/automation/comments/1y40edc/how_would_you_organize_and_semiautomate_client/",
       "body": "",
@@ -139,8 +161,8 @@
       "id": "1y2tjnv",
       "created_utc": 1795365470,
       "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
-      "score": 6,
-      "num_comments": 12,
+      "score": 9,
+      "num_comments": 15,
       "author": "Downtown_Pudding9728",
       "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
       "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
@@ -254,17 +276,6 @@
       "author": "FulcraDynamics",
       "url": "https://www.reddit.com/r/automation/comments/1y1dc2e/could_ai_help_with_the_boring_parts_of_living/",
       "body": "iving with someone means keeping track of a lot of small things. Who paid the electricity bill? Are we out of groceries? Did someone book the vet appointment? None of it is hard. It\u2019s just a lot of remembering and double-checking, and it tends to turn into \u201cwait, did you already do that?\u201d more often than anyone would like. Now imagine you each have your own AI assistant. Yours knows the electricity bill is paid. Your partner\u2019s knows the vet appointment still isn\u2019t booked. Instead of adding one more shared app to keep updated, the two could sort out who has done what, sharing only what the othe",
-      "new": false
-    },
-    {
-      "id": "1y0ga0o",
-      "created_utc": 1795111478,
-      "title": "What do you guys use for outbound B2B cold calling? Gemini + Openclaw?",
-      "score": 1,
-      "num_comments": 7,
-      "author": "ProbablyDoesntLikeU",
-      "url": "https://www.reddit.com/r/automation/comments/1y0ga0o/what_do_you_guys_use_for_outbound_b2b_cold/",
-      "body": "",
       "new": false
     }
   ],
