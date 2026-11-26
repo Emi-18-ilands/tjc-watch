@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-26T12:14:13.158542+00:00",
+  "checked_at": "2026-11-26T21:52:10.050280+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y68r5m",
+      "created_utc": 1795719023,
+      "title": "Is anybody going to be using their chatbots to help them Christmas shop on Cyber Monday?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Own_Thought902",
+      "url": "https://www.reddit.com/r/automation/comments/1y68r5m/is_anybody_going_to_be_using_their_chatbots_to/",
+      "body": "",
+      "new": true
+    },
     {
       "id": "1y5r34a",
       "created_utc": 1795664702,
@@ -12,7 +23,7 @@
       "author": "Zealousideal-Skill18",
       "url": "https://www.reddit.com/r/automation/comments/1y5r34a/we_will_help_to_automate_to_f5_ltm_everything_is/",
       "body": "[removed]",
-      "new": true
+      "new": false
     },
     {
       "id": "1y5b44d",
@@ -199,39 +210,6 @@
       "author": "easybits_ai",
       "url": "https://www.reddit.com/r/automation/comments/1y2sat3/rambrandt_or_how_much_memory_do_i_actually_need/",
       "body": "\ud83d\udc4b Hey automation Community, RAM has somehow become the only laptop spec anyone talks about. Every thread about buying a machine turns into the same debate within three comments, especially once running models locally comes up. Someone in the office caught me deep in another one of those threads and started calling me RAMbrandt, so here we are. Anyway, I am actually buying one. Mostly normal work, but I also want to experiment with running smaller models locally rather than always hitting an API. 32 GB feels like the sensible answer. But I keep reading that 64 is where it stops being annoying, ",
-      "new": false
-    },
-    {
-      "id": "1y2irgu",
-      "created_utc": 1795329868,
-      "title": "How do you test an automation before trusting it with real data?",
-      "score": 6,
-      "num_comments": 33,
-      "author": "ibrahim_40",
-      "url": "https://www.reddit.com/r/automation/comments/1y2irgu/how_do_you_test_an_automation_before_trusting_it/",
-      "body": "My process ensures that no unwanted updates have been made to customer records. After one initial run which accidentally updated some fields in error, I now ensure that everything runs on a copy of the data. Describe the testing procedures within your process. What caused you to introduce testing into your process?",
-      "new": false
-    },
-    {
-      "id": "1y29nfr",
-      "created_utc": 1795301004,
-      "title": "Helped a GC replace an assistant they couldn't keep with an AI setup",
-      "score": 1,
-      "num_comments": 7,
-      "author": "jesseweimer",
-      "url": "https://www.reddit.com/r/automation/comments/1y29nfr/helped_a_gc_replace_an_assistant_they_couldnt/",
-      "body": "",
-      "new": false
-    },
-    {
-      "id": "1y28r16",
-      "created_utc": 1795298448,
-      "title": "A photoshoot gets rescheduled twice\u2014how do you prevent the wrong reminder?",
-      "score": 1,
-      "num_comments": 1,
-      "author": "Far-Mammoth-1593",
-      "url": "https://www.reddit.com/r/automation/comments/1y28r16/a_photoshoot_gets_rescheduled_twicehow_do_you/",
-      "body": "[removed]",
       "new": false
     }
   ],
