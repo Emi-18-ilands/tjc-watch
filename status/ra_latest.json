@@ -1,18 +1,29 @@
 {
-  "checked_at": "2026-11-27T04:06:07.656968+00:00",
+  "checked_at": "2026-11-27T13:46:15.145357+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
     {
+      "id": "1y6kmvw",
+      "created_utc": 1795755406,
+      "title": "Really need some help finding a remote job right now",
+      "score": 1,
+      "num_comments": 1,
+      "author": "DragonfruitSlight377",
+      "url": "https://www.reddit.com/r/automation/comments/1y6kmvw/really_need_some_help_finding_a_remote_job_right/",
+      "body": "[removed]",
+      "new": true
+    },
+    {
       "id": "1y6d1sv",
       "created_utc": 1795730831,
       "title": "Anyone found a more affordable alternative to Zappier?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 5,
+      "num_comments": 20,
       "author": "Daniel_Mitchell24",
       "url": "https://www.reddit.com/r/automation/comments/1y6d1sv/anyone_found_a_more_affordable_alternative_to/",
       "body": "Zappier costs can add up pretty quickly, especially when you're running multiple workflows. I've been looking at Make, n8n, and Wrk, as well as Zite for workflows that involve froms and internal apps. Anyone switched to a different setup and found it more cost effective without sacrificing reliability? Would love to hear what you're using and any drawbacks you've noticed ",
-      "new": true
+      "new": false
     },
     {
       "id": "1y68r5m",
@@ -199,17 +210,6 @@
       "author": "Careful_Hedgehog_502",
       "url": "https://www.reddit.com/r/automation/comments/1y36bl0/my_n8n_flow_breaks_at_the_voice_step_so_how_do_i/",
       "body": "[removed]",
-      "new": false
-    },
-    {
-      "id": "1y2tjnv",
-      "created_utc": 1795365470,
-      "title": "Which parts of LinkedIn outreach should you automate, and which should stay manual?",
-      "score": 9,
-      "num_comments": 15,
-      "author": "Downtown_Pudding9728",
-      "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
-      "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
       "new": false
     }
   ],
