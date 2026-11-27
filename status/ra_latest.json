@@ -1,8 +1,19 @@
 {
-  "checked_at": "2026-11-26T21:52:10.050280+00:00",
+  "checked_at": "2026-11-27T04:06:07.656968+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
+    {
+      "id": "1y6d1sv",
+      "created_utc": 1795730831,
+      "title": "Anyone found a more affordable alternative to Zappier?",
+      "score": 1,
+      "num_comments": 1,
+      "author": "Daniel_Mitchell24",
+      "url": "https://www.reddit.com/r/automation/comments/1y6d1sv/anyone_found_a_more_affordable_alternative_to/",
+      "body": "Zappier costs can add up pretty quickly, especially when you're running multiple workflows. I've been looking at Make, n8n, and Wrk, as well as Zite for workflows that involve froms and internal apps. Anyone switched to a different setup and found it more cost effective without sacrificing reliability? Would love to hear what you're using and any drawbacks you've noticed ",
+      "new": true
+    },
     {
       "id": "1y68r5m",
       "created_utc": 1795719023,
@@ -12,7 +23,7 @@
       "author": "Own_Thought902",
       "url": "https://www.reddit.com/r/automation/comments/1y68r5m/is_anybody_going_to_be_using_their_chatbots_to/",
       "body": "",
-      "new": true
+      "new": false
     },
     {
       "id": "1y5r34a",
@@ -199,17 +210,6 @@
       "author": "Downtown_Pudding9728",
       "url": "https://www.reddit.com/r/automation/comments/1y2tjnv/which_parts_of_linkedin_outreach_should_you/",
       "body": "Short answer from someone who spends most days on this: automate the repetitive finding and sending, and keep the judgement and the conversations human. What I think is safe and sensible to automate: - **Finding people with a reason to talk now.** Buying signals like a new role, a company hiring for the job you help with, or someone commenting on a post in your niche are tedious to spot by hand and easy for software to watch. - **Connection requests and follow-ups at safe daily limits.** The value here is consistency. A steady handful every weekday tends to beat a big burst on Monday and nothi",
-      "new": false
-    },
-    {
-      "id": "1y2sat3",
-      "created_utc": 1795362300,
-      "title": "RAMbrandt, or: how much memory do I actually need to run models locally?",
-      "score": 1,
-      "num_comments": 5,
-      "author": "easybits_ai",
-      "url": "https://www.reddit.com/r/automation/comments/1y2sat3/rambrandt_or_how_much_memory_do_i_actually_need/",
-      "body": "\ud83d\udc4b Hey automation Community, RAM has somehow become the only laptop spec anyone talks about. Every thread about buying a machine turns into the same debate within three comments, especially once running models locally comes up. Someone in the office caught me deep in another one of those threads and started calling me RAMbrandt, so here we are. Anyway, I am actually buying one. Mostly normal work, but I also want to experiment with running smaller models locally rather than always hitting an API. 32 GB feels like the sensible answer. But I keep reading that 64 is where it stops being annoying, ",
       "new": false
     }
   ],
