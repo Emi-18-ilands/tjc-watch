@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T22:38:00.797400+00:00",
+  "checked_at": "2026-11-28T04:40:58.930687+00:00",
   "subreddit": "automation",
   "ok": true,
   "requests": [
@@ -7,23 +7,23 @@
       "id": "1y751uu",
       "created_utc": 1795816155,
       "title": "Most efficient way to find leads with unconventional criteria?",
-      "score": 1,
-      "num_comments": 1,
+      "score": 2,
+      "num_comments": 7,
       "author": "iamlouieVV",
       "url": "https://www.reddit.com/r/automation/comments/1y751uu/most_efficient_way_to_find_leads_with/",
       "body": "I've done my fair share of lead generation, but I've yet to find a process that I'm particularly happy with. Ideally, I'd like to be able to input a set of very specific criteria and get an accurate, verifiable list of businesses that actually meet them, as quickly and inexpensively as possible. For reference, I'm looking for businesses that: 1. Are independently owned and based in the US. 2. Have anywhere between 2 and 25 team members. 3. Operate within specific professional industries. 4. Have an existing blog with preferably 3\u201330 articles. 5. Have published at least one article within the l",
-      "new": true
+      "new": false
     },
     {
       "id": "1y6y1wx",
       "created_utc": 1795798449,
       "title": "How do u replay a finished workflow without it sending the message twice?",
       "score": 2,
-      "num_comments": 7,
+      "num_comments": 11,
       "author": "Common_Dream9420",
       "url": "https://www.reddit.com/r/automation/comments/1y6y1wx/how_do_u_replay_a_finished_workflow_without_it/",
       "body": "I'm building FetchSandbox and I'm looking for one builder to try it as a design partner on one synthetic case. If u already have tests that's fine too. U pick the rule, like a replayed workflow shouldn't send another message. We'd start through MCP, and if something else would fit better with ur existing tests just tell me. What's the one rule u'd want checked first?",
-      "new": true
+      "new": false
     },
     {
       "id": "1y6kmvw",
